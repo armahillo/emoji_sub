@@ -1,5 +1,5 @@
 require "emoji_sub/version"
-require 'YAML'
+require 'yaml'
 
 module EmojiSub
   EMOJI_MAPPING_YAML = "data/emoji.yaml"
