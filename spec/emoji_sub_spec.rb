@@ -10,7 +10,7 @@ RSpec.describe EmojiSub do
       let(:text) { 'This is testing text :100:. It is great :slightly_smiling_face:.' }
 
       it "replaces the shortcodes with their corresponding unicode" do
-        expect(subject).to eq('This is testing text :100: :a_nonexistent_emoji: It is great :slightly_smiling_face:.')
+        expect(subject).to eq('This is testing text &#x1F4AF. It is great &#x1F642.')
       end
     end
 
@@ -18,15 +18,15 @@ RSpec.describe EmojiSub do
       let(:text) { 'This is testing text :100: :100: :100:. It is great :slightly_smiling_face:.' }
 
       it "replaces the shortcodes with their corresponding unicode" do
-        expect(subject).to eq('This is testing text :100: :a_nonexistent_emoji: It is great :slightly_smiling_face:.')
+        expect(subject).to eq('This is testing text &#x1F4AF &#x1F4AF &#x1F4AF. It is great &#x1F642.')
       end
     end
 
     context "with shortcodes that aren't recognized" do
-      let(:text) { 'This is testing text :100: :a_nonexistent_emoji: It is great :slightly_smiling_face:.' }
+      let(:text) { 'This is testing text :100: :a_nonexistent_emoji:. It is great :slightly_smiling_face:.' }
 
       it "leaves the shortcodes intact" do
-        expect(subject).to eq('This is testing text :100: :a_nonexistent_emoji: It is great :slightly_smiling_face:.')
+        expect(subject).to eq('This is testing text &#x1F4AF :a_nonexistent_emoji:. It is great &#x1F642.')
       end
     end
   end
