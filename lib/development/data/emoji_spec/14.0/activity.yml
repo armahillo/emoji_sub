@@ -1,0 +1,865 @@
+---
+"\U0001F574 Person in Suit Levitating":
+  :url: https://emojipedia.org/person-in-suit-levitating/
+  :unicode:
+  - U+1F574
+  - U+FE0F
+  :shortcodes:
+  - ":business_suit_levitating:"
+  - ":person_in_suit_levitating:"
+  - ":man_in_business_suit_levitating:"
+"\U0001F9D7 Person Climbing":
+  :url: https://emojipedia.org/person-climbing/
+  :unicode:
+  - U+1F9D7
+  :shortcodes:
+  - ":person_climbing:"
+  - ":climbing:"
+"\U0001F9D7‍♂️ Man Climbing":
+  :url: https://emojipedia.org/man-climbing/
+  :unicode:
+  - U+1F9D7
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_climbing:"
+  - ":climbing_man:"
+"\U0001F9D7‍♀️ Woman Climbing":
+  :url: https://emojipedia.org/woman-climbing/
+  :unicode:
+  - U+1F9D7
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":woman_climbing:"
+  - ":climbing_woman:"
+"\U0001F93A Person Fencing":
+  :url: https://emojipedia.org/person-fencing/
+  :unicode:
+  - U+1F93A
+  :shortcodes:
+  - ":person_fencing:"
+  - ":fencer:"
+"\U0001F3C7 Horse Racing":
+  :url: https://emojipedia.org/horse-racing/
+  :unicode:
+  - U+1F3C7
+  :shortcodes:
+  - ":horse_racing:"
+"⛷ Skier":
+  :url: https://emojipedia.org/skier/
+  :unicode:
+  - U+26F7
+  - U+FE0F
+  :shortcodes:
+  - ":skier:"
+"\U0001F3C2 Snowboarder":
+  :url: https://emojipedia.org/snowboarder/
+  :unicode:
+  - U+1F3C2
+  :shortcodes:
+  - ":snowboarder:"
+"\U0001F3CC Person Golfing":
+  :url: https://emojipedia.org/person-golfing/
+  :unicode:
+  - U+1F3CC
+  - U+FE0F
+  :shortcodes:
+  - ":golfer:"
+  - ":golfing:"
+  - ":person_golfing:"
+"\U0001F3CC️‍♂️ Man Golfing":
+  :url: https://emojipedia.org/man-golfing/
+  :unicode:
+  - U+1F3CC
+  - U+FE0F
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":golfing_man:"
+  - ":man_golfing:"
+  - ":man-golfing:"
+"\U0001F3CC️‍♀️ Woman Golfing":
+  :url: https://emojipedia.org/woman-golfing/
+  :unicode:
+  - U+1F3CC
+  - U+FE0F
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":golfing_woman:"
+  - ":woman_golfing:"
+  - ":woman-golfing:"
+"\U0001F3C4 Person Surfing":
+  :url: https://emojipedia.org/person-surfing/
+  :unicode:
+  - U+1F3C4
+  :shortcodes:
+  - ":surfer:"
+  - ":person_surfing:"
+"\U0001F3C4‍♂️ Man Surfing":
+  :url: https://emojipedia.org/man-surfing/
+  :unicode:
+  - U+1F3C4
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_surfing:"
+  - ":man-surfing:"
+  - ":surfing_man:"
+"\U0001F3C4‍♀️ Woman Surfing":
+  :url: https://emojipedia.org/woman-surfing/
+  :unicode:
+  - U+1F3C4
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":surfing_woman:"
+  - ":woman_surfing:"
+  - ":woman-surfing:"
+"\U0001F6A3 Person Rowing Boat":
+  :url: https://emojipedia.org/person-rowing-boat/
+  :unicode:
+  - U+1F6A3
+  :shortcodes:
+  - ":rowboat:"
+  - ":person_rowing_boat:"
+"\U0001F6A3‍♂️ Man Rowing Boat":
+  :url: https://emojipedia.org/man-rowing-boat/
+  :unicode:
+  - U+1F6A3
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":rowing_man:"
+  - ":man_rowing_boat:"
+  - ":man-rowing-boat:"
+"\U0001F6A3‍♀️ Woman Rowing Boat":
+  :url: https://emojipedia.org/woman-rowing-boat/
+  :unicode:
+  - U+1F6A3
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":rowing_woman:"
+  - ":woman_rowing_boat:"
+  - ":woman-rowing-boat:"
+"\U0001F3CA Person Swimming":
+  :url: https://emojipedia.org/person-swimming/
+  :unicode:
+  - U+1F3CA
+  :shortcodes:
+  - ":swimmer:"
+  - ":person_swimming:"
+"\U0001F3CA‍♂️ Man Swimming":
+  :url: https://emojipedia.org/man-swimming/
+  :unicode:
+  - U+1F3CA
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_swimming:"
+  - ":man-swimming:"
+  - ":swimming_man:"
+"\U0001F3CA‍♀️ Woman Swimming":
+  :url: https://emojipedia.org/woman-swimming/
+  :unicode:
+  - U+1F3CA
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":swimming_woman:"
+  - ":woman_swimming:"
+  - ":woman-swimming:"
+"⛹ Person Bouncing Ball":
+  :url: https://emojipedia.org/person-bouncing-ball/
+  :unicode:
+  - U+26F9
+  - U+FE0F
+  :shortcodes:
+  - ":person_with_ball:"
+  - ":bouncing_ball_person:"
+  - ":person_bouncing_ball:"
+"⛹️‍♂️ Man Bouncing Ball":
+  :url: https://emojipedia.org/man-bouncing-ball/
+  :unicode:
+  - U+26F9
+  - U+FE0F
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":basketball_man:"
+  - ":bouncing_ball_man:"
+  - ":man_bouncing_ball:"
+  - ":man-bouncing-ball:"
+"⛹️‍♀️ Woman Bouncing Ball":
+  :url: https://emojipedia.org/woman-bouncing-ball/
+  :unicode:
+  - U+26F9
+  - U+FE0F
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":basketball_woman:"
+  - ":bouncing_ball_woman:"
+  - ":woman_bouncing_ball:"
+  - ":woman-bouncing-ball:"
+"\U0001F3CB Person Lifting Weights":
+  :url: https://emojipedia.org/person-lifting-weights/
+  :unicode:
+  - U+1F3CB
+  - U+FE0F
+  :shortcodes:
+  - ":weight_lifter:"
+  - ":weight_lifting:"
+  - ":person_lifting_weights:"
+"\U0001F3CB️‍♂️ Man Lifting Weights":
+  :url: https://emojipedia.org/man-lifting-weights/
+  :unicode:
+  - U+1F3CB
+  - U+FE0F
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":weight_lifting_man:"
+  - ":man_lifting_weights:"
+  - ":man-lifting-weights:"
+"\U0001F3CB️‍♀️ Woman Lifting Weights":
+  :url: https://emojipedia.org/woman-lifting-weights/
+  :unicode:
+  - U+1F3CB
+  - U+FE0F
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":weight_lifting_woman:"
+  - ":woman_lifting_weights:"
+  - ":woman-lifting-weights:"
+"\U0001F6B4 Person Biking":
+  :url: https://emojipedia.org/person-biking/
+  :unicode:
+  - U+1F6B4
+  :shortcodes:
+  - ":bicyclist:"
+  - ":person_biking:"
+"\U0001F6B4‍♂️ Man Biking":
+  :url: https://emojipedia.org/man-biking/
+  :unicode:
+  - U+1F6B4
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":biking_man:"
+  - ":man_biking:"
+  - ":man-biking:"
+"\U0001F6B4‍♀️ Woman Biking":
+  :url: https://emojipedia.org/woman-biking/
+  :unicode:
+  - U+1F6B4
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":biking_woman:"
+  - ":woman_biking:"
+  - ":woman-biking:"
+"\U0001F6B5 Person Mountain Biking":
+  :url: https://emojipedia.org/person-mountain-biking/
+  :unicode:
+  - U+1F6B5
+  :shortcodes:
+  - ":mountain_bicyclist:"
+  - ":person_mountain_biking:"
+"\U0001F6B5‍♂️ Man Mountain Biking":
+  :url: https://emojipedia.org/man-mountain-biking/
+  :unicode:
+  - U+1F6B5
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_mountain_biking:"
+  - ":man-mountain-biking:"
+  - ":mountain_biking_man:"
+"\U0001F6B5‍♀️ Woman Mountain Biking":
+  :url: https://emojipedia.org/woman-mountain-biking/
+  :unicode:
+  - U+1F6B5
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":mountain_biking_woman:"
+  - ":woman_mountain_biking:"
+  - ":woman-mountain-biking:"
+"\U0001F938 Person Cartwheeling":
+  :url: https://emojipedia.org/person-cartwheeling/
+  :unicode:
+  - U+1F938
+  :shortcodes:
+  - ":cartwheeling:"
+  - ":person_cartwheeling:"
+  - ":person_doing_cartwheel:"
+"\U0001F938‍♂️ Man Cartwheeling":
+  :url: https://emojipedia.org/man-cartwheeling/
+  :unicode:
+  - U+1F938
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_cartwheeling:"
+  - ":man-cartwheeling:"
+"\U0001F938‍♀️ Woman Cartwheeling":
+  :url: https://emojipedia.org/woman-cartwheeling/
+  :unicode:
+  - U+1F938
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":woman_cartwheeling:"
+  - ":woman-cartwheeling:"
+"\U0001F93C People Wrestling":
+  :url: https://emojipedia.org/people-wrestling/
+  :unicode:
+  - U+1F93C
+  :shortcodes:
+  - ":wrestlers:"
+  - ":wrestling:"
+  - ":people_wrestling:"
+"\U0001F93C‍♂️ Men Wrestling":
+  :url: https://emojipedia.org/men-wrestling/
+  :unicode:
+  - U+1F93C
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":men_wrestling:"
+  - ":man-wrestling:"
+"\U0001F93C‍♀️ Women Wrestling":
+  :url: https://emojipedia.org/women-wrestling/
+  :unicode:
+  - U+1F93C
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":women_wrestling:"
+  - ":woman-wrestling:"
+"\U0001F93D Person Playing Water Polo":
+  :url: https://emojipedia.org/person-playing-water-polo/
+  :unicode:
+  - U+1F93D
+  :shortcodes:
+  - ":water_polo:"
+  - ":person_playing_water_polo:"
+"\U0001F93D‍♂️ Man Playing Water Polo":
+  :url: https://emojipedia.org/man-playing-water-polo/
+  :unicode:
+  - U+1F93D
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_playing_water_polo:"
+  - ":man-playing-water-polo:"
+"\U0001F93D‍♀️ Woman Playing Water Polo":
+  :url: https://emojipedia.org/woman-playing-water-polo/
+  :unicode:
+  - U+1F93D
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":woman_playing_water_polo:"
+  - ":woman-playing-water-polo:"
+"\U0001F93E Person Playing Handball":
+  :url: https://emojipedia.org/person-playing-handball/
+  :unicode:
+  - U+1F93E
+  :shortcodes:
+  - ":handball:"
+  - ":handball_person:"
+  - ":person_playing_handball:"
+"\U0001F93E‍♂️ Man Playing Handball":
+  :url: https://emojipedia.org/man-playing-handball/
+  :unicode:
+  - U+1F93E
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_playing_handball:"
+  - ":man-playing-handball:"
+"\U0001F93E‍♀️ Woman Playing Handball":
+  :url: https://emojipedia.org/woman-playing-handball/
+  :unicode:
+  - U+1F93E
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":woman_playing_handball:"
+  - ":woman-playing-handball:"
+"\U0001F939 Person Juggling":
+  :url: https://emojipedia.org/person-juggling/
+  :unicode:
+  - U+1F939
+  :shortcodes:
+  - ":juggling:"
+  - ":juggling_person:"
+  - ":person_juggling:"
+"\U0001F939‍♂️ Man Juggling":
+  :url: https://emojipedia.org/man-juggling/
+  :unicode:
+  - U+1F939
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_juggling:"
+  - ":man-juggling:"
+"\U0001F939‍♀️ Woman Juggling":
+  :url: https://emojipedia.org/woman-juggling/
+  :unicode:
+  - U+1F939
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":woman_juggling:"
+  - ":woman-juggling:"
+"\U0001F9D8 Person in Lotus Position":
+  :url: https://emojipedia.org/person-in-lotus-position/
+  :unicode:
+  - U+1F9D8
+  :shortcodes:
+  - ":lotus_position:"
+  - ":person_in_lotus_position:"
+"\U0001F9D8‍♂️ Man in Lotus Position":
+  :url: https://emojipedia.org/man-in-lotus-position/
+  :unicode:
+  - U+1F9D8
+  - U+200D
+  - U+2642
+  - U+FE0F
+  :shortcodes:
+  - ":man_in_lotus_position:"
+  - ":lotus_position_man:"
+"\U0001F9D8‍♀️ Woman in Lotus Position":
+  :url: https://emojipedia.org/woman-in-lotus-position/
+  :unicode:
+  - U+1F9D8
+  - U+200D
+  - U+2640
+  - U+FE0F
+  :shortcodes:
+  - ":woman_in_lotus_position:"
+  - ":lotus_position_woman:"
+"\U0001F3AA Circus Tent":
+  :url: https://emojipedia.org/circus-tent/
+  :unicode:
+  - U+1F3AA
+  :shortcodes:
+  - ":circus_tent:"
+"\U0001F6F9 Skateboard":
+  :url: https://emojipedia.org/skateboard/
+  :unicode:
+  - U+1F6F9
+  :shortcodes:
+  - ":skateboard:"
+"\U0001F6F6 Canoe":
+  :url: https://emojipedia.org/canoe/
+  :unicode:
+  - U+1F6F6
+  :shortcodes:
+  - ":canoe:"
+"\U0001F397 Reminder Ribbon":
+  :url: https://emojipedia.org/reminder-ribbon/
+  :unicode:
+  - U+1F397
+  - U+FE0F
+  :shortcodes:
+  - ":reminder_ribbon:"
+"\U0001F39F Admission Tickets":
+  :url: https://emojipedia.org/admission-tickets/
+  :unicode:
+  - U+1F39F
+  - U+FE0F
+  :shortcodes:
+  - ":admission_tickets:"
+  - ":tickets:"
+"\U0001F3AB Ticket":
+  :url: https://emojipedia.org/ticket/
+  :unicode:
+  - U+1F3AB
+  :shortcodes:
+  - ":ticket:"
+"\U0001F396 Military Medal":
+  :url: https://emojipedia.org/military-medal/
+  :unicode:
+  - U+1F396
+  - U+FE0F
+  :shortcodes:
+  - ":medal:"
+  - ":medal_military:"
+  - ":military_medal:"
+"\U0001F3C6 Trophy":
+  :url: https://emojipedia.org/trophy/
+  :unicode:
+  - U+1F3C6
+  :shortcodes:
+  - ":trophy:"
+"\U0001F3C5 Sports Medal":
+  :url: https://emojipedia.org/sports-medal/
+  :unicode:
+  - U+1F3C5
+  :shortcodes:
+  - ":sports_medal:"
+  - ":medal_sports:"
+"\U0001F947 1st Place Medal":
+  :url: https://emojipedia.org/1st-place-medal/
+  :unicode:
+  - U+1F947
+  :shortcodes:
+  - ":1st_place_medal:"
+  - ":first_place_medal:"
+"\U0001F948 2nd Place Medal":
+  :url: https://emojipedia.org/2nd-place-medal/
+  :unicode:
+  - U+1F948
+  :shortcodes:
+  - ":2nd_place_medal:"
+  - ":second_place_medal:"
+"\U0001F949 3rd Place Medal":
+  :url: https://emojipedia.org/3rd-place-medal/
+  :unicode:
+  - U+1F949
+  :shortcodes:
+  - ":3rd_place_medal:"
+  - ":third_place_medal:"
+"⚽ Soccer Ball":
+  :url: https://emojipedia.org/soccer-ball/
+  :unicode:
+  - U+26BD
+  :shortcodes:
+  - ":soccer:"
+  - ":soccer_ball:"
+"⚾ Baseball":
+  :url: https://emojipedia.org/baseball/
+  :unicode:
+  - U+26BE
+  :shortcodes:
+  - ":baseball:"
+"\U0001F94E Softball":
+  :url: https://emojipedia.org/softball/
+  :unicode:
+  - U+1F94E
+  :shortcodes:
+  - ":softball:"
+"\U0001F3C0 Basketball":
+  :url: https://emojipedia.org/basketball/
+  :unicode:
+  - U+1F3C0
+  :shortcodes:
+  - ":basketball:"
+"\U0001F3D0 Volleyball":
+  :url: https://emojipedia.org/volleyball/
+  :unicode:
+  - U+1F3D0
+  :shortcodes:
+  - ":volleyball:"
+"\U0001F3C8 American Football":
+  :url: https://emojipedia.org/american-football/
+  :unicode:
+  - U+1F3C8
+  :shortcodes:
+  - ":football:"
+  - ":american_football:"
+"\U0001F3C9 Rugby Football":
+  :url: https://emojipedia.org/rugby-football/
+  :unicode:
+  - U+1F3C9
+  :shortcodes:
+  - ":rugby_football:"
+"\U0001F3BE Tennis":
+  :url: https://emojipedia.org/tennis/
+  :unicode:
+  - U+1F3BE
+  :shortcodes:
+  - ":tennis:"
+"\U0001F94F Flying Disc":
+  :url: https://emojipedia.org/flying-disc/
+  :unicode:
+  - U+1F94F
+  :shortcodes:
+  - ":flying_disc:"
+"\U0001F3B3 Bowling":
+  :url: https://emojipedia.org/bowling/
+  :unicode:
+  - U+1F3B3
+  :shortcodes:
+  - ":bowling:"
+"\U0001F3CF Cricket Game":
+  :url: https://emojipedia.org/cricket-game/
+  :unicode:
+  - U+1F3CF
+  :shortcodes:
+  - ":cricket_game:"
+  - ":cricket_bat_and_ball:"
+"\U0001F3D1 Field Hockey":
+  :url: https://emojipedia.org/field-hockey/
+  :unicode:
+  - U+1F3D1
+  :shortcodes:
+  - ":field_hockey:"
+  - ":field_hockey_stick_and_ball:"
+"\U0001F3D2 Ice Hockey":
+  :url: https://emojipedia.org/ice-hockey/
+  :unicode:
+  - U+1F3D2
+  :shortcodes:
+  - ":ice_hockey:"
+  - ":ice_hockey_stick_and_puck:"
+"\U0001F94D Lacrosse":
+  :url: https://emojipedia.org/lacrosse/
+  :unicode:
+  - U+1F94D
+  :shortcodes:
+  - ":lacrosse:"
+"\U0001F3D3 Ping Pong":
+  :url: https://emojipedia.org/ping-pong/
+  :unicode:
+  - U+1F3D3
+  :shortcodes:
+  - ":ping_pong:"
+  - ":table_tennis_paddle_and_ball:"
+"\U0001F3F8 Badminton":
+  :url: https://emojipedia.org/badminton/
+  :unicode:
+  - U+1F3F8
+  :shortcodes:
+  - ":badminton:"
+  - ":badminton_racquet_and_shuttlecock:"
+"\U0001F94A Boxing Glove":
+  :url: https://emojipedia.org/boxing-glove/
+  :unicode:
+  - U+1F94A
+  :shortcodes:
+  - ":boxing_glove:"
+"\U0001F94B Martial Arts Uniform":
+  :url: https://emojipedia.org/martial-arts-uniform/
+  :unicode:
+  - U+1F94B
+  :shortcodes:
+  - ":martial_arts_uniform:"
+"\U0001F945 Goal Net":
+  :url: https://emojipedia.org/goal-net/
+  :unicode:
+  - U+1F945
+  :shortcodes:
+  - ":goal_net:"
+"⛳ Flag in Hole":
+  :url: https://emojipedia.org/flag-in-hole/
+  :unicode:
+  - U+26F3
+  :shortcodes:
+  - ":golf:"
+  - ":flag_in_hole:"
+"⛸ Ice Skate":
+  :url: https://emojipedia.org/ice-skate/
+  :unicode:
+  - U+26F8
+  - U+FE0F
+  :shortcodes:
+  - ":ice_skate:"
+"\U0001F3A3 Fishing Pole":
+  :url: https://emojipedia.org/fishing-pole/
+  :unicode:
+  - U+1F3A3
+  :shortcodes:
+  - ":fishing_pole_and_fish:"
+  - ":fishing_pole:"
+"\U0001F3BD Running Shirt":
+  :url: https://emojipedia.org/running-shirt/
+  :unicode:
+  - U+1F3BD
+  :shortcodes:
+  - ":running_shirt:"
+  - ":running_shirt_with_sash:"
+"\U0001F3BF Skis":
+  :url: https://emojipedia.org/skis/
+  :unicode:
+  - U+1F3BF
+  :shortcodes:
+  - ":ski:"
+  - ":skis:"
+"\U0001F6F7 Sled":
+  :url: https://emojipedia.org/sled/
+  :unicode:
+  - U+1F6F7
+  :shortcodes:
+  - ":sled:"
+"\U0001F94C Curling Stone":
+  :url: https://emojipedia.org/curling-stone/
+  :unicode:
+  - U+1F94C
+  :shortcodes:
+  - ":curling_stone:"
+"\U0001F3AF Direct Hit":
+  :url: https://emojipedia.org/direct-hit/
+  :unicode:
+  - U+1F3AF
+  :shortcodes:
+  - ":dart:"
+  - ":direct_hit:"
+"\U0001F3B1 Pool 8 Ball":
+  :url: https://emojipedia.org/pool-8-ball/
+  :unicode:
+  - U+1F3B1
+  :shortcodes:
+  - ":8ball:"
+  - ":pool_8_ball:"
+"\U0001F3AE Video Game":
+  :url: https://emojipedia.org/video-game/
+  :unicode:
+  - U+1F3AE
+  :shortcodes:
+  - ":video_game:"
+"\U0001F3B0 Slot Machine":
+  :url: https://emojipedia.org/slot-machine/
+  :unicode:
+  - U+1F3B0
+  :shortcodes:
+  - ":slot_machine:"
+"\U0001F3B2 Game Die":
+  :url: https://emojipedia.org/game-die/
+  :unicode:
+  - U+1F3B2
+  :shortcodes:
+  - ":game_die:"
+"\U0001F9E9 Puzzle Piece":
+  :url: https://emojipedia.org/puzzle-piece/
+  :unicode:
+  - U+1F9E9
+  :shortcodes:
+  - ":jigsaw:"
+  - ":puzzle_piece:"
+"♟ Chess Pawn":
+  :url: https://emojipedia.org/chess-pawn/
+  :unicode:
+  - U+265F
+  - U+FE0F
+  :shortcodes:
+  - ":chess_pawn:"
+"\U0001F3AD Performing Arts":
+  :url: https://emojipedia.org/performing-arts/
+  :unicode:
+  - U+1F3AD
+  :shortcodes:
+  - ":performing_arts:"
+"\U0001F3A8 Artist Palette":
+  :url: https://emojipedia.org/artist-palette/
+  :unicode:
+  - U+1F3A8
+  :shortcodes:
+  - ":art:"
+  - ":artist_palette:"
+"\U0001F9F5 Thread":
+  :url: https://emojipedia.org/thread/
+  :unicode:
+  - U+1F9F5
+  :shortcodes:
+  - ":thread:"
+"\U0001F9F6 Yarn":
+  :url: https://emojipedia.org/yarn/
+  :unicode:
+  - U+1F9F6
+  :shortcodes:
+  - ":yarn:"
+"\U0001F3BC Musical Score":
+  :url: https://emojipedia.org/musical-score/
+  :unicode:
+  - U+1F3BC
+  :shortcodes:
+  - ":musical_score:"
+"\U0001F3A4 Microphone":
+  :url: https://emojipedia.org/microphone/
+  :unicode:
+  - U+1F3A4
+  :shortcodes:
+  - ":microphone:"
+"\U0001F3A7 Headphone":
+  :url: https://emojipedia.org/headphone/
+  :unicode:
+  - U+1F3A7
+  :shortcodes:
+  - ":headphones:"
+  - ":headphone:"
+"\U0001F3B7 Saxophone":
+  :url: https://emojipedia.org/saxophone/
+  :unicode:
+  - U+1F3B7
+  :shortcodes:
+  - ":saxophone:"
+"\U0001F3B8 Guitar":
+  :url: https://emojipedia.org/guitar/
+  :unicode:
+  - U+1F3B8
+  :shortcodes:
+  - ":guitar:"
+"\U0001F3B9 Musical Keyboard":
+  :url: https://emojipedia.org/musical-keyboard/
+  :unicode:
+  - U+1F3B9
+  :shortcodes:
+  - ":musical_keyboard:"
+"\U0001F3BA Trumpet":
+  :url: https://emojipedia.org/trumpet/
+  :unicode:
+  - U+1F3BA
+  :shortcodes:
+  - ":trumpet:"
+"\U0001F3BB Violin":
+  :url: https://emojipedia.org/violin/
+  :unicode:
+  - U+1F3BB
+  :shortcodes:
+  - ":violin:"
+"\U0001F941 Drum":
+  :url: https://emojipedia.org/drum/
+  :unicode:
+  - U+1F941
+  :shortcodes:
+  - ":drum:"
+  - ":drum_with_drumsticks:"
+"\U0001F3AC Clapper Board":
+  :url: https://emojipedia.org/clapper-board/
+  :unicode:
+  - U+1F3AC
+  :shortcodes:
+  - ":clapper:"
+  - ":clapper_board:"
+"\U0001F3F9 Bow and Arrow":
+  :url: https://emojipedia.org/bow-and-arrow/
+  :unicode:
+  - U+1F3F9
+  :shortcodes:
+  - ":bow_and_arrow:"

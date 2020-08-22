@@ -1,0 +1,723 @@
+---
+"\U0001F347 Grapes":
+  :url: https://emojipedia.org/grapes/
+  :unicode:
+  - U+1F347
+  :shortcodes:
+  - ":grapes:"
+"\U0001F348 Melon":
+  :url: https://emojipedia.org/melon/
+  :unicode:
+  - U+1F348
+  :shortcodes:
+  - ":melon:"
+"\U0001F349 Watermelon":
+  :url: https://emojipedia.org/watermelon/
+  :unicode:
+  - U+1F349
+  :shortcodes:
+  - ":watermelon:"
+"\U0001F34A Tangerine":
+  :url: https://emojipedia.org/tangerine/
+  :unicode:
+  - U+1F34A
+  :shortcodes:
+  - ":tangerine:"
+  - ":orange:"
+  - ":mandarin:"
+"\U0001F34B Lemon":
+  :url: https://emojipedia.org/lemon/
+  :unicode:
+  - U+1F34B
+  :shortcodes:
+  - ":lemon:"
+"\U0001F34C Banana":
+  :url: https://emojipedia.org/banana/
+  :unicode:
+  - U+1F34C
+  :shortcodes:
+  - ":banana:"
+"\U0001F34D Pineapple":
+  :url: https://emojipedia.org/pineapple/
+  :unicode:
+  - U+1F34D
+  :shortcodes:
+  - ":pineapple:"
+"\U0001F96D Mango":
+  :url: https://emojipedia.org/mango/
+  :unicode:
+  - U+1F96D
+  :shortcodes:
+  - ":mango:"
+"\U0001F34E Red Apple":
+  :url: https://emojipedia.org/red-apple/
+  :unicode:
+  - U+1F34E
+  :shortcodes:
+  - ":apple:"
+  - ":red_apple:"
+"\U0001F34F Green Apple":
+  :url: https://emojipedia.org/green-apple/
+  :unicode:
+  - U+1F34F
+  :shortcodes:
+  - ":green_apple:"
+"\U0001F350 Pear":
+  :url: https://emojipedia.org/pear/
+  :unicode:
+  - U+1F350
+  :shortcodes:
+  - ":pear:"
+"\U0001F351 Peach":
+  :url: https://emojipedia.org/peach/
+  :unicode:
+  - U+1F351
+  :shortcodes:
+  - ":peach:"
+"\U0001F352 Cherries":
+  :url: https://emojipedia.org/cherries/
+  :unicode:
+  - U+1F352
+  :shortcodes:
+  - ":cherries:"
+"\U0001F353 Strawberry":
+  :url: https://emojipedia.org/strawberry/
+  :unicode:
+  - U+1F353
+  :shortcodes:
+  - ":strawberry:"
+"\U0001F95D Kiwi Fruit":
+  :url: https://emojipedia.org/kiwi-fruit/
+  :unicode:
+  - U+1F95D
+  :shortcodes:
+  - ":kiwi_fruit:"
+  - ":kiwifruit:"
+"\U0001F345 Tomato":
+  :url: https://emojipedia.org/tomato/
+  :unicode:
+  - U+1F345
+  :shortcodes:
+  - ":tomato:"
+"\U0001F965 Coconut":
+  :url: https://emojipedia.org/coconut/
+  :unicode:
+  - U+1F965
+  :shortcodes:
+  - ":coconut:"
+"\U0001F951 Avocado":
+  :url: https://emojipedia.org/avocado/
+  :unicode:
+  - U+1F951
+  :shortcodes:
+  - ":avocado:"
+"\U0001F346 Eggplant":
+  :url: https://emojipedia.org/eggplant/
+  :unicode:
+  - U+1F346
+  :shortcodes:
+  - ":eggplant:"
+"\U0001F954 Potato":
+  :url: https://emojipedia.org/potato/
+  :unicode:
+  - U+1F954
+  :shortcodes:
+  - ":potato:"
+"\U0001F955 Carrot":
+  :url: https://emojipedia.org/carrot/
+  :unicode:
+  - U+1F955
+  :shortcodes:
+  - ":carrot:"
+"\U0001F33D Ear of Corn":
+  :url: https://emojipedia.org/ear-of-corn/
+  :unicode:
+  - U+1F33D
+  :shortcodes:
+  - ":corn:"
+  - ":ear_of_corn:"
+"\U0001F336 Hot Pepper":
+  :url: https://emojipedia.org/hot-pepper/
+  :unicode:
+  - U+1F336
+  - U+FE0F
+  :shortcodes:
+  - ":hot_pepper:"
+"\U0001F952 Cucumber":
+  :url: https://emojipedia.org/cucumber/
+  :unicode:
+  - U+1F952
+  :shortcodes:
+  - ":cucumber:"
+"\U0001F96C Leafy Green":
+  :url: https://emojipedia.org/leafy-green/
+  :unicode:
+  - U+1F96C
+  :shortcodes:
+  - ":leafy_green:"
+"\U0001F966 Broccoli":
+  :url: https://emojipedia.org/broccoli/
+  :unicode:
+  - U+1F966
+  :shortcodes:
+  - ":broccoli:"
+"\U0001F9C4 Garlic":
+  :url: https://emojipedia.org/garlic/
+  :unicode:
+  - U+1F9C4
+  :shortcodes:
+  - ":garlic:"
+"\U0001F9C5 Onion":
+  :url: https://emojipedia.org/onion/
+  :unicode:
+  - U+1F9C5
+  :shortcodes:
+  - ":onion:"
+"\U0001F344 Mushroom":
+  :url: https://emojipedia.org/mushroom/
+  :unicode:
+  - U+1F344
+  :shortcodes:
+  - ":mushroom:"
+"\U0001F95C Peanuts":
+  :url: https://emojipedia.org/peanuts/
+  :unicode:
+  - U+1F95C
+  :shortcodes:
+  - ":peanuts:"
+"\U0001F330 Chestnut":
+  :url: https://emojipedia.org/chestnut/
+  :unicode:
+  - U+1F330
+  :shortcodes:
+  - ":chestnut:"
+"\U0001F35E Bread":
+  :url: https://emojipedia.org/bread/
+  :unicode:
+  - U+1F35E
+  :shortcodes:
+  - ":bread:"
+"\U0001F950 Croissant":
+  :url: https://emojipedia.org/croissant/
+  :unicode:
+  - U+1F950
+  :shortcodes:
+  - ":croissant:"
+"\U0001F956 Baguette Bread":
+  :url: https://emojipedia.org/baguette-bread/
+  :unicode:
+  - U+1F956
+  :shortcodes:
+  - ":baguette_bread:"
+"\U0001F968 Pretzel":
+  :url: https://emojipedia.org/pretzel/
+  :unicode:
+  - U+1F968
+  :shortcodes:
+  - ":pretzel:"
+"\U0001F96F Bagel":
+  :url: https://emojipedia.org/bagel/
+  :unicode:
+  - U+1F96F
+  :shortcodes:
+  - ":bagel:"
+"\U0001F95E Pancakes":
+  :url: https://emojipedia.org/pancakes/
+  :unicode:
+  - U+1F95E
+  :shortcodes:
+  - ":pancakes:"
+"\U0001F9C7 Waffle":
+  :url: https://emojipedia.org/waffle/
+  :unicode:
+  - U+1F9C7
+  :shortcodes:
+  - ":waffle:"
+"\U0001F9C0 Cheese Wedge":
+  :url: https://emojipedia.org/cheese-wedge/
+  :unicode:
+  - U+1F9C0
+  :shortcodes:
+  - ":cheese_wedge:"
+  - ":cheese:"
+"\U0001F356 Meat on Bone":
+  :url: https://emojipedia.org/meat-on-bone/
+  :unicode:
+  - U+1F356
+  :shortcodes:
+  - ":meat_on_bone:"
+"\U0001F357 Poultry Leg":
+  :url: https://emojipedia.org/poultry-leg/
+  :unicode:
+  - U+1F357
+  :shortcodes:
+  - ":poultry_leg:"
+"\U0001F969 Cut of Meat":
+  :url: https://emojipedia.org/cut-of-meat/
+  :unicode:
+  - U+1F969
+  :shortcodes:
+  - ":cut_of_meat:"
+"\U0001F953 Bacon":
+  :url: https://emojipedia.org/bacon/
+  :unicode:
+  - U+1F953
+  :shortcodes:
+  - ":bacon:"
+"\U0001F354 Hamburger":
+  :url: https://emojipedia.org/hamburger/
+  :unicode:
+  - U+1F354
+  :shortcodes:
+  - ":hamburger:"
+"\U0001F35F French Fries":
+  :url: https://emojipedia.org/french-fries/
+  :unicode:
+  - U+1F35F
+  :shortcodes:
+  - ":fries:"
+  - ":french_fries:"
+"\U0001F355 Pizza":
+  :url: https://emojipedia.org/pizza/
+  :unicode:
+  - U+1F355
+  :shortcodes:
+  - ":pizza:"
+"\U0001F32D Hot Dog":
+  :url: https://emojipedia.org/hot-dog/
+  :unicode:
+  - U+1F32D
+  :shortcodes:
+  - ":hotdog:"
+  - ":hot_dog:"
+"\U0001F96A Sandwich":
+  :url: https://emojipedia.org/sandwich/
+  :unicode:
+  - U+1F96A
+  :shortcodes:
+  - ":sandwich:"
+"\U0001F32E Taco":
+  :url: https://emojipedia.org/taco/
+  :unicode:
+  - U+1F32E
+  :shortcodes:
+  - ":taco:"
+"\U0001F32F Burrito":
+  :url: https://emojipedia.org/burrito/
+  :unicode:
+  - U+1F32F
+  :shortcodes:
+  - ":burrito:"
+"\U0001F959 Stuffed Flatbread":
+  :url: https://emojipedia.org/stuffed-flatbread/
+  :unicode:
+  - U+1F959
+  :shortcodes:
+  - ":stuffed_flatbread:"
+"\U0001F9C6 Falafel":
+  :url: https://emojipedia.org/falafel/
+  :unicode:
+  - U+1F9C6
+  :shortcodes:
+  - ":falafel:"
+"\U0001F95A Egg":
+  :url: https://emojipedia.org/egg/
+  :unicode:
+  - U+1F95A
+  :shortcodes:
+  - ":egg:"
+"\U0001F373 Cooking":
+  :url: https://emojipedia.org/cooking/
+  :unicode:
+  - U+1F373
+  :shortcodes:
+  - ":cooking:"
+  - ":fried_egg:"
+"\U0001F958 Shallow Pan of Food":
+  :url: https://emojipedia.org/shallow-pan-of-food/
+  :unicode:
+  - U+1F958
+  :shortcodes:
+  - ":shallow_pan_of_food:"
+"\U0001F372 Pot of Food":
+  :url: https://emojipedia.org/pot-of-food/
+  :unicode:
+  - U+1F372
+  :shortcodes:
+  - ":stew:"
+  - ":pot_of_food:"
+"\U0001F963 Bowl with Spoon":
+  :url: https://emojipedia.org/bowl-with-spoon/
+  :unicode:
+  - U+1F963
+  :shortcodes:
+  - ":bowl_with_spoon:"
+"\U0001F957 Green Salad":
+  :url: https://emojipedia.org/green-salad/
+  :unicode:
+  - U+1F957
+  :shortcodes:
+  - ":green_salad:"
+"\U0001F37F Popcorn":
+  :url: https://emojipedia.org/popcorn/
+  :unicode:
+  - U+1F37F
+  :shortcodes:
+  - ":popcorn:"
+"\U0001F9C8 Butter":
+  :url: https://emojipedia.org/butter/
+  :unicode:
+  - U+1F9C8
+  :shortcodes:
+  - ":butter:"
+"\U0001F9C2 Salt":
+  :url: https://emojipedia.org/salt/
+  :unicode:
+  - U+1F9C2
+  :shortcodes:
+  - ":salt:"
+"\U0001F96B Canned Food":
+  :url: https://emojipedia.org/canned-food/
+  :unicode:
+  - U+1F96B
+  :shortcodes:
+  - ":canned_food:"
+"\U0001F371 Bento Box":
+  :url: https://emojipedia.org/bento-box/
+  :unicode:
+  - U+1F371
+  :shortcodes:
+  - ":bento:"
+  - ":bento_box:"
+"\U0001F358 Rice Cracker":
+  :url: https://emojipedia.org/rice-cracker/
+  :unicode:
+  - U+1F358
+  :shortcodes:
+  - ":rice_cracker:"
+"\U0001F359 Rice Ball":
+  :url: https://emojipedia.org/rice-ball/
+  :unicode:
+  - U+1F359
+  :shortcodes:
+  - ":rice_ball:"
+"\U0001F35A Cooked Rice":
+  :url: https://emojipedia.org/cooked-rice/
+  :unicode:
+  - U+1F35A
+  :shortcodes:
+  - ":rice:"
+  - ":cooked_rice:"
+"\U0001F35B Curry Rice":
+  :url: https://emojipedia.org/curry-rice/
+  :unicode:
+  - U+1F35B
+  :shortcodes:
+  - ":curry:"
+  - ":curry_rice:"
+"\U0001F35C Steaming Bowl":
+  :url: https://emojipedia.org/steaming-bowl/
+  :unicode:
+  - U+1F35C
+  :shortcodes:
+  - ":ramen:"
+  - ":steaming_bowl:"
+"\U0001F35D Spaghetti":
+  :url: https://emojipedia.org/spaghetti/
+  :unicode:
+  - U+1F35D
+  :shortcodes:
+  - ":spaghetti:"
+"\U0001F360 Roasted Sweet Potato":
+  :url: https://emojipedia.org/roasted-sweet-potato/
+  :unicode:
+  - U+1F360
+  :shortcodes:
+  - ":sweet_potato:"
+  - ":roasted_sweet_potato:"
+"\U0001F362 Oden":
+  :url: https://emojipedia.org/oden/
+  :unicode:
+  - U+1F362
+  :shortcodes:
+  - ":oden:"
+"\U0001F363 Sushi":
+  :url: https://emojipedia.org/sushi/
+  :unicode:
+  - U+1F363
+  :shortcodes:
+  - ":sushi:"
+"\U0001F364 Fried Shrimp":
+  :url: https://emojipedia.org/fried-shrimp/
+  :unicode:
+  - U+1F364
+  :shortcodes:
+  - ":fried_shrimp:"
+"\U0001F365 Fish Cake with Swirl":
+  :url: https://emojipedia.org/fish-cake-with-swirl/
+  :unicode:
+  - U+1F365
+  :shortcodes:
+  - ":fish_cake:"
+  - ":fish_cake_with_swirl:"
+"\U0001F96E Moon Cake":
+  :url: https://emojipedia.org/moon-cake/
+  :unicode:
+  - U+1F96E
+  :shortcodes:
+  - ":moon_cake:"
+"\U0001F361 Dango":
+  :url: https://emojipedia.org/dango/
+  :unicode:
+  - U+1F361
+  :shortcodes:
+  - ":dango:"
+"\U0001F95F Dumpling":
+  :url: https://emojipedia.org/dumpling/
+  :unicode:
+  - U+1F95F
+  :shortcodes:
+  - ":dumpling:"
+"\U0001F960 Fortune Cookie":
+  :url: https://emojipedia.org/fortune-cookie/
+  :unicode:
+  - U+1F960
+  :shortcodes:
+  - ":fortune_cookie:"
+"\U0001F961 Takeout Box":
+  :url: https://emojipedia.org/takeout-box/
+  :unicode:
+  - U+1F961
+  :shortcodes:
+  - ":takeout_box:"
+"\U0001F9AA Oyster":
+  :url: https://emojipedia.org/oyster/
+  :unicode:
+  - U+1F9AA
+  :shortcodes:
+  - ":oyster:"
+"\U0001F366 Soft Ice Cream":
+  :url: https://emojipedia.org/soft-ice-cream/
+  :unicode:
+  - U+1F366
+  :shortcodes:
+  - ":icecream:"
+  - ":soft_ice_cream:"
+"\U0001F367 Shaved Ice":
+  :url: https://emojipedia.org/shaved-ice/
+  :unicode:
+  - U+1F367
+  :shortcodes:
+  - ":shaved_ice:"
+"\U0001F368 Ice Cream":
+  :url: https://emojipedia.org/ice-cream/
+  :unicode:
+  - U+1F368
+  :shortcodes:
+  - ":ice_cream:"
+"\U0001F369 Doughnut":
+  :url: https://emojipedia.org/doughnut/
+  :unicode:
+  - U+1F369
+  :shortcodes:
+  - ":doughnut:"
+"\U0001F36A Cookie":
+  :url: https://emojipedia.org/cookie/
+  :unicode:
+  - U+1F36A
+  :shortcodes:
+  - ":cookie:"
+"\U0001F382 Birthday Cake":
+  :url: https://emojipedia.org/birthday-cake/
+  :unicode:
+  - U+1F382
+  :shortcodes:
+  - ":birthday:"
+  - ":birthday_cake:"
+"\U0001F370 Shortcake":
+  :url: https://emojipedia.org/shortcake/
+  :unicode:
+  - U+1F370
+  :shortcodes:
+  - ":cake:"
+  - ":shortcake:"
+"\U0001F9C1 Cupcake":
+  :url: https://emojipedia.org/cupcake/
+  :unicode:
+  - U+1F9C1
+  :shortcodes:
+  - ":cupcake:"
+"\U0001F967 Pie":
+  :url: https://emojipedia.org/pie/
+  :unicode:
+  - U+1F967
+  :shortcodes:
+  - ":pie:"
+"\U0001F36B Chocolate Bar":
+  :url: https://emojipedia.org/chocolate-bar/
+  :unicode:
+  - U+1F36B
+  :shortcodes:
+  - ":chocolate_bar:"
+"\U0001F36C Candy":
+  :url: https://emojipedia.org/candy/
+  :unicode:
+  - U+1F36C
+  :shortcodes:
+  - ":candy:"
+"\U0001F36D Lollipop":
+  :url: https://emojipedia.org/lollipop/
+  :unicode:
+  - U+1F36D
+  :shortcodes:
+  - ":lollipop:"
+"\U0001F36E Custard":
+  :url: https://emojipedia.org/custard/
+  :unicode:
+  - U+1F36E
+  :shortcodes:
+  - ":custard:"
+"\U0001F36F Honey Pot":
+  :url: https://emojipedia.org/honey-pot/
+  :unicode:
+  - U+1F36F
+  :shortcodes:
+  - ":honey_pot:"
+"\U0001F37C Baby Bottle":
+  :url: https://emojipedia.org/baby-bottle/
+  :unicode:
+  - U+1F37C
+  :shortcodes:
+  - ":baby_bottle:"
+"\U0001F95B Glass of Milk":
+  :url: https://emojipedia.org/glass-of-milk/
+  :unicode:
+  - U+1F95B
+  :shortcodes:
+  - ":glass_of_milk:"
+  - ":milk_glass:"
+"☕ Hot Beverage":
+  :url: https://emojipedia.org/hot-beverage/
+  :unicode:
+  - U+2615
+  :shortcodes:
+  - ":coffee:"
+  - ":hot_beverage:"
+"\U0001F375 Teacup Without Handle":
+  :url: https://emojipedia.org/teacup-without-handle/
+  :unicode:
+  - U+1F375
+  :shortcodes:
+  - ":tea:"
+  - ":teacup_without_handle:"
+"\U0001F376 Sake":
+  :url: https://emojipedia.org/sake/
+  :unicode:
+  - U+1F376
+  :shortcodes:
+  - ":sake:"
+"\U0001F37E Bottle with Popping Cork":
+  :url: https://emojipedia.org/bottle-with-popping-cork/
+  :unicode:
+  - U+1F37E
+  :shortcodes:
+  - ":champagne:"
+  - ":bottle_with_popping_cork:"
+"\U0001F377 Wine Glass":
+  :url: https://emojipedia.org/wine-glass/
+  :unicode:
+  - U+1F377
+  :shortcodes:
+  - ":wine_glass:"
+"\U0001F378 Cocktail Glass":
+  :url: https://emojipedia.org/cocktail-glass/
+  :unicode:
+  - U+1F378
+  :shortcodes:
+  - ":cocktail:"
+  - ":cocktail_glass:"
+"\U0001F379 Tropical Drink":
+  :url: https://emojipedia.org/tropical-drink/
+  :unicode:
+  - U+1F379
+  :shortcodes:
+  - ":tropical_drink:"
+"\U0001F37A Beer Mug":
+  :url: https://emojipedia.org/beer-mug/
+  :unicode:
+  - U+1F37A
+  :shortcodes:
+  - ":beer:"
+  - ":beer_mug:"
+"\U0001F37B Clinking Beer Mugs":
+  :url: https://emojipedia.org/clinking-beer-mugs/
+  :unicode:
+  - U+1F37B
+  :shortcodes:
+  - ":beers:"
+  - ":clinking_beer_mugs:"
+"\U0001F942 Clinking Glasses":
+  :url: https://emojipedia.org/clinking-glasses/
+  :unicode:
+  - U+1F942
+  :shortcodes:
+  - ":clinking_glasses:"
+"\U0001F943 Tumbler Glass":
+  :url: https://emojipedia.org/tumbler-glass/
+  :unicode:
+  - U+1F943
+  :shortcodes:
+  - ":tumbler_glass:"
+"\U0001F964 Cup with Straw":
+  :url: https://emojipedia.org/cup-with-straw/
+  :unicode:
+  - U+1F964
+  :shortcodes:
+  - ":cup_with_straw:"
+"\U0001F9C3 Beverage Box":
+  :url: https://emojipedia.org/beverage-box/
+  :unicode:
+  - U+1F9C3
+  :shortcodes:
+  - ":beverage_box:"
+"\U0001F9C9 Mate":
+  :url: https://emojipedia.org/mate/
+  :unicode:
+  - U+1F9C9
+  :shortcodes:
+  - ":mate:"
+  - ":mate_drink:"
+"\U0001F9CA Ice":
+  :url: https://emojipedia.org/ice/
+  :unicode:
+  - U+1F9CA
+  :shortcodes:
+  - ":ice_cube:"
+  - ":ice:"
+"\U0001F962 Chopsticks":
+  :url: https://emojipedia.org/chopsticks/
+  :unicode:
+  - U+1F962
+  :shortcodes:
+  - ":chopsticks:"
+"\U0001F37D Fork and Knife with Plate":
+  :url: https://emojipedia.org/fork-and-knife-with-plate/
+  :unicode:
+  - U+1F37D
+  - U+FE0F
+  :shortcodes:
+  - ":knife_fork_plate:"
+  - ":plate_with_cutlery:"
+  - ":fork_and_knife_with_plate:"
+"\U0001F374 Fork and Knife":
+  :url: https://emojipedia.org/fork-and-knife/
+  :unicode:
+  - U+1F374
+  :shortcodes:
+  - ":fork_and_knife:"
+"\U0001F944 Spoon":
+  :url: https://emojipedia.org/spoon/
+  :unicode:
+  - U+1F944
+  :shortcodes:
+  - ":spoon:"

@@ -1,0 +1,1233 @@
+---
+"\U0001F648 See-No-Evil Monkey":
+  :url: https://emojipedia.org/see-no-evil-monkey/
+  :unicode:
+  - U+1F648
+  :shortcodes:
+  - ":see_no_evil:"
+  - ":see_no_evil_monkey:"
+"\U0001F649 Hear-No-Evil Monkey":
+  :url: https://emojipedia.org/hear-no-evil-monkey/
+  :unicode:
+  - U+1F649
+  :shortcodes:
+  - ":hear_no_evil:"
+  - ":hear_no_evil_monkey:"
+"\U0001F64A Speak-No-Evil Monkey":
+  :url: https://emojipedia.org/speak-no-evil-monkey/
+  :unicode:
+  - U+1F64A
+  :shortcodes:
+  - ":speak_no_evil:"
+  - ":speak_no_evil_monkey:"
+"\U0001F4A5 Collision":
+  :url: https://emojipedia.org/collision/
+  :unicode:
+  - U+1F4A5
+  :shortcodes:
+  - ":collision:"
+  - ":boom:"
+"\U0001F4AB Dizzy":
+  :url: https://emojipedia.org/dizzy/
+  :unicode:
+  - U+1F4AB
+  :shortcodes:
+  - ":dizzy:"
+"\U0001F4A6 Sweat Droplets":
+  :url: https://emojipedia.org/sweat-droplets/
+  :unicode:
+  - U+1F4A6
+  :shortcodes:
+  - ":sweat_drops:"
+  - ":sweat_droplets:"
+"\U0001F4A8 Dashing Away":
+  :url: https://emojipedia.org/dashing-away/
+  :unicode:
+  - U+1F4A8
+  :shortcodes:
+  - ":dash:"
+  - ":dashing_away:"
+"\U0001F435 Monkey Face":
+  :url: https://emojipedia.org/monkey-face/
+  :unicode:
+  - U+1F435
+  :shortcodes:
+  - ":monkey_face:"
+"\U0001F412 Monkey":
+  :url: https://emojipedia.org/monkey/
+  :unicode:
+  - U+1F412
+  :shortcodes:
+  - ":monkey:"
+"\U0001F98D Gorilla":
+  :url: https://emojipedia.org/gorilla/
+  :unicode:
+  - U+1F98D
+  :shortcodes:
+  - ":gorilla:"
+"\U0001F9A7 Orangutan":
+  :url: https://emojipedia.org/orangutan/
+  :unicode:
+  - U+1F9A7
+  :shortcodes:
+  - ":orangutan:"
+"\U0001F436 Dog Face":
+  :url: https://emojipedia.org/dog-face/
+  :unicode:
+  - U+1F436
+  :shortcodes:
+  - ":dog:"
+  - ":dog_face:"
+"\U0001F415 Dog":
+  :url: https://emojipedia.org/dog/
+  :unicode:
+  - U+1F415
+  :shortcodes:
+  - ":dog2:"
+  - ":dog:"
+"\U0001F9AE Guide Dog":
+  :url: https://emojipedia.org/guide-dog/
+  :unicode:
+  - U+1F9AE
+  :shortcodes:
+  - ":guide_dog:"
+"\U0001F415‍\U0001F9BA Service Dog":
+  :url: https://emojipedia.org/service-dog/
+  :unicode:
+  - U+1F415
+  - U+200D
+  - U+1F9BA
+  :shortcodes:
+  - ":service_dog:"
+"\U0001F429 Poodle":
+  :url: https://emojipedia.org/poodle/
+  :unicode:
+  - U+1F429
+  :shortcodes:
+  - ":poodle:"
+"\U0001F43A Wolf":
+  :url: https://emojipedia.org/wolf/
+  :unicode:
+  - U+1F43A
+  :shortcodes:
+  - ":wolf:"
+"\U0001F98A Fox":
+  :url: https://emojipedia.org/fox/
+  :unicode:
+  - U+1F98A
+  :shortcodes:
+  - ":fox_face:"
+  - ":fox:"
+"\U0001F99D Raccoon":
+  :url: https://emojipedia.org/raccoon/
+  :unicode:
+  - U+1F99D
+  :shortcodes:
+  - ":raccoon:"
+"\U0001F431 Cat Face":
+  :url: https://emojipedia.org/cat-face/
+  :unicode:
+  - U+1F431
+  :shortcodes:
+  - ":cat:"
+  - ":cat_face:"
+"\U0001F408 Cat":
+  :url: https://emojipedia.org/cat/
+  :unicode:
+  - U+1F408
+  :shortcodes:
+  - ":cat2:"
+  - ":cat:"
+"\U0001F981 Lion":
+  :url: https://emojipedia.org/lion/
+  :unicode:
+  - U+1F981
+  :shortcodes:
+  - ":lion:"
+  - ":lion_face:"
+"\U0001F42F Tiger Face":
+  :url: https://emojipedia.org/tiger-face/
+  :unicode:
+  - U+1F42F
+  :shortcodes:
+  - ":tiger:"
+  - ":tiger_face:"
+"\U0001F405 Tiger":
+  :url: https://emojipedia.org/tiger/
+  :unicode:
+  - U+1F405
+  :shortcodes:
+  - ":tiger2:"
+  - ":tiger:"
+"\U0001F406 Leopard":
+  :url: https://emojipedia.org/leopard/
+  :unicode:
+  - U+1F406
+  :shortcodes:
+  - ":leopard:"
+"\U0001F434 Horse Face":
+  :url: https://emojipedia.org/horse-face/
+  :unicode:
+  - U+1F434
+  :shortcodes:
+  - ":horse:"
+  - ":horse_face:"
+"\U0001F40E Horse":
+  :url: https://emojipedia.org/horse/
+  :unicode:
+  - U+1F40E
+  :shortcodes:
+  - ":racehorse:"
+  - ":horse:"
+"\U0001F984 Unicorn":
+  :url: https://emojipedia.org/unicorn/
+  :unicode:
+  - U+1F984
+  :shortcodes:
+  - ":unicorn:"
+  - ":unicorn_face:"
+"\U0001F993 Zebra":
+  :url: https://emojipedia.org/zebra/
+  :unicode:
+  - U+1F993
+  :shortcodes:
+  - ":zebra:"
+  - ":zebra_face:"
+"\U0001F98C Deer":
+  :url: https://emojipedia.org/deer/
+  :unicode:
+  - U+1F98C
+  :shortcodes:
+  - ":deer:"
+"\U0001F42E Cow Face":
+  :url: https://emojipedia.org/cow-face/
+  :unicode:
+  - U+1F42E
+  :shortcodes:
+  - ":cow:"
+  - ":cow_face:"
+"\U0001F402 Ox":
+  :url: https://emojipedia.org/ox/
+  :unicode:
+  - U+1F402
+  :shortcodes:
+  - ":ox:"
+"\U0001F403 Water Buffalo":
+  :url: https://emojipedia.org/water-buffalo/
+  :unicode:
+  - U+1F403
+  :shortcodes:
+  - ":water_buffalo:"
+"\U0001F404 Cow":
+  :url: https://emojipedia.org/cow/
+  :unicode:
+  - U+1F404
+  :shortcodes:
+  - ":cow2:"
+  - ":cow:"
+"\U0001F437 Pig Face":
+  :url: https://emojipedia.org/pig-face/
+  :unicode:
+  - U+1F437
+  :shortcodes:
+  - ":pig:"
+  - ":pig_face:"
+"\U0001F416 Pig":
+  :url: https://emojipedia.org/pig/
+  :unicode:
+  - U+1F416
+  :shortcodes:
+  - ":pig2:"
+  - ":pig:"
+"\U0001F417 Boar":
+  :url: https://emojipedia.org/boar/
+  :unicode:
+  - U+1F417
+  :shortcodes:
+  - ":boar:"
+"\U0001F43D Pig Nose":
+  :url: https://emojipedia.org/pig-nose/
+  :unicode:
+  - U+1F43D
+  :shortcodes:
+  - ":pig_nose:"
+"\U0001F40F Ram":
+  :url: https://emojipedia.org/ram/
+  :unicode:
+  - U+1F40F
+  :shortcodes:
+  - ":ram:"
+"\U0001F411 Ewe":
+  :url: https://emojipedia.org/ewe/
+  :unicode:
+  - U+1F411
+  :shortcodes:
+  - ":sheep:"
+  - ":ewe:"
+"\U0001F410 Goat":
+  :url: https://emojipedia.org/goat/
+  :unicode:
+  - U+1F410
+  :shortcodes:
+  - ":goat:"
+"\U0001F42A Camel":
+  :url: https://emojipedia.org/camel/
+  :unicode:
+  - U+1F42A
+  :shortcodes:
+  - ":camel:"
+  - ":dromedary_camel:"
+"\U0001F42B Two-Hump Camel":
+  :url: https://emojipedia.org/two-hump-camel/
+  :unicode:
+  - U+1F42B
+  :shortcodes:
+  - ":camel:"
+  - ":two_hump_camel:"
+"\U0001F999 Llama":
+  :url: https://emojipedia.org/llama/
+  :unicode:
+  - U+1F999
+  :shortcodes:
+  - ":llama:"
+"\U0001F992 Giraffe":
+  :url: https://emojipedia.org/giraffe/
+  :unicode:
+  - U+1F992
+  :shortcodes:
+  - ":giraffe:"
+  - ":giraffe_face:"
+"\U0001F418 Elephant":
+  :url: https://emojipedia.org/elephant/
+  :unicode:
+  - U+1F418
+  :shortcodes:
+  - ":elephant:"
+"\U0001F98F Rhinoceros":
+  :url: https://emojipedia.org/rhinoceros/
+  :unicode:
+  - U+1F98F
+  :shortcodes:
+  - ":rhinoceros:"
+"\U0001F99B Hippopotamus":
+  :url: https://emojipedia.org/hippopotamus/
+  :unicode:
+  - U+1F99B
+  :shortcodes:
+  - ":hippopotamus:"
+"\U0001F42D Mouse Face":
+  :url: https://emojipedia.org/mouse-face/
+  :unicode:
+  - U+1F42D
+  :shortcodes:
+  - ":mouse:"
+  - ":mouse_face:"
+"\U0001F401 Mouse":
+  :url: https://emojipedia.org/mouse/
+  :unicode:
+  - U+1F401
+  :shortcodes:
+  - ":mouse2:"
+  - ":mouse:"
+"\U0001F400 Rat":
+  :url: https://emojipedia.org/rat/
+  :unicode:
+  - U+1F400
+  :shortcodes:
+  - ":rat:"
+"\U0001F439 Hamster":
+  :url: https://emojipedia.org/hamster/
+  :unicode:
+  - U+1F439
+  :shortcodes:
+  - ":hamster:"
+"\U0001F430 Rabbit Face":
+  :url: https://emojipedia.org/rabbit-face/
+  :unicode:
+  - U+1F430
+  :shortcodes:
+  - ":rabbit:"
+  - ":rabbit_face:"
+"\U0001F407 Rabbit":
+  :url: https://emojipedia.org/rabbit/
+  :unicode:
+  - U+1F407
+  :shortcodes:
+  - ":rabbit2:"
+  - ":rabbit:"
+"\U0001F43F Chipmunk":
+  :url: https://emojipedia.org/chipmunk/
+  :unicode:
+  - U+1F43F
+  - U+FE0F
+  :shortcodes:
+  - ":chipmunk:"
+"\U0001F994 Hedgehog":
+  :url: https://emojipedia.org/hedgehog/
+  :unicode:
+  - U+1F994
+  :shortcodes:
+  - ":hedgehog:"
+"\U0001F987 Bat":
+  :url: https://emojipedia.org/bat/
+  :unicode:
+  - U+1F987
+  :shortcodes:
+  - ":bat:"
+"\U0001F43B Bear":
+  :url: https://emojipedia.org/bear/
+  :unicode:
+  - U+1F43B
+  :shortcodes:
+  - ":bear:"
+"\U0001F428 Koala":
+  :url: https://emojipedia.org/koala/
+  :unicode:
+  - U+1F428
+  :shortcodes:
+  - ":koala:"
+"\U0001F43C Panda":
+  :url: https://emojipedia.org/panda/
+  :unicode:
+  - U+1F43C
+  :shortcodes:
+  - ":panda_face:"
+  - ":panda:"
+"\U0001F9A5 Sloth":
+  :url: https://emojipedia.org/sloth/
+  :unicode:
+  - U+1F9A5
+  :shortcodes:
+  - ":sloth:"
+"\U0001F9A6 Otter":
+  :url: https://emojipedia.org/otter/
+  :unicode:
+  - U+1F9A6
+  :shortcodes:
+  - ":otter:"
+"\U0001F9A8 Skunk":
+  :url: https://emojipedia.org/skunk/
+  :unicode:
+  - U+1F9A8
+  :shortcodes:
+  - ":skunk:"
+"\U0001F998 Kangaroo":
+  :url: https://emojipedia.org/kangaroo/
+  :unicode:
+  - U+1F998
+  :shortcodes:
+  - ":kangaroo:"
+"\U0001F9A1 Badger":
+  :url: https://emojipedia.org/badger/
+  :unicode:
+  - U+1F9A1
+  :shortcodes:
+  - ":badger:"
+"\U0001F43E Paw Prints":
+  :url: https://emojipedia.org/paw-prints/
+  :unicode:
+  - U+1F43E
+  :shortcodes:
+  - ":paw_prints:"
+  - ":feet:"
+"\U0001F983 Turkey":
+  :url: https://emojipedia.org/turkey/
+  :unicode:
+  - U+1F983
+  :shortcodes:
+  - ":turkey:"
+"\U0001F414 Chicken":
+  :url: https://emojipedia.org/chicken/
+  :unicode:
+  - U+1F414
+  :shortcodes:
+  - ":chicken:"
+"\U0001F413 Rooster":
+  :url: https://emojipedia.org/rooster/
+  :unicode:
+  - U+1F413
+  :shortcodes:
+  - ":rooster:"
+"\U0001F423 Hatching Chick":
+  :url: https://emojipedia.org/hatching-chick/
+  :unicode:
+  - U+1F423
+  :shortcodes:
+  - ":hatching_chick:"
+"\U0001F424 Baby Chick":
+  :url: https://emojipedia.org/baby-chick/
+  :unicode:
+  - U+1F424
+  :shortcodes:
+  - ":baby_chick:"
+"\U0001F425 Front-Facing Baby Chick":
+  :url: https://emojipedia.org/front-facing-baby-chick/
+  :unicode:
+  - U+1F425
+  :shortcodes:
+  - ":hatched_chick:"
+  - ":front_facing_baby_chick:"
+"\U0001F426 Bird":
+  :url: https://emojipedia.org/bird/
+  :unicode:
+  - U+1F426
+  :shortcodes:
+  - ":bird:"
+"\U0001F427 Penguin":
+  :url: https://emojipedia.org/penguin/
+  :unicode:
+  - U+1F427
+  :shortcodes:
+  - ":penguin:"
+"\U0001F54A Dove":
+  :url: https://emojipedia.org/dove/
+  :unicode:
+  - U+1F54A
+  - U+FE0F
+  :shortcodes:
+  - ":dove:"
+  - ":dove_of_peace:"
+"\U0001F985 Eagle":
+  :url: https://emojipedia.org/eagle/
+  :unicode:
+  - U+1F985
+  :shortcodes:
+  - ":eagle:"
+"\U0001F986 Duck":
+  :url: https://emojipedia.org/duck/
+  :unicode:
+  - U+1F986
+  :shortcodes:
+  - ":duck:"
+"\U0001F9A2 Swan":
+  :url: https://emojipedia.org/swan/
+  :unicode:
+  - U+1F9A2
+  :shortcodes:
+  - ":swan:"
+"\U0001F989 Owl":
+  :url: https://emojipedia.org/owl/
+  :unicode:
+  - U+1F989
+  :shortcodes:
+  - ":owl:"
+"\U0001F9A9 Flamingo":
+  :url: https://emojipedia.org/flamingo/
+  :unicode:
+  - U+1F9A9
+  :shortcodes:
+  - ":flamingo:"
+"\U0001F99A Peacock":
+  :url: https://emojipedia.org/peacock/
+  :unicode:
+  - U+1F99A
+  :shortcodes:
+  - ":peacock:"
+"\U0001F99C Parrot":
+  :url: https://emojipedia.org/parrot/
+  :unicode:
+  - U+1F99C
+  :shortcodes:
+  - ":parrot:"
+"\U0001F438 Frog":
+  :url: https://emojipedia.org/frog/
+  :unicode:
+  - U+1F438
+  :shortcodes:
+  - ":frog:"
+"\U0001F40A Crocodile":
+  :url: https://emojipedia.org/crocodile/
+  :unicode:
+  - U+1F40A
+  :shortcodes:
+  - ":crocodile:"
+"\U0001F422 Turtle":
+  :url: https://emojipedia.org/turtle/
+  :unicode:
+  - U+1F422
+  :shortcodes:
+  - ":turtle:"
+"\U0001F98E Lizard":
+  :url: https://emojipedia.org/lizard/
+  :unicode:
+  - U+1F98E
+  :shortcodes:
+  - ":lizard:"
+"\U0001F40D Snake":
+  :url: https://emojipedia.org/snake/
+  :unicode:
+  - U+1F40D
+  :shortcodes:
+  - ":snake:"
+"\U0001F432 Dragon Face":
+  :url: https://emojipedia.org/dragon-face/
+  :unicode:
+  - U+1F432
+  :shortcodes:
+  - ":dragon_face:"
+"\U0001F409 Dragon":
+  :url: https://emojipedia.org/dragon/
+  :unicode:
+  - U+1F409
+  :shortcodes:
+  - ":dragon:"
+"\U0001F995 Sauropod":
+  :url: https://emojipedia.org/sauropod/
+  :unicode:
+  - U+1F995
+  :shortcodes:
+  - ":sauropod:"
+"\U0001F996 T-Rex":
+  :url: https://emojipedia.org/t-rex/
+  :unicode:
+  - U+1F996
+  :shortcodes:
+  - ":t-rex:"
+  - ":t_rex:"
+"\U0001F433 Spouting Whale":
+  :url: https://emojipedia.org/spouting-whale/
+  :unicode:
+  - U+1F433
+  :shortcodes:
+  - ":whale:"
+  - ":spouting_whale:"
+"\U0001F40B Whale":
+  :url: https://emojipedia.org/whale/
+  :unicode:
+  - U+1F40B
+  :shortcodes:
+  - ":whale2:"
+  - ":whale:"
+"\U0001F42C Dolphin":
+  :url: https://emojipedia.org/dolphin/
+  :unicode:
+  - U+1F42C
+  :shortcodes:
+  - ":dolphin:"
+  - ":flipper:"
+"\U0001F41F Fish":
+  :url: https://emojipedia.org/fish/
+  :unicode:
+  - U+1F41F
+  :shortcodes:
+  - ":fish:"
+"\U0001F420 Tropical Fish":
+  :url: https://emojipedia.org/tropical-fish/
+  :unicode:
+  - U+1F420
+  :shortcodes:
+  - ":tropical_fish:"
+"\U0001F421 Blowfish":
+  :url: https://emojipedia.org/blowfish/
+  :unicode:
+  - U+1F421
+  :shortcodes:
+  - ":blowfish:"
+"\U0001F988 Shark":
+  :url: https://emojipedia.org/shark/
+  :unicode:
+  - U+1F988
+  :shortcodes:
+  - ":shark:"
+"\U0001F419 Octopus":
+  :url: https://emojipedia.org/octopus/
+  :unicode:
+  - U+1F419
+  :shortcodes:
+  - ":octopus:"
+"\U0001F41A Spiral Shell":
+  :url: https://emojipedia.org/spiral-shell/
+  :unicode:
+  - U+1F41A
+  :shortcodes:
+  - ":shell:"
+  - ":spiral_shell:"
+"\U0001F40C Snail":
+  :url: https://emojipedia.org/snail/
+  :unicode:
+  - U+1F40C
+  :shortcodes:
+  - ":snail:"
+"\U0001F98B Butterfly":
+  :url: https://emojipedia.org/butterfly/
+  :unicode:
+  - U+1F98B
+  :shortcodes:
+  - ":butterfly:"
+"\U0001F41B Bug":
+  :url: https://emojipedia.org/bug/
+  :unicode:
+  - U+1F41B
+  :shortcodes:
+  - ":bug:"
+"\U0001F41C Ant":
+  :url: https://emojipedia.org/ant/
+  :unicode:
+  - U+1F41C
+  :shortcodes:
+  - ":ant:"
+"\U0001F41D Honeybee":
+  :url: https://emojipedia.org/honeybee/
+  :unicode:
+  - U+1F41D
+  :shortcodes:
+  - ":honeybee:"
+  - ":bee:"
+"\U0001F41E Lady Beetle":
+  :url: https://emojipedia.org/lady-beetle/
+  :unicode:
+  - U+1F41E
+  :shortcodes:
+  - ":beetle:"
+  - ":lady_beetle:"
+"\U0001F997 Cricket":
+  :url: https://emojipedia.org/cricket/
+  :unicode:
+  - U+1F997
+  :shortcodes:
+  - ":cricket:"
+"\U0001F577 Spider":
+  :url: https://emojipedia.org/spider/
+  :unicode:
+  - U+1F577
+  - U+FE0F
+  :shortcodes:
+  - ":spider:"
+"\U0001F578 Spider Web":
+  :url: https://emojipedia.org/spider-web/
+  :unicode:
+  - U+1F578
+  - U+FE0F
+  :shortcodes:
+  - ":spider_web:"
+"\U0001F982 Scorpion":
+  :url: https://emojipedia.org/scorpion/
+  :unicode:
+  - U+1F982
+  :shortcodes:
+  - ":scorpion:"
+"\U0001F99F Mosquito":
+  :url: https://emojipedia.org/mosquito/
+  :unicode:
+  - U+1F99F
+  :shortcodes:
+  - ":mosquito:"
+"\U0001F9A0 Microbe":
+  :url: https://emojipedia.org/microbe/
+  :unicode:
+  - U+1F9A0
+  :shortcodes:
+  - ":microbe:"
+"\U0001F490 Bouquet":
+  :url: https://emojipedia.org/bouquet/
+  :unicode:
+  - U+1F490
+  :shortcodes:
+  - ":bouquet:"
+"\U0001F338 Cherry Blossom":
+  :url: https://emojipedia.org/cherry-blossom/
+  :unicode:
+  - U+1F338
+  :shortcodes:
+  - ":cherry_blossom:"
+"\U0001F4AE White Flower":
+  :url: https://emojipedia.org/white-flower/
+  :unicode:
+  - U+1F4AE
+  :shortcodes:
+  - ":white_flower:"
+"\U0001F3F5 Rosette":
+  :url: https://emojipedia.org/rosette/
+  :unicode:
+  - U+1F3F5
+  - U+FE0F
+  :shortcodes:
+  - ":rosette:"
+"\U0001F339 Rose":
+  :url: https://emojipedia.org/rose/
+  :unicode:
+  - U+1F339
+  :shortcodes:
+  - ":rose:"
+"\U0001F940 Wilted Flower":
+  :url: https://emojipedia.org/wilted-flower/
+  :unicode:
+  - U+1F940
+  :shortcodes:
+  - ":wilted_flower:"
+"\U0001F33A Hibiscus":
+  :url: https://emojipedia.org/hibiscus/
+  :unicode:
+  - U+1F33A
+  :shortcodes:
+  - ":hibiscus:"
+"\U0001F33B Sunflower":
+  :url: https://emojipedia.org/sunflower/
+  :unicode:
+  - U+1F33B
+  :shortcodes:
+  - ":sunflower:"
+"\U0001F33C Blossom":
+  :url: https://emojipedia.org/blossom/
+  :unicode:
+  - U+1F33C
+  :shortcodes:
+  - ":blossom:"
+"\U0001F337 Tulip":
+  :url: https://emojipedia.org/tulip/
+  :unicode:
+  - U+1F337
+  :shortcodes:
+  - ":tulip:"
+"\U0001F331 Seedling":
+  :url: https://emojipedia.org/seedling/
+  :unicode:
+  - U+1F331
+  :shortcodes:
+  - ":seedling:"
+"\U0001F332 Evergreen Tree":
+  :url: https://emojipedia.org/evergreen-tree/
+  :unicode:
+  - U+1F332
+  :shortcodes:
+  - ":evergreen_tree:"
+"\U0001F333 Deciduous Tree":
+  :url: https://emojipedia.org/deciduous-tree/
+  :unicode:
+  - U+1F333
+  :shortcodes:
+  - ":deciduous_tree:"
+"\U0001F334 Palm Tree":
+  :url: https://emojipedia.org/palm-tree/
+  :unicode:
+  - U+1F334
+  :shortcodes:
+  - ":palm_tree:"
+"\U0001F335 Cactus":
+  :url: https://emojipedia.org/cactus/
+  :unicode:
+  - U+1F335
+  :shortcodes:
+  - ":cactus:"
+"\U0001F33E Sheaf of Rice":
+  :url: https://emojipedia.org/sheaf-of-rice/
+  :unicode:
+  - U+1F33E
+  :shortcodes:
+  - ":ear_of_rice:"
+  - ":sheaf_of_rice:"
+"\U0001F33F Herb":
+  :url: https://emojipedia.org/herb/
+  :unicode:
+  - U+1F33F
+  :shortcodes:
+  - ":herb:"
+"☘ Shamrock":
+  :url: https://emojipedia.org/shamrock/
+  :unicode:
+  - U+2618
+  - U+FE0F
+  :shortcodes:
+  - ":shamrock:"
+"\U0001F340 Four Leaf Clover":
+  :url: https://emojipedia.org/four-leaf-clover/
+  :unicode:
+  - U+1F340
+  :shortcodes:
+  - ":four_leaf_clover:"
+"\U0001F341 Maple Leaf":
+  :url: https://emojipedia.org/maple-leaf/
+  :unicode:
+  - U+1F341
+  :shortcodes:
+  - ":maple_leaf:"
+"\U0001F342 Fallen Leaf":
+  :url: https://emojipedia.org/fallen-leaf/
+  :unicode:
+  - U+1F342
+  :shortcodes:
+  - ":fallen_leaf:"
+"\U0001F343 Leaf Fluttering in Wind":
+  :url: https://emojipedia.org/leaf-fluttering-in-wind/
+  :unicode:
+  - U+1F343
+  :shortcodes:
+  - ":leaves:"
+  - ":leaf_fluttering_in_wind:"
+"\U0001F344 Mushroom":
+  :url: https://emojipedia.org/mushroom/
+  :unicode:
+  - U+1F344
+  :shortcodes:
+  - ":mushroom:"
+"\U0001F330 Chestnut":
+  :url: https://emojipedia.org/chestnut/
+  :unicode:
+  - U+1F330
+  :shortcodes:
+  - ":chestnut:"
+"\U0001F980 Crab":
+  :url: https://emojipedia.org/crab/
+  :unicode:
+  - U+1F980
+  :shortcodes:
+  - ":crab:"
+"\U0001F99E Lobster":
+  :url: https://emojipedia.org/lobster/
+  :unicode:
+  - U+1F99E
+  :shortcodes:
+  - ":lobster:"
+"\U0001F990 Shrimp":
+  :url: https://emojipedia.org/shrimp/
+  :unicode:
+  - U+1F990
+  :shortcodes:
+  - ":shrimp:"
+"\U0001F991 Squid":
+  :url: https://emojipedia.org/squid/
+  :unicode:
+  - U+1F991
+  :shortcodes:
+  - ":squid:"
+"\U0001F30D Globe Showing Europe-Africa":
+  :url: https://emojipedia.org/globe-showing-europe-africa/
+  :unicode:
+  - U+1F30D
+  :shortcodes:
+  - ":earth_africa:"
+  - ":globe_showing_europe_africa:"
+"\U0001F30E Globe Showing Americas":
+  :url: https://emojipedia.org/globe-showing-americas/
+  :unicode:
+  - U+1F30E
+  :shortcodes:
+  - ":earth_americas:"
+  - ":globe_showing_americas:"
+"\U0001F30F Globe Showing Asia-Australia":
+  :url: https://emojipedia.org/globe-showing-asia-australia/
+  :unicode:
+  - U+1F30F
+  :shortcodes:
+  - ":earth_asia:"
+  - ":globe_showing_asia_australia:"
+"\U0001F310 Globe with Meridians":
+  :url: https://emojipedia.org/globe-with-meridians/
+  :unicode:
+  - U+1F310
+  :shortcodes:
+  - ":globe_with_meridians:"
+"\U0001F311 New Moon":
+  :url: https://emojipedia.org/new-moon/
+  :unicode:
+  - U+1F311
+  :shortcodes:
+  - ":new_moon:"
+"\U0001F312 Waxing Crescent Moon":
+  :url: https://emojipedia.org/waxing-crescent-moon/
+  :unicode:
+  - U+1F312
+  :shortcodes:
+  - ":waxing_crescent_moon:"
+"\U0001F313 First Quarter Moon":
+  :url: https://emojipedia.org/first-quarter-moon/
+  :unicode:
+  - U+1F313
+  :shortcodes:
+  - ":first_quarter_moon:"
+"\U0001F314 Waxing Gibbous Moon":
+  :url: https://emojipedia.org/waxing-gibbous-moon/
+  :unicode:
+  - U+1F314
+  :shortcodes:
+  - ":moon:"
+  - ":waxing_gibbous_moon:"
+"\U0001F315 Full Moon":
+  :url: https://emojipedia.org/full-moon/
+  :unicode:
+  - U+1F315
+  :shortcodes:
+  - ":full_moon:"
+"\U0001F316 Waning Gibbous Moon":
+  :url: https://emojipedia.org/waning-gibbous-moon/
+  :unicode:
+  - U+1F316
+  :shortcodes:
+  - ":waning_gibbous_moon:"
+"\U0001F317 Last Quarter Moon":
+  :url: https://emojipedia.org/last-quarter-moon/
+  :unicode:
+  - U+1F317
+  :shortcodes:
+  - ":last_quarter_moon:"
+"\U0001F318 Waning Crescent Moon":
+  :url: https://emojipedia.org/waning-crescent-moon/
+  :unicode:
+  - U+1F318
+  :shortcodes:
+  - ":waning_crescent_moon:"
+"\U0001F319 Crescent Moon":
+  :url: https://emojipedia.org/crescent-moon/
+  :unicode:
+  - U+1F319
+  :shortcodes:
+  - ":crescent_moon:"
+"\U0001F31A New Moon Face":
+  :url: https://emojipedia.org/new-moon-face/
+  :unicode:
+  - U+1F31A
+  :shortcodes:
+  - ":new_moon_with_face:"
+  - ":new_moon_face:"
+"\U0001F31B First Quarter Moon Face":
+  :url: https://emojipedia.org/first-quarter-moon-face/
+  :unicode:
+  - U+1F31B
+  :shortcodes:
+  - ":first_quarter_moon_with_face:"
+  - ":first_quarter_moon_face:"
+"\U0001F31C Last Quarter Moon Face":
+  :url: https://emojipedia.org/last-quarter-moon-face/
+  :unicode:
+  - U+1F31C
+  :shortcodes:
+  - ":last_quarter_moon_with_face:"
+  - ":last_quarter_moon_face:"
+"☀ Sun":
+  :url: https://emojipedia.org/sun/
+  :unicode:
+  - U+2600
+  - U+FE0F
+  :shortcodes:
+  - ":sunny:"
+  - ":sun:"
+"\U0001F31D Full Moon Face":
+  :url: https://emojipedia.org/full-moon-face/
+  :unicode:
+  - U+1F31D
+  :shortcodes:
+  - ":full_moon_with_face:"
+  - ":full_moon_face:"
+"\U0001F31E Sun with Face":
+  :url: https://emojipedia.org/sun-with-face/
+  :unicode:
+  - U+1F31E
+  :shortcodes:
+  - ":sun_with_face:"
+"⭐ Star":
+  :url: https://emojipedia.org/star/
+  :unicode:
+  - U+2B50
+  :shortcodes:
+  - ":star:"
+"\U0001F31F Glowing Star":
+  :url: https://emojipedia.org/glowing-star/
+  :unicode:
+  - U+1F31F
+  :shortcodes:
+  - ":star2:"
+  - ":glowing_star:"
+"\U0001F320 Shooting Star":
+  :url: https://emojipedia.org/shooting-star/
+  :unicode:
+  - U+1F320
+  :shortcodes:
+  - ":stars:"
+  - ":shooting_star:"
+"☁ Cloud":
+  :url: https://emojipedia.org/cloud/
+  :unicode:
+  - U+2601
+  - U+FE0F
+  :shortcodes:
+  - ":cloud:"
+"⛅ Sun Behind Cloud":
+  :url: https://emojipedia.org/sun-behind-cloud/
+  :unicode:
+  - U+26C5
+  :shortcodes:
+  - ":partly_sunny:"
+  - ":sun_behind_cloud:"
+"⛈ Cloud with Lightning and Rain":
+  :url: https://emojipedia.org/cloud-with-lightning-and-rain/
+  :unicode:
+  - U+26C8
+  - U+FE0F
+  :shortcodes:
+  - ":cloud_with_lightning_and_rain:"
+  - ":thunder_cloud_and_rain:"
+"\U0001F324 Sun Behind Small Cloud":
+  :url: https://emojipedia.org/sun-behind-small-cloud/
+  :unicode:
+  - U+1F324
+  - U+FE0F
+  :shortcodes:
+  - ":mostly_sunny:"
+  - ":sun_behind_small_cloud:"
+  - ":sun_small_cloud:"
+"\U0001F325 Sun Behind Large Cloud":
+  :url: https://emojipedia.org/sun-behind-large-cloud/
+  :unicode:
+  - U+1F325
+  - U+FE0F
+  :shortcodes:
+  - ":barely_sunny:"
+  - ":sun_behind_large_cloud:"
+  - ":sun_behind_cloud:"
+"\U0001F326 Sun Behind Rain Cloud":
+  :url: https://emojipedia.org/sun-behind-rain-cloud/
+  :unicode:
+  - U+1F326
+  - U+FE0F
+  :shortcodes:
+  - ":sun_behind_rain_cloud:"
+  - ":partly_sunny_rain:"
+"\U0001F327 Cloud with Rain":
+  :url: https://emojipedia.org/cloud-with-rain/
+  :unicode:
+  - U+1F327
+  - U+FE0F
+  :shortcodes:
+  - ":cloud_with_rain:"
+  - ":rain_cloud:"
+"\U0001F328 Cloud with Snow":
+  :url: https://emojipedia.org/cloud-with-snow/
+  :unicode:
+  - U+1F328
+  - U+FE0F
+  :shortcodes:
+  - ":cloud_with_snow:"
+  - ":snow_cloud:"
+"\U0001F329 Cloud with Lightning":
+  :url: https://emojipedia.org/cloud-with-lightning/
+  :unicode:
+  - U+1F329
+  - U+FE0F
+  :shortcodes:
+  - ":lightning:"
+  - ":cloud_with_lightning:"
+  - ":lightning_cloud:"
+"\U0001F32A Tornado":
+  :url: https://emojipedia.org/tornado/
+  :unicode:
+  - U+1F32A
+  - U+FE0F
+  :shortcodes:
+  - ":tornado:"
+  - ":tornado_cloud:"
+"\U0001F32B Fog":
+  :url: https://emojipedia.org/fog/
+  :unicode:
+  - U+1F32B
+  - U+FE0F
+  :shortcodes:
+  - ":fog:"
+"\U0001F32C Wind Face":
+  :url: https://emojipedia.org/wind-face/
+  :unicode:
+  - U+1F32C
+  - U+FE0F
+  :shortcodes:
+  - ":wind_face:"
+  - ":wind_blowing_face:"
+"\U0001F308 Rainbow":
+  :url: https://emojipedia.org/rainbow/
+  :unicode:
+  - U+1F308
+  :shortcodes:
+  - ":rainbow:"
+"☂ Umbrella":
+  :url: https://emojipedia.org/umbrella/
+  :unicode:
+  - U+2602
+  - U+FE0F
+  :shortcodes:
+  - ":umbrella:"
+  - ":open_umbrella:"
+"☔ Umbrella with Rain Drops":
+  :url: https://emojipedia.org/umbrella-with-rain-drops/
+  :unicode:
+  - U+2614
+  :shortcodes:
+  - ":umbrella:"
+  - ":umbrella_with_rain_drops:"
+"⚡ High Voltage":
+  :url: https://emojipedia.org/high-voltage/
+  :unicode:
+  - U+26A1
+  :shortcodes:
+  - ":zap:"
+  - ":high_voltage:"
+"❄ Snowflake":
+  :url: https://emojipedia.org/snowflake/
+  :unicode:
+  - U+2744
+  - U+FE0F
+  :shortcodes:
+  - ":snowflake:"
+"☃ Snowman":
+  :url: https://emojipedia.org/snowman/
+  :unicode:
+  - U+2603
+  - U+FE0F
+  :shortcodes:
+  - ":snowman:"
+  - ":snowman_with_snow:"
+"⛄ Snowman Without Snow":
+  :url: https://emojipedia.org/snowman-without-snow/
+  :unicode:
+  - U+26C4
+  :shortcodes:
+  - ":snowman:"
+  - ":snowman_without_snow:"
+"☄ Comet":
+  :url: https://emojipedia.org/comet/
+  :unicode:
+  - U+2604
+  - U+FE0F
+  :shortcodes:
+  - ":comet:"
+"\U0001F525 Fire":
+  :url: https://emojipedia.org/fire/
+  :unicode:
+  - U+1F525
+  :shortcodes:
+  - ":fire:"
+"\U0001F4A7 Droplet":
+  :url: https://emojipedia.org/droplet/
+  :unicode:
+  - U+1F4A7
+  :shortcodes:
+  - ":droplet:"
+"\U0001F30A Water Wave":
+  :url: https://emojipedia.org/water-wave/
+  :unicode:
+  - U+1F30A
+  :shortcodes:
+  - ":ocean:"
+  - ":water_wave:"
+"\U0001F384 Christmas Tree":
+  :url: https://emojipedia.org/christmas-tree/
+  :unicode:
+  - U+1F384
+  :shortcodes:
+  - ":christmas_tree:"
+"✨ Sparkles":
+  :url: https://emojipedia.org/sparkles/
+  :unicode:
+  - U+2728
+  :shortcodes:
+  - ":sparkles:"
+"\U0001F38B Tanabata Tree":
+  :url: https://emojipedia.org/tanabata-tree/
+  :unicode:
+  - U+1F38B
+  :shortcodes:
+  - ":tanabata_tree:"
+"\U0001F38D Pine Decoration":
+  :url: https://emojipedia.org/pine-decoration/
+  :unicode:
+  - U+1F38D
+  :shortcodes:
+  - ":bamboo:"
+  - ":pine_decoration:"

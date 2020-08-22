@@ -1,1049 +1,8977 @@
 ---
-:smile: 1F606
-:laughing: 1F606
-:blush: 1F60A
-:smiley: 1F603
-:relaxed: 1F60C
-:smirk: 1F60F
-:heart_eyes: 1F60D
-:kissing_heart: 1F618
-:flushed: 1F633
-:satisfied: 1F606
-:grin: 1F601
-:wink: 1F609
-:stuck_out_tongue_winking_eye: 1F61C
-:stuck_out_tongue_closed_eyes: 1F61D
-:grinning: 1F600
-:kissing: 1F617
-:kissing_smiling_eyes: 1F619
-:stuck_out_tongue: 1F61B
-:sleeping: 1F634
-:worried: 1F61F
-:frowning: 1F627
-:anguished: 1F628
-:open_mouth: 1F62E
-:grimacing: 1F62C
-:confused: 1F615
-:hushed: 1F62F
-:expressionless: 1F611
-:unamused: 1F612
-:sweat_smile: 1F605
-:sweat: 1F613
-:disappointed_relieved: 1F622
-:weary: 1F629
-:pensive: 1F614
-:disappointed: 1F61E
-:confounded: 1F616
-:fearful: 1F628
-:cold_sweat: 1F630
-:cry: 1F622
-:sob: 1F62D
-:astonished: 1F632
-:scream: 1F631
-:tired_face: 1F629
-:angry: 1F620
-:rage: 1F621
-:triumph: 1F624
-:sleepy: 1F62A
-:yum: 1F60B
-:mask: 1F637
-:sunglasses: 1F60E
-:dizzy_face: 1F635
-:imp: 1F47F
-:smiling_imp: 1F608
-:no_mouth: 1F636
-:innocent: 1F607
-:alien: 1F47D
-:yellow_heart: 1F49B
-:blue_heart: 1F499
-:purple_heart: 1F49C
-:heart: '2764'
-:green_heart: 1F49A
-:broken_heart: 1F494
-:heartbeat: 1F493
-:two_hearts: 1F495
-:revolving_hearts: 1F49E
-:cupid: 1F498
-:sparkling_heart: 1F496
-:sparkles: '2728'
-:star: 2B50
-:boom: 1F4A5
-:anger: 1F4A2
-:exclamation: '2757'
-:question: '2753'
-:grey_exclamation: '2755'
-:grey_question: '2754'
-:zzz: 1F4A4
-:dash: 1F4A8
-:sweat_drops: 1F4A6
-:notes: 1F3B6
-:musical_note: 1F3B5
-:fire: 1F525
-:poop: 1F4A9
-:1: 1F44D
-:thumbsup: 1F44D
-:-1: 1F44E
-:thumbsdown: 1F44E
-:facepunch: 1F44A
-:fist: 270A
-:v: 270C
-:wave: 1F44B
-:raised_hand: 270B
-:open_hands: 1F450
-:point_up: 261D
-:point_down: 1F447
-:point_left: 1F448
-:point_right: 1F449
-:raised_hands: 1F64C
-:pray: 1F64F
-:point_up_2: 1F446
-:clap: 1F44F
-:muscle: 1F4AA
-:runner: 1F3C3
-:couple: 1F46B
-:family: 1F46A
-:two_men_holding_hands: 1F46C
-:two_women_holding_hands: 1F46D
-:dancer: 1F483
-:dancers: 1F46F
-:ok_woman: 1F645
-:no_good: 1F646
-:bride_with_veil: 1F470
-:bow: 1F380
-:couple_with_heart: 1F491
-:massage: 1F486
-:haircut: 1F487
-:nail_care: 1F485
-:boy: 1F466
-:girl: 1F467
-:woman: 1F469
-:man: 1F468
-:baby: 1F476
-:older_woman: 1F475
-:older_man: 1F474
-:person_with_blond_hair: 1F471
-:man_with_gua_pi_mao: 1F472
-:man_with_turban: 1F473
-:construction_worker: 1F477
-:cop: 1F46E
-:angel: 1F47C
-:princess: 1F478
-:smiley_cat: 1F63A
-:smile_cat: 1F638
-:heart_eyes_cat: 1F63B
-:kissing_cat: 1F63D
-:smirk_cat: 1F63C
-:scream_cat: 1F640
-:crying_cat_face: 1F63F
-:joy_cat: 1F639
-:pouting_cat: 1F63E
-:japanese_ogre: 1F479
-:japanese_goblin: 1F47A
-:see_no_evil: 1F648
-:hear_no_evil: 1F649
-:speak_no_evil: 1F64A
-:guardsman: 1F482
-:skull: 1F480
-:lips: 1F444
-:kiss: 1F48B
-:droplet: 1F4A7
-:ear: 1F442
-:eyes: 1F440
-:nose: 1F443
-:tongue: 1F445
-:love_letter: 1F48C
-:bust_in_silhouette: 1F464
-:busts_in_silhouette: 1F465
-:speech_balloon: 1F4AC
-:thought_balloon: 1F4AD
-:umbrella: '2614'
-:snowflake: '2744'
-:snowman: 26C4
-:zap: 26A1
-:cyclone: 1F300
-:foggy: 1F301
-:ocean: 1F30A
-:cat: 1F431
-:dog: 1F436
-:mouse: 1F42D
-:hamster: 1F439
-:rabbit: 1F430
-:wolf: 1F43A
-:frog: 1F438
-:tiger: 1F42F
-:koala: 1F428
-:bear: 1F43B
-:pig: 1F437
-:pig_nose: 1F43D
-:cow: 1F42E
-:boar: 1F417
-:monkey_face: 1F435
-:monkey: 1F412
-:horse: 1F40E
-:racehorse: 1F3C7
-:camel: 1F42B
-:elephant: 1F418
-:panda_face: 1F43C
-:snake: 1F40D
-:bird: 1F426
-:baby_chick: 1F424
-:hatched_chick: 1F425
-:hatching_chick: 1F423
-:chicken: 1F414
-:penguin: 1F427
-:turtle: 1F422
-:bug: 1F41B
-:honeybee: 1F41D
-:ant: 1F41C
-:beetle: 1F41E
-:snail: 1F40C
-:octopus: 1F419
-:tropical_fish: 1F420
-:fish: 1F41F
-:whale: 1F433
-:whale2: 1F40B
-:dolphin: 1F42C
-:cow2: 1F404
-:ram: 1F40F
-:rat: 1F400
-:water_buffalo: 1F403
-:dragon: 1F409
-:goat: 1F410
-:dog2: 1F415
-:pig2: 1F416
-:mouse2: 1F401
-:ox: 1F402
-:dragon_face: 1F432
-:blowfish: 1F421
-:crocodile: 1F40A
-:dromedary_camel: 1F42A
-:leopard: 1F406
-:cat2: 1F408
-:poodle: 1F429
-:paw_prints: 1F43E
-:bouquet: 1F490
-:cherry_blossom: 1F338
-:tulip: 1F337
-:four_leaf_clover: 1F340
-:rose: 1F339
-:sunflower: 1F33B
-:hibiscus: 1F33A
-:maple_leaf: 1F341
-:leaves: 1F343
-:fallen_leaf: 1F342
-:herb: 1F33F
-:mushroom: 1F344
-:cactus: 1F335
-:palm_tree: 1F334
-:evergreen_tree: 1F332
-:deciduous_tree: 1F333
-:chestnut: 1F330
-:seedling: 1F331
-:blossom: 1F33C
-:ear_of_rice: 1F33E
-:shell: 1F41A
-:globe_with_meridians: 1F310
-:sun_with_face: 1F31E
-:full_moon_with_face: 1F31D
-:new_moon_with_face: 1F31A
-:new_moon: 1F311
-:waxing_crescent_moon: 1F311
-:first_quarter_moon: 1F312
-:waxing_gibbous_moon: 1F313
-:full_moon: 1F315
-:waning_gibbous_moon: 1F316
-:last_quarter_moon: 1F317
-:waning_crescent_moon: 1F318
-:last_quarter_moon_with_face: 1F31C
-:first_quarter_moon_with_face: 1F31B
-:crescent_moon: 1F319
-:earth_africa: 1F30D
-:earth_americas: 1F30E
-:earth_asia: 1F30F
-:volcano: 1F30B
-:milky_way: 1F30C
-:partly_sunny: 26C5
-:squirrel: 1F43F
-:bamboo: 1F38B
-:dolls: 1F38E
-:school_satchel: 1F392
-:mortar_board: 1F393
-:fireworks: 1F386
-:sparkler: 1F387
-:wind_chime: 1F390
-:jack_o_lantern: 1F383
-:ghost: 1F47B
-:santa: 1F385
-:christmas_tree: 1F384
-:gift: 1F381
-:bell: 1F514
-:no_bell: 1F515
-:tada: 1F389
-:confetti_ball: 1F38A
-:balloon: 1F388
-:crystal_ball: 1F52E
-:cd: 1F4BF
-:dvd: 1F4C0
-:floppy_disk: 1F4BE
-:camera: 1F4F7
-:video_camera: 1F4F9
-:movie_camera: 1F3A5
-:computer: 1F4BB
-:tv: 1F4FA
-:iphone: 1F4F1
-:telephone_receiver: 1F4DE
-:pager: 1F4DF
-:fax: 1F4E0
-:minidisc: 1F4BD
-:vhs: 1F4FC
-:speaker: 1F508
-:mute: 1F507
-:loudspeaker: 1F4E2
-:mega: 1F4E3
-:hourglass_flowing_sand: 23F3
-:alarm_clock: 23F0
-:radio: 1F4FB
-:satellite: 1F6F0
-:unlock: 1F513
-:lock: 1F512
-:lock_with_ink_pen: 1F50F
-:closed_lock_with_key: 1F510
-:key: 1F511
-:bulb: 1F4A1
-:flashlight: 1F526
-:high_brightness: 1F506
-:low_brightness: 1F505
-:electric_plug: 1F50C
-:battery: 1F50B
-:postbox: 1F4EE
-:bath: 1F6C0
-:bathtub: 1F6C1
-:shower: 1F6BF
-:toilet: 1F6BD
-:wrench: 1F527
-:nut_and_bolt: 1F529
-:hammer: 1F528
-:seat: 1F4BA
-:moneybag: 1F4B0
-:yen: 1F4B4
-:dollar: 1F4B5
-:pound: 1F4B7
-:euro: 1F4B6
-:credit_card: 1F4B4
-:money_with_wings: 1F4B8
-:e-mail: 1F4E7
-:inbox_tray: 1F4E5
-:outbox_tray: 1F4E4
-:envelope: '2709'
-:incoming_envelope: 1F4E8
-:postal_horn: 1F4EF
-:mailbox_closed: 1F4EA
-:mailbox_with_mail: 1F4EC
-:mailbox_with_no_mail: 1F4ED
-:package: 1F4E6
-:door: 1F6AA
-:smoking: 1F6AC
-:bomb: 1F4A3
-:gun: 1F52B
-:pill: 1F48A
-:syringe: 1F489
-:page_facing_up: 1F4C4
-:page_with_curl: 1F4C3
-:bookmark_tabs: 1F4D1
-:bar_chart: 1F4CA
-:chart_with_upwards_trend: 1F4C8
-:chart_with_downwards_trend: 1F4C9
-:scroll: 1F4DC
-:clipboard: 1F4CB
-:calendar: 1F4C5
-:card_index: 1F4C7
-:file_folder: 1F4C1
-:open_file_folder: 1F4C2
-:scissors: '2702'
-:pushpin: 1F4CC
-:paperclip: 1F4CE
-:black_nib: '2712'
-:straight_ruler: 1F4CF
-:triangular_ruler: 1F4D0
-:closed_book: 1F4D5
-:green_book: 1F4D7
-:blue_book: 1F4D8
-:orange_book: 1F4D9
-:notebook: 1F4D3
-:ledger: 1F4D2
-:books: 1F4DA
-:bookmark: 1F516
-:name_badge: 1F4DB
-:microscope: 1F52C
-:telescope: 1F52D
-:newspaper: 1F4F0
-:football: 1F3C8
-:basketball: 1F3C0
-:soccer: 26BD
-:baseball: 26BE
-:tennis: 1F3BE
-:8ball: 1F3B1
-:rugby_football: 1F3C9
-:bowling: 1F3B3
-:golf: 26F3
-:mountain_bicyclist: 1F6B5
-:bicyclist: 1F6B4
-:snowboarder: 1F3C2
-:swimmer: 1F3CA
-:surfer: 1F3C4
-:ski: 1F3BF
-:gem: 1F48E
-:ring: 1F48D
-:trophy: 1F3C6
-:musical_score: 1F3BC
-:musical_keyboard: 1F3B9
-:violin: 1F3BB
-:space_invader: 1F47E
-:video_game: 1F3AE
-:black_joker: 1F0CF
-:flower_playing_cards: 1F3B4
-:game_die: 1F3B2
-:dart: 1F3AF
-:mahjong: 1F004
-:clapper: 1F3AC
-:memo: 1F4DD
-:pencil: 270F
-:microphone: 1F3A4
-:headphones: 1F3A7
-:trumpet: 1F3BA
-:saxophone: 1F3B7
-:guitar: 1F3B8
-:shoe: 1F45E
-:sandal: 1F461
-:high_heel: 1F460
-:lipstick: 1F484
-:boot: 1F462
-:shirt: 1F455
-:necktie: 1F454
-:womans_clothes: 1F45A
-:dress: 1F457
-:running_shirt_with_sash: 1F3BD
-:jeans: 1F456
-:kimono: 1F458
-:bikini: 1F459
-:ribbon: 1F397
-:tophat: 1F3A9
-:crown: 1F451
-:womans_hat: 1F452
-:closed_umbrella: 1F302
-:briefcase: 1F4BC
-:handbag: 1F45C
-:pouch: 1F45D
-:purse: 1F45B
-:eyeglasses: 1F453
-:fishing_pole_and_fish: 1F3A3
-:coffee: '2615'
-:tea: 1F375
-:sake: 1F376
-:baby_bottle: 1F37C
-:beer: 1F37A
-:beers: 1F37B
-:tropical_drink: 1F379
-:wine_glass: 1F377
-:fork_and_knife: 1F374
-:pizza: 1F355
-:hamburger: 1F354
-:fries: 1F35F
-:poultry_leg: 1F357
-:meat_on_bone: 1F356
-:spaghetti: 1F35D
-:curry: 1F35B
-:fried_shrimp: 1F364
-:bento: 1F371
-:sushi: 1F363
-:fish_cake: 1F365
-:rice_ball: 1F359
-:rice_cracker: 1F358
-:rice: 1F35A
-:oden: 1F362
-:dango: 1F361
-:egg: 1F959
-:bread: 1F35E
-:doughnut: 1F369
-:custard: 1F36E
-:ice_cream: 1F368
-:shaved_ice: 1F367
-:cake: 1F382
-:cookie: 1F36A
-:chocolate_bar: 1F36B
-:lollipop: 1F36D
-:honey_pot: 1F36F
-:apple: 1F34E
-:green_apple: 1F34F
-:tangerine: 1F34A
-:lemon: 1F34B
-:cherries: 1F352
-:grapes: 1F347
-:watermelon: 1F349
-:strawberry: 1F353
-:peach: 1F351
-:melon: 1F348
-:banana: 1F34C
-:pear: 1F350
-:pineapple: 1F34D
-:sweet_potato: 1F360
-:eggplant: 1F346
-:tomato: 1F345
-:corn: 1F33D
-:house: 1F3E0
-:house_with_garden: 1F3E1
-:school: 1F3EB
-:office: 1F3E2
-:post_office: 1F3E3
-:hospital: 1F3E5
-:bank: 1F3E6
-:convenience_store: 1F3EA
-:love_hotel: 1F3E9
-:hotel: 1F3E8
-:wedding: 1F492
-:church: 26EA
-:department_store: 1F3EC
-:european_post_office: 1F3E4
-:city_sunrise: 1F306
-:city_sunset: 1F307
-:japanese_castle: 1F3EF
-:european_castle: 1F3F0
-:tent: 26FA
-:factory: 1F3ED
-:tokyo_tower: 1F5FC
-:japan: 1F5FE
-:mount_fuji: 1F5FB
-:sunrise_over_mountains: 1F304
-:sunrise: 1F305
-:statue_of_liberty: 1F5FD
-:bridge_at_night: 1F309
-:carousel_horse: 1F3A0
-:rainbow: 1F308
-:fountain: 26F2
-:roller_coaster: 1F3A2
-:ship: 1F6A2
-:speedboat: 1F6A4
-:boat: 26F4
-:sailboat: 26F5
-:rowboat: 1F6A3
-:anchor: '2693'
-:rocket: 1F680
-:airplane: '2708'
-:helicopter: 1F681
-:steam_locomotive: 1F682
-:tram: 1F68A
-:mountain_railway: 1F69E
-:bike: 1F6B2
-:aerial_tramway: 1F6A1
-:suspension_railway: 1F69F
-:mountain_cableway: 1F6A0
-:tractor: 1F69C
-:blue_car: 1F699
-:oncoming_automobile: 1F698
-:red_car: 1F697
-:taxi: 1F695
-:oncoming_taxi: 1F696
-:articulated_lorry: 1F69B
-:bus: 1F68C
-:oncoming_bus: 1F68D
-:police_car: 1F693
-:oncoming_police_car: 1F694
-:fire_engine: 1F692
-:ambulance: 1F691
-:minibus: 1F690
-:station: 1F689
-:bullettrain_front: 1F686
-:light_rail: 1F688
-:monorail: 1F69D
-:railway_car: 1F683
-:trolleybus: 1F68E
-:ticket: 1F3AB
-:fuelpump: 26FD
-:vertical_traffic_light: 1F6A6
-:traffic_light: 1F6A5
-:construction: 1F6A7
-:beginner: 1F530
-:atm: 1F3E7
-:slot_machine: 1F3B0
-:busstop: 1F68F
-:barber: 1F488
-:checkered_flag: 1F3C1
-:crossed_flags: 1F38C
-:izakaya_lantern: 1F3EE
-:circus_tent: 1F3AA
-:performing_arts: 1F3AD
-:round_pushpin: 1F4CD
-:triangular_flag_on_post: 1F6A9
-:keycap_ten: 1F51F
-:1234: 1F522
-:symbols: 1F523
-:arrow_down: 2B07
-:arrow_left: 2B05
-:capital_abcd: 1F520
-:abcd: 1F521
-:abc: 1F524
-:arrow_right: 27A1
-:arrow_up: 2B06
-:arrow_double_down: 23EC
-:arrow_double_up: 23EB
-:arrows_clockwise: 1F503
-:arrows_counterclockwise: 1F504
-:rewind: 23EA
-:fast_forward: 23E9
-:ok: 1F197
-:twisted_rightwards_arrows: 1F500
-:repeat: 1F501
-:repeat_one: 1F502
-:new: 1F195
-:top: 1F51D
-:cool: 1F192
-:free: 1F193
-:ng: 1F196
-:cinema: 1F3A6
-:sa: 1F202
-:restroom: 1F6BB
-:mens: 1F6B9
-:womens: 1F6BA
-:baby_symbol: 1F6BC
-:no_smoking: 1F6AD
-:wheelchair: 267F
-:baggage_claim: 1F6C4
-:wc: 1F6BE
-:potable_water: 1F6B0
-:put_litter_in_its_place: 1F6AE
-:secret: '3299'
-:congratulations: '3297'
-:m: 24C2
-:passport_control: 1F6C2
-:left_luggage: 1F6C5
-:customs: 1F6C3
-:cl: 1F191
-:sos: 1F198
-:id: 1F194
-:no_entry_sign: 1F6AB
-:underage: 1F51E
-:non-potable_water: 1F6B1
-:no_bicycles: 1F6B3
-:no_pedestrians: 1F6B7
-:children_crossing: 1F6B8
-:no_entry: 26D4
-:eight_spoked_asterisk: '2734'
-:sparkle: '2747'
-:heart_decoration: 1F49F
-:vibration_mode: 1F4F3
-:mobile_phone_off: 1F4F4
-:currency_exchange: 1F4B1
-:aries: '2648'
-:taurus: '2649'
-:gemini: 264A
-:cancer: 264B
-:leo: 264C
-:virgo: 264D
-:libra: 264E
-:scorpius: 264F
-:sagittarius: '2650'
-:capricorn: '2651'
-:aquarius: '2652'
-:pisces: '2653'
-:ophiuchus: 26CE
-:six_pointed_star: 1F52F
-:negative_squared_cross_mark: 274E
-:a: 1F170
-:b: 1F171
-:ab: 1F18E
-:diamond_shape_with_a_dot_inside: 1F4A0
-:end: 1F51A
-:back: 1F519
-:on: 1F51B
-:soon: 1F51C
-:clock1: 1F550
-:clock130: 1F55C
-:clock10: 1F559
-:clock1030: 1F565
-:clock11: 1F55A
-:clock1130: 1F566
-:clock12: 1F55B
-:clock1230: 1F567
-:clock2: 1F551
-:clock230: 1F55D
-:clock3: 1F552
-:clock330: 1F55E
-:clock4: 1F553
-:clock430: 1F55F
-:clock5: 1F554
-:clock530: 1F560
-:clock6: 1F555
-:clock630: 1F561
-:clock7: 1F556
-:clock730: 1F562
-:clock8: 1F557
-:clock830: 1F563
-:clock9: 1F558
-:clock930: 1F564
-:heavy_dollar_sign: 1F4B2
-:x: 274C
-:o: 1F17E
-:heavy_plus_sign: '2795'
-:heavy_minus_sign: '2796'
-:heavy_division_sign: '2797'
-:white_flower: 1F4AE
-:100: 1F4AF
-:heavy_check_mark: '2714'
-:radio_button: 1F518
-:link: 1F517
-:curly_loop: 27B0
-:wavy_dash: '3030'
-:part_alternation_mark: 303D
-:trident: 1F531
-:black_large_square: 2B1B
-:white_large_square: 2B1C
-:white_check_mark: '2705'
-:black_square_button: 1F532
-:white_square_button: 1F533
-:black_circle: 26AB
-:white_circle: 26AA
-:red_circle: 2B55
-:large_blue_circle: 1F535
-:large_blue_diamond: 1F537
-:large_orange_diamond: 1F536
-:small_blue_diamond: 1F539
-:small_orange_diamond: 1F538
-:small_red_triangle: 1F53A
-:small_red_triangle_down: 1F53B
-:next_track: 23ED
-:prev_track: 23EE
-:play_pause: 23EF
-:stopwatch: 23F1
-:eggtimer: 23F2
-:pause: 23F8
-:stop: 23F9
-:record: 23FA
-:pawn: 265F
-:pickaxe: 26CF
-:medic: 26D1
-:chains: 26D3
-:shinto_shrine: 26E9
-:mountain: 26F0
-:beach_with_umbrella: 1F3D6
-:umbrella_on_ground: 26F1
-:skier: 26F7
-:ice_skate: 26F8
-:man_bouncing_ball: 26F9
-:writing_hand: 270D
-:latin_cross: 271D
-:heavy_heart_exclamation: '2763'
-:double_curly_loop: 27BF
-:right_arrow_curving_up: '2934'
-:negative_squared_latin_p: 1F17F
-:here: 1F201
-:night_with_stars: 1F303
-:glowing_star: 1F31F
-:shooting_star: 1F320
-:thermometer: 1F321
-:sun_with_small_cloud: 1F324
-:sun_behind_cloud: 1F325
-:sun_behind_raincloud: 1F326
-:rain: 1F327
-:snow: 1F328
-:lightning: 1F329
-:tornado: 1F32A
-:fog: 1F32B
-:windy: 1F32C
-:hotdog: 1F32D
-:taco: 1F32E
-:burrito: 1F32F
-:hot_pepper: 1F336
-:steaming_bowl: 1F35C
-:pot_of_food: 1F372
-:fork_and_knife_with_plate: 1F37D
-:bottle_with_popping_cork: 1F37E
-:popcorn: 1F37F
-:pine_decoration: 1F38D
-:carp_streamer: 1F38F
-:moon_viewing: 1F391
-:military_medal: 1F396
-:level_slider: 1F39A
-:knobs: 1F39B
-:film: 1F39E
-:studio_microphone: 1F399
-:admission_ticket: 1F39F
-:palette: 1F3A8
-:sports_medal: 1F3C5
-:weight_lifter: 1F3CB
-:golfer: 1F3CC
-:motorcycle: 1F3CD
-:racing_car: 1F3CE
-:cricket_bat_and_ball: 1F3CF
-:volleyball: 1F3D0
-:field_hockey: 1F3D1
-:hockey: 1F3D2
-:pingpong: 1F3D3
-:snowy_mountain: 1F3D4
-:camping: 1F3D5
-:building_construction: 1F3D7
-:house_buildings: 1F3D8
-:cityscape: 1F3D9
-:derelict_house: 1F3DA
-:desert: 1F3DC
-:desert_island: 1F3DD
-:national_park: 1F3DE
-:stadium: 1F3DF
-:classical_building: 1F3DB
-:white_flag: 1F3F3
-:black_flag: 1F3F4
-:rosette: 1F3F5
-:label: 1F3F7
-:badminton: 1F3F8
-:bow_and_arrow: 1F3F9
-:amphora: 1F3FA
-:horse_face: 1F434
-:eye: 1F441
-:ok_gesture: 1F44C
-:running_shoe: 1F45F
-:footprints: 1F463
-:woman_with_tipping_hand: 1F481
-:growing_heart: 1F497
-:heart_with_ribbon: 1F49D
-:tear_off_calendar: 1F4C6
-:chart_with_upwards_trend_yen: 1F4B9
-:open_book: 1F4D6
-:envelope_with_arrow: 1F4E9
-:closed_mailbox_with_raised_flag: 1F4EB
-:iphone_with_arrow: 1F4F2
-:no_mobile_phones: 1F4F5
-:antenna_with_bars: 1F4F6
-:camera_with_flash: 1F4F8
-:film_projector: 1F4FD
-:prayer_beads: 1F4FF
-:speaker_low_volume: 1F509
-:speaker_high_volume: 1F50A
-:left_pointing_magnifying_glass: 1F50D
-:right_pointing_magnifying_glass: 1F50E
-:star_of_david: '2721'
-:large_red_circle: 1F534
-:upwards_button: 1F53C
-:downwards_button: 1F53D
-:om: 1F549
-:dove: 1F54A
-:kaaba: 1F54B
-:mosque: 1F54C
-:synagogue: 1F54D
-:menorah: 1F54E
-:candle: 1F56F
-:mantelpiece_clock: 1F570
-:hole: 1F573
-:man_levitating_in_business_suit: 1F574
-:spy: 1F575
-:spider: 1F577
-:spider_web: 1F578
-:joystick: 1F579
-:man_dancing: 1F57A
-:ballpoint_pen: 1F58A
-:fountain_pen: 1F58B
-:paintbrush: 1F58C
-:crayon: 1F58D
-:raised_hand_with_fingers_splayed: 1F590
-:middle_finger: 1F595
-:vulcan_salute: 1F596
-:black_heart: 1F5A4
-:desktop_computer: 1F5A5
-:printer: 1F5A8
-:computer_mouse: 1F5B1
-:trackball: 1F5B2
-:framed_picture: 1F5BC
-:card_index_dividers: 1F5C2
-:card_file_box: 1F5C3
-:file_cabinet: 1F5C4
-:wastepaper_basket: 1F5D1
-:spiral_notepad: 1F5D2
-:spiral_calendar: 1F5D3
-:compression: 1F5DC
-:old_key: 1F5DD
-:rolled_up_newspaper: 1F5DE
-:dagger: 1F5E1
-:speaking_head: 1F5E3
-:speech_bubble_left: 1F5E8
-:right_anger_bubble: 1F5EF
-:ballot_box: 1F5F3
-:world_map: 1F5FA
-:moai: 1F5FF
-:dark_sunglasses: 1F576
-:slightly_frowning_face: 1F641
-:slightly_smiling_face: 1F642
-:upside_down_face: 1F643
-:face_with_rolling_eyes: 1F644
-:man_bowing: 1F647
-:woman_with_raised_hand: 1F64B
-:woman_frowning: 1F64D
-:woman_pouting: 1F64E
-:high_speed_train: 1F684
-:train_in_tunnel: 1F687
-:tram_car: 1F68B
-:delivery_truck: 1F69A
-:police_car_light: 1F6A8
-:no_littering: 1F6AF
-:pedestrian: 1F6B6
-:couch_and_lamp: 1F6CB
-:sleeping_accommodation: 1F6CC
-:shopping_bags: 1F6Cd
-:bellhop_bell: 1F6CE
-:bed: 1F6CF
-:place_of_worship: 1F6D0
-:stop_sign: 1F6D1
-:shopping_cart: 1F6D2
-:hammer_and_wrench: 1F6E0
-:shield: 1F6E1
-:sock: 1F9E6
-:coat: 1F9E5
-:gloves: 1F9E4
-:scarf: 1F9E3
-:billed_cap: 1F9E2
-:orange_heart: 1F9E1brain
-:zombie: 1F9DF
-:genie: 1F9DE
-:elf: 1F9DD
-:merman: 1F9DC
-:vampire: 1F9DB
-:fairy: 1F9DA
-:witch: 1F9D9
-:woman_in_lotus: 1F9D8
-:man_climbing: 1F9D7
-:man_in_steamy_room: 1F9D6
-:person_with_headscarf: 1F9D5
-:bearded_person: 1F9D4
-:older_adult: 1F9D3
-:child: 1F9D2
-:adult: 1F9D1
-:face_with_monocle: 1F9D0
-:cheese: 1F9C0
-:cricket: 1F997
-:t-rex: 1F996
-:sauropod: 1F995
-:hedgehog: 1F994
-:zebra: 1F993
-:giraffe: 1F992
-:squid: 1F991
-:shrimp: 1F990
-:rhino: 1F98F
-:lizard: 1F98E
-:gorilla: 1F98D
-:deer: 1F98C
-:butterfly: 1F98B
-:fox_face: 1F98A
-:owl: 1F989
-:shark: 1F988
-:bat: 1F987
-:duck: 1F986
-:eagle: 1F985
-:unicorn: 1F984
-:turkey: 1F983
-:scorpion: 1F982
-:lion_face: 1F981
-:crab: 1F980
-:canned_food: 1F96B
-:sandwich: 1F96A
-:cut_of_meat: 1F969
-:pretzel: 1F968
-:pie: 1F967
-:broccoli: 1F966
-:coconut: 1F965
-:cup_with_straw: 1F964
-:bowl: 1F963
-:chopsticks: 1F962
-:takeout_box: 1F961
-:fortune_cookie: 1F960
-:dumping: 1F95F
-:pancakes: 1F95E
-:kiwi: 1F95D
-:peanuts: 1F95C
-:glass_of_milk: 1F95B
-:doner_kebab: 1F959
-:stuffed_pita: 1F959
-:paella: 1F958
-:salad: 1F957
-:baguette: 1F956
-:carrot: 1F955
-:potato: 1F954
-:bacon: 1F953
-:cucumber: 1F952
-:avocado: 1F951
-:croissant: 1F950
-:flying_disc: 1F94F
-:softball: 1F94E
-:lacrosse: 1F94D
-:curling_stone: 1F94C
-:martial_arts_uniform: 1F94B
-:gi: 1F94B
-:boxing_glove: 1F94A
-:third_place: 1F949
-:second_place: 1F948
-:first_place: 1F947
-:goal_net: 1F945
-:spoon: 1F944
-:tumbler_glass: 1F943
-:clinking_glasses: 1F942
-:drum: 1F941
-:wilted_flower: 1F940
-:handball: 1F93E
-:water_polo: 1F93D
-:wrestling: 1F93C
-:fencing: 1F93A
-:juggling: 1F939
-:gymnastics: 1F938
-:woman_shrugging: 1F937
-:mrs_claus: 1F936
-:man_in_tuxedo: 1F935
-:king: 1F934
-:selfie: 1F933
-:palms_up: 1F932
-:breastfeeding: 1F931
-:pregnant_woman: 1F930
-:exploding_head: 1F92F
-:vomiting: 1F92E
-:face_with_hand_over_mouth: 1F92D
-:face_with_symbols_on_mouth: 1F92C
-:shushing_face: 1F92B
-:zany_face: 1F92A
-:oil_drum: 1F6E2
-:motorway: 1F6E3
-:railway_track: 1F6E4
-:motorboat: 1F6E5
-:small_airplane: 1F6E9
-:airplane_departure: 1F6EB
-:airplane_arrival: 1F6EC
-:passenger_ship: 1F6F3
-:scooter: 1F6F4
-:motor_scooter: 1F6F5
-:canoe: 1F6F6
-:sled: 1F6F7
-:ufo: 1F6F8
-:skateboard: 1F6F9
-:auto_rickshaw: 1F6FA
-:zipper_mouth_face: 1F910
-:money_mouth: 1F911
-:face_with_thermometer: 1F912
-:nerd_face: 1F913
-:thinking_face: 1F914
-:face_with_head_bandage: 1F915
-:robot_face: 1F916
-:hugging_face: 1F917
-:sign_of_the_horns: 1F918
-:shaka: 1F919
-:call_me_hands: 1F919
-:raised_back_of_hand: 1F91A
-:left_fist: 1F91B
-:right_fist: 1F91C
-:handshake: 1F91D
-:crossed_fingers: 1F91E
-:i_love_you_hand: 1F91F
-:cowboy_hat_face: 1F920
-:clown: 1F921
-:nauseated_face: 1F922
-:rolling_on_the_floor_laughing: 1F923
-:rofl: 1F923
-:drooling_face: 1F924
-:lying_face: 1F925
-:face_palm: 1F926
-:sneezing_face: 1F927
-:face_with_raised_eyebrow: 1F928
-:star_struck: 1F929
+flags:
+  ":checkered_flag:":
+  - 1F3C1
+  ":chequered_flag:":
+  - 1F3C1
+  ":triangular_flag_on_post:":
+  - 1F6A9
+  ":triangular_flag:":
+  - 1F6A9
+  ":crossed_flags:":
+  - 1F38C
+  ":black_flag:":
+  - 1F3F4
+  ":waving_black_flag:":
+  - 1F3F4
+  ":white_flag:":
+  - 1F3F3
+  - FE0F
+  ":waving_white_flag:":
+  - 1F3F3
+  - FE0F
+  ":rainbow_flag:":
+  - 1F3F3
+  - FE0F
+  - 200D
+  - 1F308
+  ":rainbow-flag:":
+  - 1F3F3
+  - FE0F
+  - 200D
+  - 1F308
+  ":transgender_flag:":
+  - 1F3F3
+  - FE0F
+  - 200D
+  - 26A7
+  - FE0F
+  ":pirate_flag:":
+  - 1F3F4
+  - 200D
+  - '2620'
+  - FE0F
+  ":flag-ac:":
+  - 1F1E6
+  - 1F1E8
+  ":ascension_island:":
+  - 1F1E6
+  - 1F1E8
+  ":flag_ascension_island:":
+  - 1F1E6
+  - 1F1E8
+  ":andorra:":
+  - 1F1E6
+  - 1F1E9
+  ":flag-ad:":
+  - 1F1E6
+  - 1F1E9
+  ":flag_andorra:":
+  - 1F1E6
+  - 1F1E9
+  ":flag-ae:":
+  - 1F1E6
+  - 1F1EA
+  ":united_arab_emirates:":
+  - 1F1E6
+  - 1F1EA
+  ":flag_united_arab_emirates:":
+  - 1F1E6
+  - 1F1EA
+  ":flag-af:":
+  - 1F1E6
+  - 1F1EB
+  ":afghanistan:":
+  - 1F1E6
+  - 1F1EB
+  ":flag_afghanistan:":
+  - 1F1E6
+  - 1F1EB
+  ":flag-ag:":
+  - 1F1E6
+  - 1F1EC
+  ":antigua_barbuda:":
+  - 1F1E6
+  - 1F1EC
+  ":flag_antigua_barbuda:":
+  - 1F1E6
+  - 1F1EC
+  ":flag-ai:":
+  - 1F1E6
+  - 1F1EE
+  ":anguilla:":
+  - 1F1E6
+  - 1F1EE
+  ":flag_anguilla:":
+  - 1F1E6
+  - 1F1EE
+  ":albania:":
+  - 1F1E6
+  - 1F1F1
+  ":flag-al:":
+  - 1F1E6
+  - 1F1F1
+  ":flag_albania:":
+  - 1F1E6
+  - 1F1F1
+  ":armenia:":
+  - 1F1E6
+  - 1F1F2
+  ":flag-am:":
+  - 1F1E6
+  - 1F1F2
+  ":flag_armenia:":
+  - 1F1E6
+  - 1F1F2
+  ":angola:":
+  - 1F1E6
+  - 1F1F4
+  ":flag-ao:":
+  - 1F1E6
+  - 1F1F4
+  ":flag_angola:":
+  - 1F1E6
+  - 1F1F4
+  ":flag-aq:":
+  - 1F1E6
+  - 1F1F6
+  ":antarctica:":
+  - 1F1E6
+  - 1F1F6
+  ":flag_antarctica:":
+  - 1F1E6
+  - 1F1F6
+  ":flag-ar:":
+  - 1F1E6
+  - 1F1F7
+  ":argentina:":
+  - 1F1E6
+  - 1F1F7
+  ":flag_argentina:":
+  - 1F1E6
+  - 1F1F7
+  ":flag-as:":
+  - 1F1E6
+  - 1F1F8
+  ":american_samoa:":
+  - 1F1E6
+  - 1F1F8
+  ":flag_american_samoa:":
+  - 1F1E6
+  - 1F1F8
+  ":austria:":
+  - 1F1E6
+  - 1F1F9
+  ":flag-at:":
+  - 1F1E6
+  - 1F1F9
+  ":flag_austria:":
+  - 1F1E6
+  - 1F1F9
+  ":flag-au:":
+  - 1F1E6
+  - 1F1FA
+  ":australia:":
+  - 1F1E6
+  - 1F1FA
+  ":flag_australia:":
+  - 1F1E6
+  - 1F1FA
+  ":aruba:":
+  - 1F1E6
+  - 1F1FC
+  ":flag-aw:":
+  - 1F1E6
+  - 1F1FC
+  ":flag_aruba:":
+  - 1F1E6
+  - 1F1FC
+  ":flag-ax:":
+  - 1F1E6
+  - 1F1FD
+  ":aland_islands:":
+  - 1F1E6
+  - 1F1FD
+  ":flag_aland_islands:":
+  - 1F1E6
+  - 1F1FD
+  ":flag-az:":
+  - 1F1E6
+  - 1F1FF
+  ":azerbaijan:":
+  - 1F1E6
+  - 1F1FF
+  ":flag_azerbaijan:":
+  - 1F1E6
+  - 1F1FF
+  ":flag-ba:":
+  - 1F1E7
+  - 1F1E6
+  ":bosnia_herzegovina:":
+  - 1F1E7
+  - 1F1E6
+  ":flag_bosnia_herzegovina:":
+  - 1F1E7
+  - 1F1E6
+  ":flag-bb:":
+  - 1F1E7
+  - 1F1E7
+  ":barbados:":
+  - 1F1E7
+  - 1F1E7
+  ":flag_barbados:":
+  - 1F1E7
+  - 1F1E7
+  ":flag-bd:":
+  - 1F1E7
+  - 1F1E9
+  ":bangladesh:":
+  - 1F1E7
+  - 1F1E9
+  ":flag_bangladesh:":
+  - 1F1E7
+  - 1F1E9
+  ":belgium:":
+  - 1F1E7
+  - 1F1EA
+  ":flag-be:":
+  - 1F1E7
+  - 1F1EA
+  ":flag_belgium:":
+  - 1F1E7
+  - 1F1EA
+  ":flag-bf:":
+  - 1F1E7
+  - 1F1EB
+  ":burkina_faso:":
+  - 1F1E7
+  - 1F1EB
+  ":flag_burkina_faso:":
+  - 1F1E7
+  - 1F1EB
+  ":flag-bg:":
+  - 1F1E7
+  - 1F1EC
+  ":bulgaria:":
+  - 1F1E7
+  - 1F1EC
+  ":flag_bulgaria:":
+  - 1F1E7
+  - 1F1EC
+  ":bahrain:":
+  - 1F1E7
+  - 1F1ED
+  ":flag-bh:":
+  - 1F1E7
+  - 1F1ED
+  ":flag_bahrain:":
+  - 1F1E7
+  - 1F1ED
+  ":burundi:":
+  - 1F1E7
+  - 1F1EE
+  ":flag-bi:":
+  - 1F1E7
+  - 1F1EE
+  ":flag_burundi:":
+  - 1F1E7
+  - 1F1EE
+  ":benin:":
+  - 1F1E7
+  - 1F1EF
+  ":flag-bj:":
+  - 1F1E7
+  - 1F1EF
+  ":flag_benin:":
+  - 1F1E7
+  - 1F1EF
+  ":flag-bl:":
+  - 1F1E7
+  - 1F1F1
+  ":st_barthelemy:":
+  - 1F1E7
+  - 1F1F1
+  ":flag_st_barthelemy:":
+  - 1F1E7
+  - 1F1F1
+  ":bermuda:":
+  - 1F1E7
+  - 1F1F2
+  ":flag-bm:":
+  - 1F1E7
+  - 1F1F2
+  ":flag_bermuda:":
+  - 1F1E7
+  - 1F1F2
+  ":brunei:":
+  - 1F1E7
+  - 1F1F3
+  ":flag-bn:":
+  - 1F1E7
+  - 1F1F3
+  ":flag_brunei:":
+  - 1F1E7
+  - 1F1F3
+  ":bolivia:":
+  - 1F1E7
+  - 1F1F4
+  ":flag-bo:":
+  - 1F1E7
+  - 1F1F4
+  ":flag_bolivia:":
+  - 1F1E7
+  - 1F1F4
+  ":flag-bq:":
+  - 1F1E7
+  - 1F1F6
+  ":caribbean_netherlands:":
+  - 1F1E7
+  - 1F1F6
+  ":flag_caribbean_netherlands:":
+  - 1F1E7
+  - 1F1F6
+  ":brazil:":
+  - 1F1E7
+  - 1F1F7
+  ":flag-br:":
+  - 1F1E7
+  - 1F1F7
+  ":flag_brazil:":
+  - 1F1E7
+  - 1F1F7
+  ":bahamas:":
+  - 1F1E7
+  - 1F1F8
+  ":flag-bs:":
+  - 1F1E7
+  - 1F1F8
+  ":flag_bahamas:":
+  - 1F1E7
+  - 1F1F8
+  ":bhutan:":
+  - 1F1E7
+  - 1F1F9
+  ":flag-bt:":
+  - 1F1E7
+  - 1F1F9
+  ":flag_bhutan:":
+  - 1F1E7
+  - 1F1F9
+  ":flag-bv:":
+  - 1F1E7
+  - 1F1FB
+  ":bouvet_island:":
+  - 1F1E7
+  - 1F1FB
+  ":flag_bouvet_island:":
+  - 1F1E7
+  - 1F1FB
+  ":flag-bw:":
+  - 1F1E7
+  - 1F1FC
+  ":botswana:":
+  - 1F1E7
+  - 1F1FC
+  ":flag_botswana:":
+  - 1F1E7
+  - 1F1FC
+  ":belarus:":
+  - 1F1E7
+  - 1F1FE
+  ":flag-by:":
+  - 1F1E7
+  - 1F1FE
+  ":flag_belarus:":
+  - 1F1E7
+  - 1F1FE
+  ":belize:":
+  - 1F1E7
+  - 1F1FF
+  ":flag-bz:":
+  - 1F1E7
+  - 1F1FF
+  ":flag_belize:":
+  - 1F1E7
+  - 1F1FF
+  ":canada:":
+  - 1F1E8
+  - 1F1E6
+  ":flag-ca:":
+  - 1F1E8
+  - 1F1E6
+  ":flag_canada:":
+  - 1F1E8
+  - 1F1E6
+  ":flag-cc:":
+  - 1F1E8
+  - 1F1E8
+  ":cocos_islands:":
+  - 1F1E8
+  - 1F1E8
+  ":flag_cocos_keeling_islands:":
+  - 1F1E8
+  - 1F1E8
+  ":flag-cd:":
+  - 1F1E8
+  - 1F1E9
+  ":congo_kinshasa:":
+  - 1F1E8
+  - 1F1E9
+  ":flag_congo_kinshasa:":
+  - 1F1E8
+  - 1F1E9
+  ":flag-cf:":
+  - 1F1E8
+  - 1F1EB
+  ":central_african_republic:":
+  - 1F1E8
+  - 1F1EB
+  ":flag_central_african_republic:":
+  - 1F1E8
+  - 1F1EB
+  ":flag-cg:":
+  - 1F1E8
+  - 1F1EC
+  ":congo_brazzaville:":
+  - 1F1E8
+  - 1F1EC
+  ":flag_congo_brazzaville:":
+  - 1F1E8
+  - 1F1EC
+  ":flag-ch:":
+  - 1F1E8
+  - 1F1ED
+  ":switzerland:":
+  - 1F1E8
+  - 1F1ED
+  ":flag_switzerland:":
+  - 1F1E8
+  - 1F1ED
+  ":flag-ci:":
+  - 1F1E8
+  - 1F1EE
+  ":cote_divoire:":
+  - 1F1E8
+  - 1F1EE
+  ":flag_cote_divoire:":
+  - 1F1E8
+  - 1F1EE
+  ":flag-ck:":
+  - 1F1E8
+  - 1F1F0
+  ":cook_islands:":
+  - 1F1E8
+  - 1F1F0
+  ":flag_cook_islands:":
+  - 1F1E8
+  - 1F1F0
+  ":chile:":
+  - 1F1E8
+  - 1F1F1
+  ":flag-cl:":
+  - 1F1E8
+  - 1F1F1
+  ":flag_chile:":
+  - 1F1E8
+  - 1F1F1
+  ":flag-cm:":
+  - 1F1E8
+  - 1F1F2
+  ":cameroon:":
+  - 1F1E8
+  - 1F1F2
+  ":flag_cameroon:":
+  - 1F1E8
+  - 1F1F2
+  ":cn:":
+  - 1F1E8
+  - 1F1F3
+  ":flag-cn:":
+  - 1F1E8
+  - 1F1F3
+  ":flag_china:":
+  - 1F1E8
+  - 1F1F3
+  ":flag-co:":
+  - 1F1E8
+  - 1F1F4
+  ":colombia:":
+  - 1F1E8
+  - 1F1F4
+  ":flag_colombia:":
+  - 1F1E8
+  - 1F1F4
+  ":flag-cp:":
+  - 1F1E8
+  - 1F1F5
+  ":clipperton_island:":
+  - 1F1E8
+  - 1F1F5
+  ":flag_clipperton_island:":
+  - 1F1E8
+  - 1F1F5
+  ":flag-cr:":
+  - 1F1E8
+  - 1F1F7
+  ":costa_rica:":
+  - 1F1E8
+  - 1F1F7
+  ":flag_costa_rica:":
+  - 1F1E8
+  - 1F1F7
+  ":cuba:":
+  - 1F1E8
+  - 1F1FA
+  ":flag-cu:":
+  - 1F1E8
+  - 1F1FA
+  ":flag_cuba:":
+  - 1F1E8
+  - 1F1FA
+  ":flag-cv:":
+  - 1F1E8
+  - 1F1FB
+  ":cape_verde:":
+  - 1F1E8
+  - 1F1FB
+  ":flag_cape_verde:":
+  - 1F1E8
+  - 1F1FB
+  ":curacao:":
+  - 1F1E8
+  - 1F1FC
+  ":flag-cw:":
+  - 1F1E8
+  - 1F1FC
+  ":flag_curacao:":
+  - 1F1E8
+  - 1F1FC
+  ":flag-cx:":
+  - 1F1E8
+  - 1F1FD
+  ":christmas_island:":
+  - 1F1E8
+  - 1F1FD
+  ":flag_christmas_island:":
+  - 1F1E8
+  - 1F1FD
+  ":cyprus:":
+  - 1F1E8
+  - 1F1FE
+  ":flag-cy:":
+  - 1F1E8
+  - 1F1FE
+  ":flag_cyprus:":
+  - 1F1E8
+  - 1F1FE
+  ":flag-cz:":
+  - 1F1E8
+  - 1F1FF
+  ":flag_czechia:":
+  - 1F1E8
+  - 1F1FF
+  ":czech_republic:":
+  - 1F1E8
+  - 1F1FF
+  ":de:":
+  - 1F1E9
+  - 1F1EA
+  ":flag-de:":
+  - 1F1E9
+  - 1F1EA
+  ":flag_germany:":
+  - 1F1E9
+  - 1F1EA
+  ":flag-dg:":
+  - 1F1E9
+  - 1F1EC
+  ":diego_garcia:":
+  - 1F1E9
+  - 1F1EC
+  ":flag_diego_garcia:":
+  - 1F1E9
+  - 1F1EC
+  ":flag-dj:":
+  - 1F1E9
+  - 1F1EF
+  ":djibouti:":
+  - 1F1E9
+  - 1F1EF
+  ":flag_djibouti:":
+  - 1F1E9
+  - 1F1EF
+  ":denmark:":
+  - 1F1E9
+  - 1F1F0
+  ":flag-dk:":
+  - 1F1E9
+  - 1F1F0
+  ":flag_denmark:":
+  - 1F1E9
+  - 1F1F0
+  ":flag-dm:":
+  - 1F1E9
+  - 1F1F2
+  ":dominica:":
+  - 1F1E9
+  - 1F1F2
+  ":flag_dominica:":
+  - 1F1E9
+  - 1F1F2
+  ":flag-do:":
+  - 1F1E9
+  - 1F1F4
+  ":dominican_republic:":
+  - 1F1E9
+  - 1F1F4
+  ":flag_dominican_republic:":
+  - 1F1E9
+  - 1F1F4
+  ":algeria:":
+  - 1F1E9
+  - 1F1FF
+  ":flag-dz:":
+  - 1F1E9
+  - 1F1FF
+  ":flag_algeria:":
+  - 1F1E9
+  - 1F1FF
+  ":flag-ea:":
+  - 1F1EA
+  - 1F1E6
+  ":ceuta_melilla:":
+  - 1F1EA
+  - 1F1E6
+  ":flag_ceuta_melilla:":
+  - 1F1EA
+  - 1F1E6
+  ":ecuador:":
+  - 1F1EA
+  - 1F1E8
+  ":flag-ec:":
+  - 1F1EA
+  - 1F1E8
+  ":flag_ecuador:":
+  - 1F1EA
+  - 1F1E8
+  ":estonia:":
+  - 1F1EA
+  - 1F1EA
+  ":flag-ee:":
+  - 1F1EA
+  - 1F1EA
+  ":flag_estonia:":
+  - 1F1EA
+  - 1F1EA
+  ":egypt:":
+  - 1F1EA
+  - 1F1EC
+  ":flag-eg:":
+  - 1F1EA
+  - 1F1EC
+  ":flag_egypt:":
+  - 1F1EA
+  - 1F1EC
+  ":flag-eh:":
+  - 1F1EA
+  - 1F1ED
+  ":western_sahara:":
+  - 1F1EA
+  - 1F1ED
+  ":flag_western_sahara:":
+  - 1F1EA
+  - 1F1ED
+  ":eritrea:":
+  - 1F1EA
+  - 1F1F7
+  ":flag-er:":
+  - 1F1EA
+  - 1F1F7
+  ":flag_eritrea:":
+  - 1F1EA
+  - 1F1F7
+  ":es:":
+  - 1F1EA
+  - 1F1F8
+  ":flag-es:":
+  - 1F1EA
+  - 1F1F8
+  ":flag_spain:":
+  - 1F1EA
+  - 1F1F8
+  ":flag-et:":
+  - 1F1EA
+  - 1F1F9
+  ":ethiopia:":
+  - 1F1EA
+  - 1F1F9
+  ":flag_ethiopia:":
+  - 1F1EA
+  - 1F1F9
+  ":eu:":
+  - 1F1EA
+  - 1F1FA
+  ":flag-eu:":
+  - 1F1EA
+  - 1F1FA
+  ":european_union:":
+  - 1F1EA
+  - 1F1FA
+  ":flag_european_union:":
+  - 1F1EA
+  - 1F1FA
+  ":finland:":
+  - 1F1EB
+  - 1F1EE
+  ":flag-fi:":
+  - 1F1EB
+  - 1F1EE
+  ":flag_finland:":
+  - 1F1EB
+  - 1F1EE
+  ":fiji:":
+  - 1F1EB
+  - 1F1EF
+  ":flag-fj:":
+  - 1F1EB
+  - 1F1EF
+  ":flag_fiji:":
+  - 1F1EB
+  - 1F1EF
+  ":flag-fk:":
+  - 1F1EB
+  - 1F1F0
+  ":falkland_islands:":
+  - 1F1EB
+  - 1F1F0
+  ":flag_falkland_islands:":
+  - 1F1EB
+  - 1F1F0
+  ":flag-fm:":
+  - 1F1EB
+  - 1F1F2
+  ":micronesia:":
+  - 1F1EB
+  - 1F1F2
+  ":flag_micronesia:":
+  - 1F1EB
+  - 1F1F2
+  ":flag-fo:":
+  - 1F1EB
+  - 1F1F4
+  ":faroe_islands:":
+  - 1F1EB
+  - 1F1F4
+  ":flag_faroe_islands:":
+  - 1F1EB
+  - 1F1F4
+  ":fr:":
+  - 1F1EB
+  - 1F1F7
+  ":flag-fr:":
+  - 1F1EB
+  - 1F1F7
+  ":flag_france:":
+  - 1F1EB
+  - 1F1F7
+  ":gabon:":
+  - 1F1EC
+  - 1F1E6
+  ":flag-ga:":
+  - 1F1EC
+  - 1F1E6
+  ":flag_gabon:":
+  - 1F1EC
+  - 1F1E6
+  ":gb:":
+  - 1F1EC
+  - 1F1E7
+  ":uk:":
+  - 1F1EC
+  - 1F1E7
+  ":flag-gb:":
+  - 1F1EC
+  - 1F1E7
+  ":flag_united_kingdom:":
+  - 1F1EC
+  - 1F1E7
+  ":flag-gd:":
+  - 1F1EC
+  - 1F1E9
+  ":grenada:":
+  - 1F1EC
+  - 1F1E9
+  ":flag_grenada:":
+  - 1F1EC
+  - 1F1E9
+  ":flag-ge:":
+  - 1F1EC
+  - 1F1EA
+  ":georgia:":
+  - 1F1EC
+  - 1F1EA
+  ":flag_georgia:":
+  - 1F1EC
+  - 1F1EA
+  ":flag-gf:":
+  - 1F1EC
+  - 1F1EB
+  ":french_guiana:":
+  - 1F1EC
+  - 1F1EB
+  ":flag_french_guiana:":
+  - 1F1EC
+  - 1F1EB
+  ":flag-gg:":
+  - 1F1EC
+  - 1F1EC
+  ":guernsey:":
+  - 1F1EC
+  - 1F1EC
+  ":flag_guernsey:":
+  - 1F1EC
+  - 1F1EC
+  ":ghana:":
+  - 1F1EC
+  - 1F1ED
+  ":flag-gh:":
+  - 1F1EC
+  - 1F1ED
+  ":flag_ghana:":
+  - 1F1EC
+  - 1F1ED
+  ":flag-gi:":
+  - 1F1EC
+  - 1F1EE
+  ":gibraltar:":
+  - 1F1EC
+  - 1F1EE
+  ":flag_gibraltar:":
+  - 1F1EC
+  - 1F1EE
+  ":flag-gl:":
+  - 1F1EC
+  - 1F1F1
+  ":greenland:":
+  - 1F1EC
+  - 1F1F1
+  ":flag_greenland:":
+  - 1F1EC
+  - 1F1F1
+  ":gambia:":
+  - 1F1EC
+  - 1F1F2
+  ":flag-gm:":
+  - 1F1EC
+  - 1F1F2
+  ":flag_gambia:":
+  - 1F1EC
+  - 1F1F2
+  ":guinea:":
+  - 1F1EC
+  - 1F1F3
+  ":flag-gn:":
+  - 1F1EC
+  - 1F1F3
+  ":flag_guinea:":
+  - 1F1EC
+  - 1F1F3
+  ":flag-gp:":
+  - 1F1EC
+  - 1F1F5
+  ":guadeloupe:":
+  - 1F1EC
+  - 1F1F5
+  ":flag_guadeloupe:":
+  - 1F1EC
+  - 1F1F5
+  ":flag-gq:":
+  - 1F1EC
+  - 1F1F6
+  ":equatorial_guinea:":
+  - 1F1EC
+  - 1F1F6
+  ":flag_equatorial_guinea:":
+  - 1F1EC
+  - 1F1F6
+  ":greece:":
+  - 1F1EC
+  - 1F1F7
+  ":flag-gr:":
+  - 1F1EC
+  - 1F1F7
+  ":flag_greece:":
+  - 1F1EC
+  - 1F1F7
+  ":flag-gs:":
+  - 1F1EC
+  - 1F1F8
+  ":south_georgia_south_sandwich_islands:":
+  - 1F1EC
+  - 1F1F8
+  ":flag_south_georgia_south_sandwich_islands:":
+  - 1F1EC
+  - 1F1F8
+  ":flag-gt:":
+  - 1F1EC
+  - 1F1F9
+  ":guatemala:":
+  - 1F1EC
+  - 1F1F9
+  ":flag_guatemala:":
+  - 1F1EC
+  - 1F1F9
+  ":guam:":
+  - 1F1EC
+  - 1F1FA
+  ":flag-gu:":
+  - 1F1EC
+  - 1F1FA
+  ":flag_guam:":
+  - 1F1EC
+  - 1F1FA
+  ":flag-gw:":
+  - 1F1EC
+  - 1F1FC
+  ":guinea_bissau:":
+  - 1F1EC
+  - 1F1FC
+  ":flag_guinea_bissau:":
+  - 1F1EC
+  - 1F1FC
+  ":guyana:":
+  - 1F1EC
+  - 1F1FE
+  ":flag-gy:":
+  - 1F1EC
+  - 1F1FE
+  ":flag_guyana:":
+  - 1F1EC
+  - 1F1FE
+  ":flag-hk:":
+  - 1F1ED
+  - 1F1F0
+  ":hong_kong:":
+  - 1F1ED
+  - 1F1F0
+  ":flag_hong_kong_sar_china:":
+  - 1F1ED
+  - 1F1F0
+  ":flag-hm:":
+  - 1F1ED
+  - 1F1F2
+  ":heard_mcdonald_islands:":
+  - 1F1ED
+  - 1F1F2
+  ":flag_heard_mcdonald_islands:":
+  - 1F1ED
+  - 1F1F2
+  ":flag-hn:":
+  - 1F1ED
+  - 1F1F3
+  ":honduras:":
+  - 1F1ED
+  - 1F1F3
+  ":flag_honduras:":
+  - 1F1ED
+  - 1F1F3
+  ":croatia:":
+  - 1F1ED
+  - 1F1F7
+  ":flag-hr:":
+  - 1F1ED
+  - 1F1F7
+  ":flag_croatia:":
+  - 1F1ED
+  - 1F1F7
+  ":haiti:":
+  - 1F1ED
+  - 1F1F9
+  ":flag-ht:":
+  - 1F1ED
+  - 1F1F9
+  ":flag_haiti:":
+  - 1F1ED
+  - 1F1F9
+  ":flag-hu:":
+  - 1F1ED
+  - 1F1FA
+  ":hungary:":
+  - 1F1ED
+  - 1F1FA
+  ":flag_hungary:":
+  - 1F1ED
+  - 1F1FA
+  ":flag-ic:":
+  - 1F1EE
+  - 1F1E8
+  ":canary_islands:":
+  - 1F1EE
+  - 1F1E8
+  ":flag_canary_islands:":
+  - 1F1EE
+  - 1F1E8
+  ":flag-id:":
+  - 1F1EE
+  - 1F1E9
+  ":indonesia:":
+  - 1F1EE
+  - 1F1E9
+  ":flag_indonesia:":
+  - 1F1EE
+  - 1F1E9
+  ":flag-ie:":
+  - 1F1EE
+  - 1F1EA
+  ":ireland:":
+  - 1F1EE
+  - 1F1EA
+  ":flag_ireland:":
+  - 1F1EE
+  - 1F1EA
+  ":israel:":
+  - 1F1EE
+  - 1F1F1
+  ":flag-il:":
+  - 1F1EE
+  - 1F1F1
+  ":flag_israel:":
+  - 1F1EE
+  - 1F1F1
+  ":flag-im:":
+  - 1F1EE
+  - 1F1F2
+  ":isle_of_man:":
+  - 1F1EE
+  - 1F1F2
+  ":flag_isle_of_man:":
+  - 1F1EE
+  - 1F1F2
+  ":india:":
+  - 1F1EE
+  - 1F1F3
+  ":flag-in:":
+  - 1F1EE
+  - 1F1F3
+  ":flag_india:":
+  - 1F1EE
+  - 1F1F3
+  ":flag-io:":
+  - 1F1EE
+  - 1F1F4
+  ":british_indian_ocean_territory:":
+  - 1F1EE
+  - 1F1F4
+  ":flag_british_indian_ocean_territory:":
+  - 1F1EE
+  - 1F1F4
+  ":iraq:":
+  - 1F1EE
+  - 1F1F6
+  ":flag-iq:":
+  - 1F1EE
+  - 1F1F6
+  ":flag_iraq:":
+  - 1F1EE
+  - 1F1F6
+  ":iran:":
+  - 1F1EE
+  - 1F1F7
+  ":flag-ir:":
+  - 1F1EE
+  - 1F1F7
+  ":flag_iran:":
+  - 1F1EE
+  - 1F1F7
+  ":flag-is:":
+  - 1F1EE
+  - 1F1F8
+  ":iceland:":
+  - 1F1EE
+  - 1F1F8
+  ":flag_iceland:":
+  - 1F1EE
+  - 1F1F8
+  ":it:":
+  - 1F1EE
+  - 1F1F9
+  ":flag-it:":
+  - 1F1EE
+  - 1F1F9
+  ":flag_italy:":
+  - 1F1EE
+  - 1F1F9
+  ":jersey:":
+  - 1F1EF
+  - 1F1EA
+  ":flag-je:":
+  - 1F1EF
+  - 1F1EA
+  ":flag_jersey:":
+  - 1F1EF
+  - 1F1EA
+  ":flag-jm:":
+  - 1F1EF
+  - 1F1F2
+  ":jamaica:":
+  - 1F1EF
+  - 1F1F2
+  ":flag_jamaica:":
+  - 1F1EF
+  - 1F1F2
+  ":jordan:":
+  - 1F1EF
+  - 1F1F4
+  ":flag-jo:":
+  - 1F1EF
+  - 1F1F4
+  ":flag_jordan:":
+  - 1F1EF
+  - 1F1F4
+  ":jp:":
+  - 1F1EF
+  - 1F1F5
+  ":flag-jp:":
+  - 1F1EF
+  - 1F1F5
+  ":flag_japan:":
+  - 1F1EF
+  - 1F1F5
+  ":kenya:":
+  - 1F1F0
+  - 1F1EA
+  ":flag-ke:":
+  - 1F1F0
+  - 1F1EA
+  ":flag_kenya:":
+  - 1F1F0
+  - 1F1EA
+  ":flag-kg:":
+  - 1F1F0
+  - 1F1EC
+  ":kyrgyzstan:":
+  - 1F1F0
+  - 1F1EC
+  ":flag_kyrgyzstan:":
+  - 1F1F0
+  - 1F1EC
+  ":flag-kh:":
+  - 1F1F0
+  - 1F1ED
+  ":cambodia:":
+  - 1F1F0
+  - 1F1ED
+  ":flag_cambodia:":
+  - 1F1F0
+  - 1F1ED
+  ":flag-ki:":
+  - 1F1F0
+  - 1F1EE
+  ":kiribati:":
+  - 1F1F0
+  - 1F1EE
+  ":flag_kiribati:":
+  - 1F1F0
+  - 1F1EE
+  ":comoros:":
+  - 1F1F0
+  - 1F1F2
+  ":flag-km:":
+  - 1F1F0
+  - 1F1F2
+  ":flag_comoros:":
+  - 1F1F0
+  - 1F1F2
+  ":flag-kn:":
+  - 1F1F0
+  - 1F1F3
+  ":st_kitts_nevis:":
+  - 1F1F0
+  - 1F1F3
+  ":flag_st_kitts_nevis:":
+  - 1F1F0
+  - 1F1F3
+  ":flag-kp:":
+  - 1F1F0
+  - 1F1F5
+  ":north_korea:":
+  - 1F1F0
+  - 1F1F5
+  ":flag_north_korea:":
+  - 1F1F0
+  - 1F1F5
+  ":kr:":
+  - 1F1F0
+  - 1F1F7
+  ":flag-kr:":
+  - 1F1F0
+  - 1F1F7
+  ":flag_south_korea:":
+  - 1F1F0
+  - 1F1F7
+  ":kuwait:":
+  - 1F1F0
+  - 1F1FC
+  ":flag-kw:":
+  - 1F1F0
+  - 1F1FC
+  ":flag_kuwait:":
+  - 1F1F0
+  - 1F1FC
+  ":flag-ky:":
+  - 1F1F0
+  - 1F1FE
+  ":cayman_islands:":
+  - 1F1F0
+  - 1F1FE
+  ":flag_cayman_islands:":
+  - 1F1F0
+  - 1F1FE
+  ":flag-kz:":
+  - 1F1F0
+  - 1F1FF
+  ":kazakhstan:":
+  - 1F1F0
+  - 1F1FF
+  ":flag_kazakhstan:":
+  - 1F1F0
+  - 1F1FF
+  ":laos:":
+  - 1F1F1
+  - 1F1E6
+  ":flag-la:":
+  - 1F1F1
+  - 1F1E6
+  ":flag_laos:":
+  - 1F1F1
+  - 1F1E6
+  ":flag-lb:":
+  - 1F1F1
+  - 1F1E7
+  ":lebanon:":
+  - 1F1F1
+  - 1F1E7
+  ":flag_lebanon:":
+  - 1F1F1
+  - 1F1E7
+  ":flag-lc:":
+  - 1F1F1
+  - 1F1E8
+  ":st_lucia:":
+  - 1F1F1
+  - 1F1E8
+  ":flag_st_lucia:":
+  - 1F1F1
+  - 1F1E8
+  ":flag-li:":
+  - 1F1F1
+  - 1F1EE
+  ":liechtenstein:":
+  - 1F1F1
+  - 1F1EE
+  ":flag_liechtenstein:":
+  - 1F1F1
+  - 1F1EE
+  ":flag-lk:":
+  - 1F1F1
+  - 1F1F0
+  ":sri_lanka:":
+  - 1F1F1
+  - 1F1F0
+  ":flag_sri_lanka:":
+  - 1F1F1
+  - 1F1F0
+  ":flag-lr:":
+  - 1F1F1
+  - 1F1F7
+  ":liberia:":
+  - 1F1F1
+  - 1F1F7
+  ":flag_liberia:":
+  - 1F1F1
+  - 1F1F7
+  ":flag-ls:":
+  - 1F1F1
+  - 1F1F8
+  ":lesotho:":
+  - 1F1F1
+  - 1F1F8
+  ":flag_lesotho:":
+  - 1F1F1
+  - 1F1F8
+  ":flag-lt:":
+  - 1F1F1
+  - 1F1F9
+  ":lithuania:":
+  - 1F1F1
+  - 1F1F9
+  ":flag_lithuania:":
+  - 1F1F1
+  - 1F1F9
+  ":flag-lu:":
+  - 1F1F1
+  - 1F1FA
+  ":luxembourg:":
+  - 1F1F1
+  - 1F1FA
+  ":flag_luxembourg:":
+  - 1F1F1
+  - 1F1FA
+  ":latvia:":
+  - 1F1F1
+  - 1F1FB
+  ":flag-lv:":
+  - 1F1F1
+  - 1F1FB
+  ":flag_latvia:":
+  - 1F1F1
+  - 1F1FB
+  ":libya:":
+  - 1F1F1
+  - 1F1FE
+  ":flag-ly:":
+  - 1F1F1
+  - 1F1FE
+  ":flag_libya:":
+  - 1F1F1
+  - 1F1FE
+  ":flag-ma:":
+  - 1F1F2
+  - 1F1E6
+  ":morocco:":
+  - 1F1F2
+  - 1F1E6
+  ":flag_morocco:":
+  - 1F1F2
+  - 1F1E6
+  ":monaco:":
+  - 1F1F2
+  - 1F1E8
+  ":flag-mc:":
+  - 1F1F2
+  - 1F1E8
+  ":flag_monaco:":
+  - 1F1F2
+  - 1F1E8
+  ":flag-md:":
+  - 1F1F2
+  - 1F1E9
+  ":moldova:":
+  - 1F1F2
+  - 1F1E9
+  ":flag_moldova:":
+  - 1F1F2
+  - 1F1E9
+  ":flag-me:":
+  - 1F1F2
+  - 1F1EA
+  ":montenegro:":
+  - 1F1F2
+  - 1F1EA
+  ":flag_montenegro:":
+  - 1F1F2
+  - 1F1EA
+  ":flag-mf:":
+  - 1F1F2
+  - 1F1EB
+  ":st_martin:":
+  - 1F1F2
+  - 1F1EB
+  ":flag_st_martin:":
+  - 1F1F2
+  - 1F1EB
+  ":flag-mg:":
+  - 1F1F2
+  - 1F1EC
+  ":madagascar:":
+  - 1F1F2
+  - 1F1EC
+  ":flag_madagascar:":
+  - 1F1F2
+  - 1F1EC
+  ":flag-mh:":
+  - 1F1F2
+  - 1F1ED
+  ":marshall_islands:":
+  - 1F1F2
+  - 1F1ED
+  ":flag_marshall_islands:":
+  - 1F1F2
+  - 1F1ED
+  ":flag-mk:":
+  - 1F1F2
+  - 1F1F0
+  ":macedonia:":
+  - 1F1F2
+  - 1F1F0
+  ":flag_north_macedonia:":
+  - 1F1F2
+  - 1F1F0
+  ":mali:":
+  - 1F1F2
+  - 1F1F1
+  ":flag-ml:":
+  - 1F1F2
+  - 1F1F1
+  ":flag_mali:":
+  - 1F1F2
+  - 1F1F1
+  ":flag-mm:":
+  - 1F1F2
+  - 1F1F2
+  ":myanmar:":
+  - 1F1F2
+  - 1F1F2
+  ":flag_myanmar_burma_:":
+  - 1F1F2
+  - 1F1F2
+  ":flag-mn:":
+  - 1F1F2
+  - 1F1F3
+  ":mongolia:":
+  - 1F1F2
+  - 1F1F3
+  ":flag_mongolia:":
+  - 1F1F2
+  - 1F1F3
+  ":macau:":
+  - 1F1F2
+  - 1F1F4
+  ":flag-mo:":
+  - 1F1F2
+  - 1F1F4
+  ":flag_macao_sar_china:":
+  - 1F1F2
+  - 1F1F4
+  ":flag-mp:":
+  - 1F1F2
+  - 1F1F5
+  ":northern_mariana_islands:":
+  - 1F1F2
+  - 1F1F5
+  ":flag_northern_mariana_islands:":
+  - 1F1F2
+  - 1F1F5
+  ":flag-mq:":
+  - 1F1F2
+  - 1F1F6
+  ":martinique:":
+  - 1F1F2
+  - 1F1F6
+  ":flag_martinique:":
+  - 1F1F2
+  - 1F1F6
+  ":flag-mr:":
+  - 1F1F2
+  - 1F1F7
+  ":mauritania:":
+  - 1F1F2
+  - 1F1F7
+  ":flag_mauritania:":
+  - 1F1F2
+  - 1F1F7
+  ":flag-ms:":
+  - 1F1F2
+  - 1F1F8
+  ":montserrat:":
+  - 1F1F2
+  - 1F1F8
+  ":flag_montserrat:":
+  - 1F1F2
+  - 1F1F8
+  ":malta:":
+  - 1F1F2
+  - 1F1F9
+  ":flag-mt:":
+  - 1F1F2
+  - 1F1F9
+  ":flag_malta:":
+  - 1F1F2
+  - 1F1F9
+  ":flag-mu:":
+  - 1F1F2
+  - 1F1FA
+  ":mauritius:":
+  - 1F1F2
+  - 1F1FA
+  ":flag_mauritius:":
+  - 1F1F2
+  - 1F1FA
+  ":flag-mv:":
+  - 1F1F2
+  - 1F1FB
+  ":maldives:":
+  - 1F1F2
+  - 1F1FB
+  ":flag_maldives:":
+  - 1F1F2
+  - 1F1FB
+  ":malawi:":
+  - 1F1F2
+  - 1F1FC
+  ":flag-mw:":
+  - 1F1F2
+  - 1F1FC
+  ":flag_malawi:":
+  - 1F1F2
+  - 1F1FC
+  ":mexico:":
+  - 1F1F2
+  - 1F1FD
+  ":flag-mx:":
+  - 1F1F2
+  - 1F1FD
+  ":flag_mexico:":
+  - 1F1F2
+  - 1F1FD
+  ":flag-my:":
+  - 1F1F2
+  - 1F1FE
+  ":malaysia:":
+  - 1F1F2
+  - 1F1FE
+  ":flag_malaysia:":
+  - 1F1F2
+  - 1F1FE
+  ":flag-mz:":
+  - 1F1F2
+  - 1F1FF
+  ":mozambique:":
+  - 1F1F2
+  - 1F1FF
+  ":flag_mozambique:":
+  - 1F1F2
+  - 1F1FF
+  ":flag-na:":
+  - 1F1F3
+  - 1F1E6
+  ":namibia:":
+  - 1F1F3
+  - 1F1E6
+  ":flag_namibia:":
+  - 1F1F3
+  - 1F1E6
+  ":flag-nc:":
+  - 1F1F3
+  - 1F1E8
+  ":new_caledonia:":
+  - 1F1F3
+  - 1F1E8
+  ":flag_new_caledonia:":
+  - 1F1F3
+  - 1F1E8
+  ":niger:":
+  - 1F1F3
+  - 1F1EA
+  ":flag-ne:":
+  - 1F1F3
+  - 1F1EA
+  ":flag_niger:":
+  - 1F1F3
+  - 1F1EA
+  ":flag-nf:":
+  - 1F1F3
+  - 1F1EB
+  ":norfolk_island:":
+  - 1F1F3
+  - 1F1EB
+  ":flag_norfolk_island:":
+  - 1F1F3
+  - 1F1EB
+  ":flag-ng:":
+  - 1F1F3
+  - 1F1EC
+  ":nigeria:":
+  - 1F1F3
+  - 1F1EC
+  ":flag_nigeria:":
+  - 1F1F3
+  - 1F1EC
+  ":flag-ni:":
+  - 1F1F3
+  - 1F1EE
+  ":nicaragua:":
+  - 1F1F3
+  - 1F1EE
+  ":flag_nicaragua:":
+  - 1F1F3
+  - 1F1EE
+  ":flag-nl:":
+  - 1F1F3
+  - 1F1F1
+  ":netherlands:":
+  - 1F1F3
+  - 1F1F1
+  ":flag_netherlands:":
+  - 1F1F3
+  - 1F1F1
+  ":norway:":
+  - 1F1F3
+  - 1F1F4
+  ":flag-no:":
+  - 1F1F3
+  - 1F1F4
+  ":flag_norway:":
+  - 1F1F3
+  - 1F1F4
+  ":nepal:":
+  - 1F1F3
+  - 1F1F5
+  ":flag-np:":
+  - 1F1F3
+  - 1F1F5
+  ":flag_nepal:":
+  - 1F1F3
+  - 1F1F5
+  ":nauru:":
+  - 1F1F3
+  - 1F1F7
+  ":flag-nr:":
+  - 1F1F3
+  - 1F1F7
+  ":flag_nauru:":
+  - 1F1F3
+  - 1F1F7
+  ":niue:":
+  - 1F1F3
+  - 1F1FA
+  ":flag-nu:":
+  - 1F1F3
+  - 1F1FA
+  ":flag_niue:":
+  - 1F1F3
+  - 1F1FA
+  ":flag-nz:":
+  - 1F1F3
+  - 1F1FF
+  ":new_zealand:":
+  - 1F1F3
+  - 1F1FF
+  ":flag_new_zealand:":
+  - 1F1F3
+  - 1F1FF
+  ":oman:":
+  - 1F1F4
+  - 1F1F2
+  ":flag-om:":
+  - 1F1F4
+  - 1F1F2
+  ":flag_oman:":
+  - 1F1F4
+  - 1F1F2
+  ":panama:":
+  - 1F1F5
+  - 1F1E6
+  ":flag-pa:":
+  - 1F1F5
+  - 1F1E6
+  ":flag_panama:":
+  - 1F1F5
+  - 1F1E6
+  ":peru:":
+  - 1F1F5
+  - 1F1EA
+  ":flag-pe:":
+  - 1F1F5
+  - 1F1EA
+  ":flag_peru:":
+  - 1F1F5
+  - 1F1EA
+  ":flag-pf:":
+  - 1F1F5
+  - 1F1EB
+  ":french_polynesia:":
+  - 1F1F5
+  - 1F1EB
+  ":flag_french_polynesia:":
+  - 1F1F5
+  - 1F1EB
+  ":flag-pg:":
+  - 1F1F5
+  - 1F1EC
+  ":papua_new_guinea:":
+  - 1F1F5
+  - 1F1EC
+  ":flag_papua_new_guinea:":
+  - 1F1F5
+  - 1F1EC
+  ":flag-ph:":
+  - 1F1F5
+  - 1F1ED
+  ":philippines:":
+  - 1F1F5
+  - 1F1ED
+  ":flag_philippines:":
+  - 1F1F5
+  - 1F1ED
+  ":flag-pk:":
+  - 1F1F5
+  - 1F1F0
+  ":pakistan:":
+  - 1F1F5
+  - 1F1F0
+  ":flag_pakistan:":
+  - 1F1F5
+  - 1F1F0
+  ":poland:":
+  - 1F1F5
+  - 1F1F1
+  ":flag-pl:":
+  - 1F1F5
+  - 1F1F1
+  ":flag_poland:":
+  - 1F1F5
+  - 1F1F1
+  ":flag-pm:":
+  - 1F1F5
+  - 1F1F2
+  ":st_pierre_miquelon:":
+  - 1F1F5
+  - 1F1F2
+  ":flag_st_pierre_miquelon:":
+  - 1F1F5
+  - 1F1F2
+  ":flag-pn:":
+  - 1F1F5
+  - 1F1F3
+  ":pitcairn_islands:":
+  - 1F1F5
+  - 1F1F3
+  ":flag_pitcairn_islands:":
+  - 1F1F5
+  - 1F1F3
+  ":flag-pr:":
+  - 1F1F5
+  - 1F1F7
+  ":puerto_rico:":
+  - 1F1F5
+  - 1F1F7
+  ":flag_puerto_rico:":
+  - 1F1F5
+  - 1F1F7
+  ":flag-ps:":
+  - 1F1F5
+  - 1F1F8
+  ":palestinian_territories:":
+  - 1F1F5
+  - 1F1F8
+  ":flag_palestinian_territories:":
+  - 1F1F5
+  - 1F1F8
+  ":flag-pt:":
+  - 1F1F5
+  - 1F1F9
+  ":portugal:":
+  - 1F1F5
+  - 1F1F9
+  ":flag_portugal:":
+  - 1F1F5
+  - 1F1F9
+  ":palau:":
+  - 1F1F5
+  - 1F1FC
+  ":flag-pw:":
+  - 1F1F5
+  - 1F1FC
+  ":flag_palau:":
+  - 1F1F5
+  - 1F1FC
+  ":flag-py:":
+  - 1F1F5
+  - 1F1FE
+  ":paraguay:":
+  - 1F1F5
+  - 1F1FE
+  ":flag_paraguay:":
+  - 1F1F5
+  - 1F1FE
+  ":qatar:":
+  - 1F1F6
+  - 1F1E6
+  ":flag-qa:":
+  - 1F1F6
+  - 1F1E6
+  ":flag_qatar:":
+  - 1F1F6
+  - 1F1E6
+  ":flag-re:":
+  - 1F1F7
+  - 1F1EA
+  ":reunion:":
+  - 1F1F7
+  - 1F1EA
+  ":flag_reunion:":
+  - 1F1F7
+  - 1F1EA
+  ":flag-ro:":
+  - 1F1F7
+  - 1F1F4
+  ":romania:":
+  - 1F1F7
+  - 1F1F4
+  ":flag_romania:":
+  - 1F1F7
+  - 1F1F4
+  ":serbia:":
+  - 1F1F7
+  - 1F1F8
+  ":flag-rs:":
+  - 1F1F7
+  - 1F1F8
+  ":flag_serbia:":
+  - 1F1F7
+  - 1F1F8
+  ":ru:":
+  - 1F1F7
+  - 1F1FA
+  ":flag-ru:":
+  - 1F1F7
+  - 1F1FA
+  ":flag_russia:":
+  - 1F1F7
+  - 1F1FA
+  ":rwanda:":
+  - 1F1F7
+  - 1F1FC
+  ":flag-rw:":
+  - 1F1F7
+  - 1F1FC
+  ":flag_rwanda:":
+  - 1F1F7
+  - 1F1FC
+  ":flag-sa:":
+  - 1F1F8
+  - 1F1E6
+  ":saudi_arabia:":
+  - 1F1F8
+  - 1F1E6
+  ":flag_saudi_arabia:":
+  - 1F1F8
+  - 1F1E6
+  ":flag-sb:":
+  - 1F1F8
+  - 1F1E7
+  ":solomon_islands:":
+  - 1F1F8
+  - 1F1E7
+  ":flag_solomon_islands:":
+  - 1F1F8
+  - 1F1E7
+  ":flag-sc:":
+  - 1F1F8
+  - 1F1E8
+  ":seychelles:":
+  - 1F1F8
+  - 1F1E8
+  ":flag_seychelles:":
+  - 1F1F8
+  - 1F1E8
+  ":sudan:":
+  - 1F1F8
+  - 1F1E9
+  ":flag-sd:":
+  - 1F1F8
+  - 1F1E9
+  ":flag_sudan:":
+  - 1F1F8
+  - 1F1E9
+  ":sweden:":
+  - 1F1F8
+  - 1F1EA
+  ":flag-se:":
+  - 1F1F8
+  - 1F1EA
+  ":flag_sweden:":
+  - 1F1F8
+  - 1F1EA
+  ":flag-sg:":
+  - 1F1F8
+  - 1F1EC
+  ":singapore:":
+  - 1F1F8
+  - 1F1EC
+  ":flag_singapore:":
+  - 1F1F8
+  - 1F1EC
+  ":flag-sh:":
+  - 1F1F8
+  - 1F1ED
+  ":st_helena:":
+  - 1F1F8
+  - 1F1ED
+  ":flag_st_helena:":
+  - 1F1F8
+  - 1F1ED
+  ":flag-si:":
+  - 1F1F8
+  - 1F1EE
+  ":slovenia:":
+  - 1F1F8
+  - 1F1EE
+  ":flag_slovenia:":
+  - 1F1F8
+  - 1F1EE
+  ":flag-sj:":
+  - 1F1F8
+  - 1F1EF
+  ":svalbard_jan_mayen:":
+  - 1F1F8
+  - 1F1EF
+  ":flag_svalbard_jan_mayen:":
+  - 1F1F8
+  - 1F1EF
+  ":flag-sk:":
+  - 1F1F8
+  - 1F1F0
+  ":slovakia:":
+  - 1F1F8
+  - 1F1F0
+  ":flag_slovakia:":
+  - 1F1F8
+  - 1F1F0
+  ":flag-sl:":
+  - 1F1F8
+  - 1F1F1
+  ":sierra_leone:":
+  - 1F1F8
+  - 1F1F1
+  ":flag_sierra_leone:":
+  - 1F1F8
+  - 1F1F1
+  ":flag-sm:":
+  - 1F1F8
+  - 1F1F2
+  ":san_marino:":
+  - 1F1F8
+  - 1F1F2
+  ":flag_san_marino:":
+  - 1F1F8
+  - 1F1F2
+  ":flag-sn:":
+  - 1F1F8
+  - 1F1F3
+  ":senegal:":
+  - 1F1F8
+  - 1F1F3
+  ":flag_senegal:":
+  - 1F1F8
+  - 1F1F3
+  ":flag-so:":
+  - 1F1F8
+  - 1F1F4
+  ":somalia:":
+  - 1F1F8
+  - 1F1F4
+  ":flag_somalia:":
+  - 1F1F8
+  - 1F1F4
+  ":flag-sr:":
+  - 1F1F8
+  - 1F1F7
+  ":suriname:":
+  - 1F1F8
+  - 1F1F7
+  ":flag_suriname:":
+  - 1F1F8
+  - 1F1F7
+  ":flag-ss:":
+  - 1F1F8
+  - 1F1F8
+  ":south_sudan:":
+  - 1F1F8
+  - 1F1F8
+  ":flag_south_sudan:":
+  - 1F1F8
+  - 1F1F8
+  ":flag-st:":
+  - 1F1F8
+  - 1F1F9
+  ":sao_tome_principe:":
+  - 1F1F8
+  - 1F1F9
+  ":flag_sao_tome_principe:":
+  - 1F1F8
+  - 1F1F9
+  ":flag-sv:":
+  - 1F1F8
+  - 1F1FB
+  ":el_salvador:":
+  - 1F1F8
+  - 1F1FB
+  ":flag_el_salvador:":
+  - 1F1F8
+  - 1F1FB
+  ":flag-sx:":
+  - 1F1F8
+  - 1F1FD
+  ":sint_maarten:":
+  - 1F1F8
+  - 1F1FD
+  ":flag_sint_maarten:":
+  - 1F1F8
+  - 1F1FD
+  ":syria:":
+  - 1F1F8
+  - 1F1FE
+  ":flag-sy:":
+  - 1F1F8
+  - 1F1FE
+  ":flag_syria:":
+  - 1F1F8
+  - 1F1FE
+  ":flag-sz:":
+  - 1F1F8
+  - 1F1FF
+  ":swaziland:":
+  - 1F1F8
+  - 1F1FF
+  ":flag_eswatini:":
+  - 1F1F8
+  - 1F1FF
+  ":flag-ta:":
+  - 1F1F9
+  - 1F1E6
+  ":tristan_da_cunha:":
+  - 1F1F9
+  - 1F1E6
+  ":flag_tristan_da_cunha:":
+  - 1F1F9
+  - 1F1E6
+  ":flag-tc:":
+  - 1F1F9
+  - 1F1E8
+  ":turks_caicos_islands:":
+  - 1F1F9
+  - 1F1E8
+  ":flag_turks_caicos_islands:":
+  - 1F1F9
+  - 1F1E8
+  ":chad:":
+  - 1F1F9
+  - 1F1E9
+  ":flag-td:":
+  - 1F1F9
+  - 1F1E9
+  ":flag_chad:":
+  - 1F1F9
+  - 1F1E9
+  ":flag-tf:":
+  - 1F1F9
+  - 1F1EB
+  ":french_southern_territories:":
+  - 1F1F9
+  - 1F1EB
+  ":flag_french_southern_territories:":
+  - 1F1F9
+  - 1F1EB
+  ":togo:":
+  - 1F1F9
+  - 1F1EC
+  ":flag-tg:":
+  - 1F1F9
+  - 1F1EC
+  ":flag_togo:":
+  - 1F1F9
+  - 1F1EC
+  ":flag-th:":
+  - 1F1F9
+  - 1F1ED
+  ":thailand:":
+  - 1F1F9
+  - 1F1ED
+  ":flag_thailand:":
+  - 1F1F9
+  - 1F1ED
+  ":flag-tj:":
+  - 1F1F9
+  - 1F1EF
+  ":tajikistan:":
+  - 1F1F9
+  - 1F1EF
+  ":flag_tajikistan:":
+  - 1F1F9
+  - 1F1EF
+  ":flag-tk:":
+  - 1F1F9
+  - 1F1F0
+  ":tokelau:":
+  - 1F1F9
+  - 1F1F0
+  ":flag_tokelau:":
+  - 1F1F9
+  - 1F1F0
+  ":flag-tl:":
+  - 1F1F9
+  - 1F1F1
+  ":timor_leste:":
+  - 1F1F9
+  - 1F1F1
+  ":flag_timor_leste:":
+  - 1F1F9
+  - 1F1F1
+  ":flag-tm:":
+  - 1F1F9
+  - 1F1F2
+  ":turkmenistan:":
+  - 1F1F9
+  - 1F1F2
+  ":flag_turkmenistan:":
+  - 1F1F9
+  - 1F1F2
+  ":flag-tn:":
+  - 1F1F9
+  - 1F1F3
+  ":tunisia:":
+  - 1F1F9
+  - 1F1F3
+  ":flag_tunisia:":
+  - 1F1F9
+  - 1F1F3
+  ":tonga:":
+  - 1F1F9
+  - 1F1F4
+  ":flag-to:":
+  - 1F1F9
+  - 1F1F4
+  ":flag_tonga:":
+  - 1F1F9
+  - 1F1F4
+  ":tr:":
+  - 1F1F9
+  - 1F1F7
+  ":flag-tr:":
+  - 1F1F9
+  - 1F1F7
+  ":flag_turkey:":
+  - 1F1F9
+  - 1F1F7
+  ":flag-tt:":
+  - 1F1F9
+  - 1F1F9
+  ":trinidad_tobago:":
+  - 1F1F9
+  - 1F1F9
+  ":flag_trinidad_tobago:":
+  - 1F1F9
+  - 1F1F9
+  ":tuvalu:":
+  - 1F1F9
+  - 1F1FB
+  ":flag-tv:":
+  - 1F1F9
+  - 1F1FB
+  ":flag_tuvalu:":
+  - 1F1F9
+  - 1F1FB
+  ":taiwan:":
+  - 1F1F9
+  - 1F1FC
+  ":flag-tw:":
+  - 1F1F9
+  - 1F1FC
+  ":flag_taiwan:":
+  - 1F1F9
+  - 1F1FC
+  ":flag-tz:":
+  - 1F1F9
+  - 1F1FF
+  ":tanzania:":
+  - 1F1F9
+  - 1F1FF
+  ":flag_tanzania:":
+  - 1F1F9
+  - 1F1FF
+  ":flag-ua:":
+  - 1F1FA
+  - 1F1E6
+  ":ukraine:":
+  - 1F1FA
+  - 1F1E6
+  ":flag_ukraine:":
+  - 1F1FA
+  - 1F1E6
+  ":uganda:":
+  - 1F1FA
+  - 1F1EC
+  ":flag-ug:":
+  - 1F1FA
+  - 1F1EC
+  ":flag_uganda:":
+  - 1F1FA
+  - 1F1EC
+  ":flag-um:":
+  - 1F1FA
+  - 1F1F2
+  ":us_outlying_islands:":
+  - 1F1FA
+  - 1F1F2
+  ":flag_u_s_outlying_islands:":
+  - 1F1FA
+  - 1F1F2
+  ":flag-un:":
+  - 1F1FA
+  - 1F1F3
+  ":united_nations:":
+  - 1F1FA
+  - 1F1F3
+  ":flag_united_nations:":
+  - 1F1FA
+  - 1F1F3
+  ":us:":
+  - 1F1FA
+  - 1F1F8
+  ":flag-us:":
+  - 1F1FA
+  - 1F1F8
+  ":flag_united_states:":
+  - 1F1FA
+  - 1F1F8
+  ":flag-uy:":
+  - 1F1FA
+  - 1F1FE
+  ":uruguay:":
+  - 1F1FA
+  - 1F1FE
+  ":flag_uruguay:":
+  - 1F1FA
+  - 1F1FE
+  ":flag-uz:":
+  - 1F1FA
+  - 1F1FF
+  ":uzbekistan:":
+  - 1F1FA
+  - 1F1FF
+  ":flag_uzbekistan:":
+  - 1F1FA
+  - 1F1FF
+  ":flag-va:":
+  - 1F1FB
+  - 1F1E6
+  ":vatican_city:":
+  - 1F1FB
+  - 1F1E6
+  ":flag_vatican_city:":
+  - 1F1FB
+  - 1F1E6
+  ":flag-vc:":
+  - 1F1FB
+  - 1F1E8
+  ":st_vincent_grenadines:":
+  - 1F1FB
+  - 1F1E8
+  ":flag_st_vincent_grenadines:":
+  - 1F1FB
+  - 1F1E8
+  ":flag-ve:":
+  - 1F1FB
+  - 1F1EA
+  ":venezuela:":
+  - 1F1FB
+  - 1F1EA
+  ":flag_venezuela:":
+  - 1F1FB
+  - 1F1EA
+  ":flag-vg:":
+  - 1F1FB
+  - 1F1EC
+  ":british_virgin_islands:":
+  - 1F1FB
+  - 1F1EC
+  ":flag_british_virgin_islands:":
+  - 1F1FB
+  - 1F1EC
+  ":flag-vi:":
+  - 1F1FB
+  - 1F1EE
+  ":us_virgin_islands:":
+  - 1F1FB
+  - 1F1EE
+  ":flag_u_s_virgin_islands:":
+  - 1F1FB
+  - 1F1EE
+  ":flag-vn:":
+  - 1F1FB
+  - 1F1F3
+  ":vietnam:":
+  - 1F1FB
+  - 1F1F3
+  ":flag_vietnam:":
+  - 1F1FB
+  - 1F1F3
+  ":flag-vu:":
+  - 1F1FB
+  - 1F1FA
+  ":vanuatu:":
+  - 1F1FB
+  - 1F1FA
+  ":flag_vanuatu:":
+  - 1F1FB
+  - 1F1FA
+  ":flag-wf:":
+  - 1F1FC
+  - 1F1EB
+  ":wallis_futuna:":
+  - 1F1FC
+  - 1F1EB
+  ":flag_wallis_futuna:":
+  - 1F1FC
+  - 1F1EB
+  ":samoa:":
+  - 1F1FC
+  - 1F1F8
+  ":flag-ws:":
+  - 1F1FC
+  - 1F1F8
+  ":flag_samoa:":
+  - 1F1FC
+  - 1F1F8
+  ":kosovo:":
+  - 1F1FD
+  - 1F1F0
+  ":flag-xk:":
+  - 1F1FD
+  - 1F1F0
+  ":flag_kosovo:":
+  - 1F1FD
+  - 1F1F0
+  ":yemen:":
+  - 1F1FE
+  - 1F1EA
+  ":flag-ye:":
+  - 1F1FE
+  - 1F1EA
+  ":flag_yemen:":
+  - 1F1FE
+  - 1F1EA
+  ":flag-yt:":
+  - 1F1FE
+  - 1F1F9
+  ":mayotte:":
+  - 1F1FE
+  - 1F1F9
+  ":flag_mayotte:":
+  - 1F1FE
+  - 1F1F9
+  ":flag-za:":
+  - 1F1FF
+  - 1F1E6
+  ":south_africa:":
+  - 1F1FF
+  - 1F1E6
+  ":flag_south_africa:":
+  - 1F1FF
+  - 1F1E6
+  ":zambia:":
+  - 1F1FF
+  - 1F1F2
+  ":flag-zm:":
+  - 1F1FF
+  - 1F1F2
+  ":flag_zambia:":
+  - 1F1FF
+  - 1F1F2
+  ":flag-zw:":
+  - 1F1FF
+  - 1F1FC
+  ":zimbabwe:":
+  - 1F1FF
+  - 1F1FC
+  ":flag_zimbabwe:":
+  - 1F1FF
+  - 1F1FC
+  ":england:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0065
+  - E006E
+  - E0067
+  - E007F
+  ":flag_england:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0065
+  - E006E
+  - E0067
+  - E007F
+  ":flag-england:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0065
+  - E006E
+  - E0067
+  - E007F
+  ":scotland:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0073
+  - E0063
+  - E0074
+  - E007F
+  ":flag_scotland:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0073
+  - E0063
+  - E0074
+  - E007F
+  ":flag-scotland:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0073
+  - E0063
+  - E0074
+  - E007F
+  ":wales:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0077
+  - E006C
+  - E0073
+  - E007F
+  ":flag_wales:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0077
+  - E006C
+  - E0073
+  - E007F
+  ":flag-wales:":
+  - 1F3F4
+  - E0067
+  - E0062
+  - E0077
+  - E006C
+  - E0073
+  - E007F
+people:
+  ":grinning:":
+  - 1F600
+  ":grinning_face:":
+  - 1F600
+  ":smiley:":
+  - 1F603
+  ":grinning_face_with_big_eyes:":
+  - 1F603
+  ":smile:":
+  - 1F604
+  ":grinning_face_with_smiling_eyes:":
+  - 1F604
+  ":grin:":
+  - 1F601
+  ":beaming_face_with_smiling_eyes:":
+  - 1F601
+  ":laughing:":
+  - 1F606
+  ":satisfied:":
+  - 1F606
+  ":grinning_squinting_face:":
+  - 1F606
+  ":sweat_smile:":
+  - 1F605
+  ":grinning_face_with_sweat:":
+  - 1F605
+  ":rofl:":
+  - 1F923
+  ":rolling_on_the_floor_laughing:":
+  - 1F923
+  ":joy:":
+  - 1F602
+  ":face_with_tears_of_joy:":
+  - 1F602
+  ":slightly_smiling_face:":
+  - 1F642
+  ":upside_down_face:":
+  - 1F643
+  ":wink:":
+  - 1F609
+  ":winking_face:":
+  - 1F609
+  ":blush:":
+  - 1F60A
+  ":smiling_face_with_smiling_eyes:":
+  - 1F60A
+  ":innocent:":
+  - 1F607
+  ":smiling_face_with_halo:":
+  - 1F607
+  ":smiling_face_with_hearts:":
+  - 1F970
+  ":smiling_face_with_3_hearts:":
+  - 1F970
+  ":smiling_face_with_three_hearts:":
+  - 1F970
+  ":heart_eyes:":
+  - 1F60D
+  ":smiling_face_with_heart_eyes:":
+  - 1F60D
+  ":star_struck:":
+  - 1F929
+  ":star-struck:":
+  - 1F929
+  ":grinning_face_with_star_eyes:":
+  - 1F929
+  ":kissing_heart:":
+  - 1F618
+  ":face_blowing_a_kiss:":
+  - 1F618
+  ":kissing:":
+  - 1F617
+  ":kissing_face:":
+  - 1F617
+  ":relaxed:":
+  - 263A
+  - FE0F
+  ":smiling_face:":
+  - 263A
+  - FE0F
+  ":kissing_closed_eyes:":
+  - 1F61A
+  ":kissing_face_with_closed_eyes:":
+  - 1F61A
+  ":kissing_smiling_eyes:":
+  - 1F619
+  ":kissing_face_with_smiling_eyes:":
+  - 1F619
+  ":yum:":
+  - 1F60B
+  ":face_savoring_food:":
+  - 1F60B
+  ":stuck_out_tongue:":
+  - 1F61B
+  ":face_with_tongue:":
+  - 1F61B
+  ":stuck_out_tongue_winking_eye:":
+  - 1F61C
+  ":winking_face_with_tongue:":
+  - 1F61C
+  ":zany_face:":
+  - 1F92A
+  ":grinning_face_with_one_large_and_one_small_eye:":
+  - 1F92A
+  ":stuck_out_tongue_closed_eyes:":
+  - 1F61D
+  ":squinting_face_with_tongue:":
+  - 1F61D
+  ":money_mouth_face:":
+  - 1F911
+  ":hugging_face:":
+  - 1F917
+  ":hugs:":
+  - 1F917
+  ":face_with_hand_over_mouth:":
+  - 1F92D
+  ":hand_over_mouth:":
+  - 1F92D
+  ":smiling_face_with_smiling_eyes_and_hand_covering_mouth:":
+  - 1F92D
+  ":shushing_face:":
+  - 1F92B
+  ":face_with_finger_covering_closed_lips:":
+  - 1F92B
+  ":thinking_face:":
+  - 1F914
+  ":thinking:":
+  - 1F914
+  ":zipper_mouth_face:":
+  - 1F910
+  ":face_with_raised_eyebrow:":
+  - 1F928
+  ":raised_eyebrow:":
+  - 1F928
+  ":face_with_one_eyebrow_raised:":
+  - 1F928
+  ":neutral_face:":
+  - 1F610
+  ":expressionless:":
+  - 1F611
+  ":expressionless_face:":
+  - 1F611
+  ":no_mouth:":
+  - 1F636
+  ":face_without_mouth:":
+  - 1F636
+  ":smirk:":
+  - 1F60F
+  ":smirking_face:":
+  - 1F60F
+  ":unamused:":
+  - 1F612
+  ":unamused_face:":
+  - 1F612
+  ":roll_eyes:":
+  - 1F644
+  ":face_with_rolling_eyes:":
+  - 1F644
+  ":grimacing:":
+  - 1F62C
+  ":grimacing_face:":
+  - 1F62C
+  ":lying_face:":
+  - 1F925
+  ":relieved:":
+  - 1F60C
+  ":relieved_face:":
+  - 1F60C
+  ":pensive:":
+  - 1F614
+  ":pensive_face:":
+  - 1F614
+  ":sleepy:":
+  - 1F62A
+  ":sleepy_face:":
+  - 1F62A
+  ":drooling_face:":
+  - 1F924
+  ":sleeping:":
+  - 1F634
+  ":sleeping_face:":
+  - 1F634
+  ":mask:":
+  - 1F637
+  ":face_with_medical_mask:":
+  - 1F637
+  ":face_with_thermometer:":
+  - 1F912
+  ":face_with_head_bandage:":
+  - 1F915
+  ":nauseated_face:":
+  - 1F922
+  ":face_vomiting:":
+  - 1F92E
+  ":vomiting_face:":
+  - 1F92E
+  ":face_with_open_mouth_vomiting:":
+  - 1F92E
+  ":sneezing_face:":
+  - 1F927
+  ":hot_face:":
+  - 1F975
+  ":cold_face:":
+  - 1F976
+  ":woozy_face:":
+  - 1F974
+  ":dizzy_face:":
+  - 1F635
+  ":exploding_head:":
+  - 1F92F
+  ":shocked_face_with_exploding_head:":
+  - 1F92F
+  ":cowboy_hat_face:":
+  - 1F920
+  ":face_with_cowboy_hat:":
+  - 1F920
+  ":partying_face:":
+  - 1F973
+  ":sunglasses:":
+  - 1F576
+  - FE0F
+  ":smiling_face_with_sunglasses:":
+  - 1F60E
+  ":nerd_face:":
+  - 1F913
+  ":face_with_monocle:":
+  - 1F9D0
+  ":monocle_face:":
+  - 1F9D0
+  ":confused:":
+  - 1F615
+  ":confused_face:":
+  - 1F615
+  ":worried:":
+  - 1F61F
+  ":worried_face:":
+  - 1F61F
+  ":slightly_frowning_face:":
+  - 1F641
+  ":frowning_face:":
+  - '2639'
+  - FE0F
+  ":white_frowning_face:":
+  - '2639'
+  - FE0F
+  ":open_mouth:":
+  - 1F62E
+  ":face_with_open_mouth:":
+  - 1F62E
+  ":hushed:":
+  - 1F62F
+  ":hushed_face:":
+  - 1F62F
+  ":astonished:":
+  - 1F632
+  ":astonished_face:":
+  - 1F632
+  ":flushed:":
+  - 1F633
+  ":flushed_face:":
+  - 1F633
+  ":pleading_face:":
+  - 1F97A
+  ":frowning:":
+  - 1F626
+  ":frowning_face_with_open_mouth:":
+  - 1F626
+  ":anguished:":
+  - 1F627
+  ":anguished_face:":
+  - 1F627
+  ":fearful:":
+  - 1F628
+  ":fearful_face:":
+  - 1F628
+  ":cold_sweat:":
+  - 1F630
+  ":anxious_face_with_sweat:":
+  - 1F630
+  ":disappointed_relieved:":
+  - 1F625
+  ":sad_but_relieved_face:":
+  - 1F625
+  ":cry:":
+  - 1F622
+  ":crying_face:":
+  - 1F622
+  ":sob:":
+  - 1F62D
+  ":loudly_crying_face:":
+  - 1F62D
+  ":scream:":
+  - 1F631
+  ":face_screaming_in_fear:":
+  - 1F631
+  ":confounded:":
+  - 1F616
+  ":confounded_face:":
+  - 1F616
+  ":persevere:":
+  - 1F623
+  ":persevering_face:":
+  - 1F623
+  ":disappointed:":
+  - 1F61E
+  ":disappointed_face:":
+  - 1F61E
+  ":sweat:":
+  - 1F613
+  ":downcast_face_with_sweat:":
+  - 1F613
+  ":weary:":
+  - 1F629
+  ":weary_face:":
+  - 1F629
+  ":tired_face:":
+  - 1F62B
+  ":yawning_face:":
+  - 1F971
+  ":triumph:":
+  - 1F624
+  ":face_with_steam_from_nose:":
+  - 1F624
+  ":rage:":
+  - 1F621
+  ":pout:":
+  - 1F621
+  ":pouting_face:":
+  - 1F64E
+  ":angry:":
+  - 1F620
+  ":angry_face:":
+  - 1F620
+  ":cursing_face:":
+  - 1F92C
+  ":face_with_symbols_on_mouth:":
+  - 1F92C
+  ":serious_face_with_symbols_covering_mouth:":
+  - 1F92C
+  ":smiling_imp:":
+  - 1F608
+  ":smiling_face_with_horns:":
+  - 1F608
+  ":imp:":
+  - 1F47F
+  ":angry_face_with_horns:":
+  - 1F47F
+  ":skull:":
+  - 1F480
+  ":skull_and_crossbones:":
+  - '2620'
+  - FE0F
+  ":poop:":
+  - 1F4A9
+  ":shit:":
+  - 1F4A9
+  ":hankey:":
+  - 1F4A9
+  ":pile_of_poo:":
+  - 1F4A9
+  ":clown_face:":
+  - 1F921
+  ":japanese_ogre:":
+  - 1F479
+  ":ogre:":
+  - 1F479
+  ":japanese_goblin:":
+  - 1F47A
+  ":goblin:":
+  - 1F47A
+  ":ghost:":
+  - 1F47B
+  ":alien:":
+  - 1F47D
+  ":space_invader:":
+  - 1F47E
+  ":alien_monster:":
+  - 1F47E
+  ":robot:":
+  - 1F916
+  ":robot_face:":
+  - 1F916
+  ":smiley_cat:":
+  - 1F63A
+  ":grinning_cat:":
+  - 1F63A
+  ":smile_cat:":
+  - 1F638
+  ":grinning_cat_with_smiling_eyes:":
+  - 1F638
+  ":joy_cat:":
+  - 1F639
+  ":cat_with_tears_of_joy:":
+  - 1F639
+  ":heart_eyes_cat:":
+  - 1F63B
+  ":smiling_cat_with_heart_eyes:":
+  - 1F63B
+  ":smirk_cat:":
+  - 1F63C
+  ":cat_with_wry_smile:":
+  - 1F63C
+  ":kissing_cat:":
+  - 1F63D
+  ":scream_cat:":
+  - 1F640
+  ":weary_cat:":
+  - 1F640
+  ":crying_cat_face:":
+  - 1F63F
+  ":crying_cat:":
+  - 1F63F
+  ":pouting_cat:":
+  - 1F63E
+  ":kiss:":
+  - 1F48F
+  ":kiss_mark:":
+  - 1F48B
+  ":wave:":
+  - 1F44B
+  ":waving_hand:":
+  - 1F44B
+  ":raised_back_of_hand:":
+  - 1F91A
+  ":raised_hand_with_fingers_splayed:":
+  - 1F590
+  - FE0F
+  ":hand_with_fingers_splayed:":
+  - 1F590
+  - FE0F
+  ":raised_hand:":
+  - 270B
+  ":hand:":
+  - 270B
+  ":vulcan_salute:":
+  - 1F596
+  ":spock-hand:":
+  - 1F596
+  ":ok_hand:":
+  - 1F44C
+  ":pinching_hand:":
+  - 1F90F
+  ":v:":
+  - 270C
+  - FE0F
+  ":victory_hand:":
+  - 270C
+  - FE0F
+  ":crossed_fingers:":
+  - 1F91E
+  ":hand_with_index_and_middle_fingers_crossed:":
+  - 1F91E
+  ":love_you_gesture:":
+  - 1F91F
+  ":i_love_you_hand_sign:":
+  - 1F91F
+  ":metal:":
+  - 1F918
+  ":sign_of_the_horns:":
+  - 1F918
+  ":the_horns:":
+  - 1F918
+  ":call_me_hand:":
+  - 1F919
+  ":point_left:":
+  - 1F448
+  ":backhand_index_pointing_left:":
+  - 1F448
+  ":point_right:":
+  - 1F449
+  ":backhand_index_pointing_right:":
+  - 1F449
+  ":point_up_2:":
+  - 1F446
+  ":backhand_index_pointing_up:":
+  - 1F446
+  ":middle_finger:":
+  - 1F595
+  ":fu:":
+  - 1F595
+  ":reversed_hand_with_middle_finger_extended:":
+  - 1F595
+  ":point_down:":
+  - 1F447
+  ":backhand_index_pointing_down:":
+  - 1F447
+  ":point_up:":
+  - 261D
+  - FE0F
+  ":index_pointing_up:":
+  - 261D
+  - FE0F
+  ":thumbsup:":
+  - 1F44D
+  ":thumbs_up:":
+  - 1F44D
+  ":-1:":
+  - 1F44E
+  ":thumbsdown:":
+  - 1F44E
+  ":thumbs_down:":
+  - 1F44E
+  ":fist:":
+  - 270A
+  ":fist_raised:":
+  - 270A
+  ":raised_fist:":
+  - 270A
+  ":punch:":
+  - 1F44A
+  ":facepunch:":
+  - 1F44A
+  ":fist_oncoming:":
+  - 1F44A
+  ":oncoming_fist:":
+  - 1F44A
+  ":fist_left:":
+  - 1F91B
+  ":left_facing_fist:":
+  - 1F91B
+  ":left-facing_fist:":
+  - 1F91B
+  ":fist_right:":
+  - 1F91C
+  ":right_facing_fist:":
+  - 1F91C
+  ":right-facing_fist:":
+  - 1F91C
+  ":clap:":
+  - 1F44F
+  ":clapping_hands:":
+  - 1F44F
+  ":raised_hands:":
+  - 1F64C
+  ":raising_hands:":
+  - 1F64C
+  ":open_hands:":
+  - 1F450
+  ":palms_up_together:":
+  - 1F932
+  ":handshake:":
+  - 1F91D
+  ":pray:":
+  - 1F64F
+  ":folded_hands:":
+  - 1F64F
+  ":writing_hand:":
+  - 270D
+  - FE0F
+  ":nail_care:":
+  - 1F485
+  ":nail_polish:":
+  - 1F485
+  ":selfie:":
+  - 1F933
+  ":muscle:":
+  - 1F4AA
+  ":flexed_biceps:":
+  - 1F4AA
+  ":mechanical_arm:":
+  - 1F9BE
+  ":mechanical_leg:":
+  - 1F9BF
+  ":leg:":
+  - 1F9B5
+  ":foot:":
+  - 1F9B6
+  ":ear:":
+  - 1F442
+  ":ear_with_hearing_aid:":
+  - 1F9BB
+  ":nose:":
+  - 1F443
+  ":brain:":
+  - 1F9E0
+  ":tooth:":
+  - 1F9B7
+  ":bone:":
+  - 1F9B4
+  ":eyes:":
+  - 1F440
+  ":eye:":
+  - 1F441
+  - FE0F
+  ":tongue:":
+  - 1F445
+  ":lips:":
+  - 1F444
+  ":mouth:":
+  - 1F444
+  ":baby:":
+  - 1F476
+  ":child:":
+  - 1F9D2
+  ":boy:":
+  - 1F466
+  ":girl:":
+  - 1F467
+  ":adult:":
+  - 1F9D1
+  ":person:":
+  - 1F9D1
+  ":person_blond_hair:":
+  - 1F471
+  ":blond_haired_person:":
+  - 1F471
+  ":person_with_blond_hair:":
+  - 1F471
+  ":man:":
+  - 1F468
+  ":bearded_person:":
+  - 1F9D4
+  ":man_beard:":
+  - 1F9D4
+  ":red_haired_man:":
+  - 1F468
+  - 200D
+  - 1F9B0
+  ":man_red_hair:":
+  - 1F468
+  - 200D
+  - 1F9B0
+  ":curly_haired_man:":
+  - 1F468
+  - 200D
+  - 1F9B1
+  ":man_curly_hair:":
+  - 1F468
+  - 200D
+  - 1F9B1
+  ":white_haired_man:":
+  - 1F468
+  - 200D
+  - 1F9B3
+  ":man_white_hair:":
+  - 1F468
+  - 200D
+  - 1F9B3
+  ":bald_man:":
+  - 1F468
+  - 200D
+  - 1F9B2
+  ":man_bald:":
+  - 1F468
+  - 200D
+  - 1F9B2
+  ":woman:":
+  - 1F469
+  ":red_haired_woman:":
+  - 1F469
+  - 200D
+  - 1F9B0
+  ":woman_red_hair:":
+  - 1F469
+  - 200D
+  - 1F9B0
+  ":person_red_hair:":
+  - 1F9D1
+  - 200D
+  - 1F9B0
+  ":red_haired_person:":
+  - 1F9D1
+  - 200D
+  - 1F9B0
+  ":curly_haired_woman:":
+  - 1F469
+  - 200D
+  - 1F9B1
+  ":woman_curly_hair:":
+  - 1F469
+  - 200D
+  - 1F9B1
+  ":person_curly_hair:":
+  - 1F9D1
+  - 200D
+  - 1F9B1
+  ":curly_haired_person:":
+  - 1F9D1
+  - 200D
+  - 1F9B1
+  ":white_haired_woman:":
+  - 1F469
+  - 200D
+  - 1F9B3
+  ":woman_white_hair:":
+  - 1F469
+  - 200D
+  - 1F9B3
+  ":person_white_hair:":
+  - 1F9D1
+  - 200D
+  - 1F9B3
+  ":white_haired_person:":
+  - 1F9D1
+  - 200D
+  - 1F9B3
+  ":bald_woman:":
+  - 1F469
+  - 200D
+  - 1F9B2
+  ":woman_bald:":
+  - 1F469
+  - 200D
+  - 1F9B2
+  ":person_bald:":
+  - 1F9D1
+  - 200D
+  - 1F9B2
+  ":bald_person:":
+  - 1F9D1
+  - 200D
+  - 1F9B2
+  ":blonde_woman:":
+  - 1F471
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_blond_hair:":
+  - 1F471
+  - 200D
+  - '2640'
+  - FE0F
+  ":blond_haired_woman:":
+  - 1F471
+  - 200D
+  - '2640'
+  - FE0F
+  ":blond-haired-woman:":
+  - 1F471
+  - 200D
+  - '2640'
+  - FE0F
+  ":man_blond_hair:":
+  - 1F471
+  - 200D
+  - '2642'
+  - FE0F
+  ":blond_haired_man:":
+  - 1F471
+  - 200D
+  - '2642'
+  - FE0F
+  ":blond-haired-man:":
+  - 1F471
+  - 200D
+  - '2642'
+  - FE0F
+  ":older_adult:":
+  - 1F9D3
+  ":older_person:":
+  - 1F9D3
+  ":older_man:":
+  - 1F474
+  ":old_man:":
+  - 1F474
+  ":older_woman:":
+  - 1F475
+  ":old_woman:":
+  - 1F475
+  ":person_frowning:":
+  - 1F64D
+  ":frowning_person:":
+  - 1F64D
+  ":frowning_man:":
+  - 1F64D
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_frowning:":
+  - 1F64D
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-frowning:":
+  - 1F64D
+  - 200D
+  - '2642'
+  - FE0F
+  ":frowning_woman:":
+  - 1F64D
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_frowning:":
+  - 1F64D
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-frowning:":
+  - 1F64D
+  - 200D
+  - '2640'
+  - FE0F
+  ":person_pouting:":
+  - 1F64E
+  ":person_with_pouting_face:":
+  - 1F64E
+  ":man_pouting:":
+  - 1F64E
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-pouting:":
+  - 1F64E
+  - 200D
+  - '2642'
+  - FE0F
+  ":pouting_man:":
+  - 1F64E
+  - 200D
+  - '2642'
+  - FE0F
+  ":pouting_woman:":
+  - 1F64E
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_pouting:":
+  - 1F64E
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-pouting:":
+  - 1F64E
+  - 200D
+  - '2640'
+  - FE0F
+  ":no_good:":
+  - 1F645
+  ":person_gesturing_no:":
+  - 1F645
+  ":ng_man:":
+  - 1F645
+  - 200D
+  - '2642'
+  - FE0F
+  ":no_good_man:":
+  - 1F645
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_gesturing_no:":
+  - 1F645
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-gesturing-no:":
+  - 1F645
+  - 200D
+  - '2642'
+  - FE0F
+  ":ng_woman:":
+  - 1F645
+  - 200D
+  - '2640'
+  - FE0F
+  ":no_good_woman:":
+  - 1F645
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_gesturing_no:":
+  - 1F645
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-gesturing-no:":
+  - 1F645
+  - 200D
+  - '2640'
+  - FE0F
+  ":ok_woman:":
+  - 1F646
+  - 200D
+  - '2640'
+  - FE0F
+  ":ok_person:":
+  - 1F646
+  ":person_gesturing_ok:":
+  - 1F646
+  ":ok_man:":
+  - 1F646
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_gesturing_ok:":
+  - 1F646
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-gesturing-ok:":
+  - 1F646
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_gesturing_ok:":
+  - 1F646
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-gesturing-ok:":
+  - 1F646
+  - 200D
+  - '2640'
+  - FE0F
+  ":information_desk_person:":
+  - 1F481
+  ":person_tipping_hand:":
+  - 1F481
+  ":tipping_hand_person:":
+  - 1F481
+  ":sassy_man:":
+  - 1F481
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_tipping_hand:":
+  - 1F481
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-tipping-hand:":
+  - 1F481
+  - 200D
+  - '2642'
+  - FE0F
+  ":tipping_hand_man:":
+  - 1F481
+  - 200D
+  - '2642'
+  - FE0F
+  ":sassy_woman:":
+  - 1F481
+  - 200D
+  - '2640'
+  - FE0F
+  ":tipping_hand_woman:":
+  - 1F481
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_tipping_hand:":
+  - 1F481
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-tipping-hand:":
+  - 1F481
+  - 200D
+  - '2640'
+  - FE0F
+  ":raising_hand:":
+  - 1F64B
+  ":person_raising_hand:":
+  - 1F64B
+  ":man_raising_hand:":
+  - 1F64B
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-raising-hand:":
+  - 1F64B
+  - 200D
+  - '2642'
+  - FE0F
+  ":raising_hand_man:":
+  - 1F64B
+  - 200D
+  - '2642'
+  - FE0F
+  ":raising_hand_woman:":
+  - 1F64B
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_raising_hand:":
+  - 1F64B
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-raising-hand:":
+  - 1F64B
+  - 200D
+  - '2640'
+  - FE0F
+  ":deaf_person:":
+  - 1F9CF
+  ":deaf_man:":
+  - 1F9CF
+  - 200D
+  - '2642'
+  - FE0F
+  ":deaf_woman:":
+  - 1F9CF
+  - 200D
+  - '2640'
+  - FE0F
+  ":bow:":
+  - 1F647
+  ":person_bowing:":
+  - 1F647
+  ":bowing_man:":
+  - 1F647
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_bowing:":
+  - 1F647
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-bowing:":
+  - 1F647
+  - 200D
+  - '2642'
+  - FE0F
+  ":bowing_woman:":
+  - 1F647
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_bowing:":
+  - 1F647
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-bowing:":
+  - 1F647
+  - 200D
+  - '2640'
+  - FE0F
+  ":facepalm:":
+  - 1F926
+  ":face_palm:":
+  - 1F926
+  ":person_facepalming:":
+  - 1F926
+  ":man_facepalming:":
+  - 1F926
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-facepalming:":
+  - 1F926
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_facepalming:":
+  - 1F926
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-facepalming:":
+  - 1F926
+  - 200D
+  - '2640'
+  - FE0F
+  ":shrug:":
+  - 1F937
+  ":person_shrugging:":
+  - 1F937
+  ":man_shrugging:":
+  - 1F937
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-shrugging:":
+  - 1F937
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_shrugging:":
+  - 1F937
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-shrugging:":
+  - 1F937
+  - 200D
+  - '2640'
+  - FE0F
+  ":health_worker:":
+  - 1F9D1
+  - 200D
+  - '2695'
+  - FE0F
+  ":man_health_worker:":
+  - 1F468
+  - 200D
+  - '2695'
+  - FE0F
+  ":male-doctor:":
+  - 1F468
+  - 200D
+  - '2695'
+  - FE0F
+  ":woman_health_worker:":
+  - 1F469
+  - 200D
+  - '2695'
+  - FE0F
+  ":female-doctor:":
+  - 1F469
+  - 200D
+  - '2695'
+  - FE0F
+  ":student:":
+  - 1F9D1
+  - 200D
+  - 1F393
+  ":man_student:":
+  - 1F468
+  - 200D
+  - 1F393
+  ":male-student:":
+  - 1F468
+  - 200D
+  - 1F393
+  ":woman_student:":
+  - 1F469
+  - 200D
+  - 1F393
+  ":female-student:":
+  - 1F469
+  - 200D
+  - 1F393
+  ":teacher:":
+  - 1F9D1
+  - 200D
+  - 1F3EB
+  ":man_teacher:":
+  - 1F468
+  - 200D
+  - 1F3EB
+  ":male-teacher:":
+  - 1F468
+  - 200D
+  - 1F3EB
+  ":woman_teacher:":
+  - 1F469
+  - 200D
+  - 1F3EB
+  ":female-teacher:":
+  - 1F469
+  - 200D
+  - 1F3EB
+  ":judge:":
+  - 1F9D1
+  - 200D
+  - '2696'
+  - FE0F
+  ":man_judge:":
+  - 1F468
+  - 200D
+  - '2696'
+  - FE0F
+  ":male-judge:":
+  - 1F468
+  - 200D
+  - '2696'
+  - FE0F
+  ":woman_judge:":
+  - 1F469
+  - 200D
+  - '2696'
+  - FE0F
+  ":female-judge:":
+  - 1F469
+  - 200D
+  - '2696'
+  - FE0F
+  ":farmer:":
+  - 1F9D1
+  - 200D
+  - 1F33E
+  ":man_farmer:":
+  - 1F468
+  - 200D
+  - 1F33E
+  ":male-farmer:":
+  - 1F468
+  - 200D
+  - 1F33E
+  ":woman_farmer:":
+  - 1F469
+  - 200D
+  - 1F33E
+  ":female-farmer:":
+  - 1F469
+  - 200D
+  - 1F33E
+  ":cook:":
+  - 1F9D1
+  - 200D
+  - 1F373
+  ":man_cook:":
+  - 1F468
+  - 200D
+  - 1F373
+  ":male-cook:":
+  - 1F468
+  - 200D
+  - 1F373
+  ":woman_cook:":
+  - 1F469
+  - 200D
+  - 1F373
+  ":female-cook:":
+  - 1F469
+  - 200D
+  - 1F373
+  ":mechanic:":
+  - 1F9D1
+  - 200D
+  - 1F527
+  ":man_mechanic:":
+  - 1F468
+  - 200D
+  - 1F527
+  ":male-mechanic:":
+  - 1F468
+  - 200D
+  - 1F527
+  ":woman_mechanic:":
+  - 1F469
+  - 200D
+  - 1F527
+  ":female-mechanic:":
+  - 1F469
+  - 200D
+  - 1F527
+  ":factory_worker:":
+  - 1F9D1
+  - 200D
+  - 1F3ED
+  ":man_factory_worker:":
+  - 1F468
+  - 200D
+  - 1F3ED
+  ":male-factory-worker:":
+  - 1F468
+  - 200D
+  - 1F3ED
+  ":woman_factory_worker:":
+  - 1F469
+  - 200D
+  - 1F3ED
+  ":female-factory-worker:":
+  - 1F469
+  - 200D
+  - 1F3ED
+  ":office_worker:":
+  - 1F9D1
+  - 200D
+  - 1F4BC
+  ":man_office_worker:":
+  - 1F468
+  - 200D
+  - 1F4BC
+  ":male-office-worker:":
+  - 1F468
+  - 200D
+  - 1F4BC
+  ":woman_office_worker:":
+  - 1F469
+  - 200D
+  - 1F4BC
+  ":female-office-worker:":
+  - 1F469
+  - 200D
+  - 1F4BC
+  ":scientist:":
+  - 1F9D1
+  - 200D
+  - 1F52C
+  ":man_scientist:":
+  - 1F468
+  - 200D
+  - 1F52C
+  ":male-scientist:":
+  - 1F468
+  - 200D
+  - 1F52C
+  ":woman_scientist:":
+  - 1F469
+  - 200D
+  - 1F52C
+  ":female-scientist:":
+  - 1F469
+  - 200D
+  - 1F52C
+  ":technologist:":
+  - 1F9D1
+  - 200D
+  - 1F4BB
+  ":man_technologist:":
+  - 1F468
+  - 200D
+  - 1F4BB
+  ":male-technologist:":
+  - 1F468
+  - 200D
+  - 1F4BB
+  ":woman_technologist:":
+  - 1F469
+  - 200D
+  - 1F4BB
+  ":female-technologist:":
+  - 1F469
+  - 200D
+  - 1F4BB
+  ":singer:":
+  - 1F9D1
+  - 200D
+  - 1F3A4
+  ":man_singer:":
+  - 1F468
+  - 200D
+  - 1F3A4
+  ":male-singer:":
+  - 1F468
+  - 200D
+  - 1F3A4
+  ":woman_singer:":
+  - 1F469
+  - 200D
+  - 1F3A4
+  ":female-singer:":
+  - 1F469
+  - 200D
+  - 1F3A4
+  ":artist:":
+  - 1F9D1
+  - 200D
+  - 1F3A8
+  ":man_artist:":
+  - 1F468
+  - 200D
+  - 1F3A8
+  ":male-artist:":
+  - 1F468
+  - 200D
+  - 1F3A8
+  ":woman_artist:":
+  - 1F469
+  - 200D
+  - 1F3A8
+  ":female-artist:":
+  - 1F469
+  - 200D
+  - 1F3A8
+  ":pilot:":
+  - 1F9D1
+  - 200D
+  - '2708'
+  - FE0F
+  ":man_pilot:":
+  - 1F468
+  - 200D
+  - '2708'
+  - FE0F
+  ":male-pilot:":
+  - 1F468
+  - 200D
+  - '2708'
+  - FE0F
+  ":woman_pilot:":
+  - 1F469
+  - 200D
+  - '2708'
+  - FE0F
+  ":female-pilot:":
+  - 1F469
+  - 200D
+  - '2708'
+  - FE0F
+  ":astronaut:":
+  - 1F9D1
+  - 200D
+  - 1F680
+  ":man_astronaut:":
+  - 1F468
+  - 200D
+  - 1F680
+  ":male-astronaut:":
+  - 1F468
+  - 200D
+  - 1F680
+  ":woman_astronaut:":
+  - 1F469
+  - 200D
+  - 1F680
+  ":female-astronaut:":
+  - 1F469
+  - 200D
+  - 1F680
+  ":firefighter:":
+  - 1F9D1
+  - 200D
+  - 1F692
+  ":man_firefighter:":
+  - 1F468
+  - 200D
+  - 1F692
+  ":male-firefighter:":
+  - 1F468
+  - 200D
+  - 1F692
+  ":woman_firefighter:":
+  - 1F469
+  - 200D
+  - 1F692
+  ":female-firefighter:":
+  - 1F469
+  - 200D
+  - 1F692
+  ":cop:":
+  - 1F46E
+  ":police_officer:":
+  - 1F46E
+  ":policeman:":
+  - 1F46E
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_police_officer:":
+  - 1F46E
+  - 200D
+  - '2642'
+  - FE0F
+  ":male-police-officer:":
+  - 1F46E
+  - 200D
+  - '2642'
+  - FE0F
+  ":policewoman:":
+  - 1F46E
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_police_officer:":
+  - 1F46E
+  - 200D
+  - '2640'
+  - FE0F
+  ":female-police-officer:":
+  - 1F46E
+  - 200D
+  - '2640'
+  - FE0F
+  ":detective:":
+  - 1F575
+  - FE0F
+  ":sleuth_or_spy:":
+  - 1F575
+  - FE0F
+  ":man_detective:":
+  - 1F575
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_detective:":
+  - 1F575
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":male-detective:":
+  - 1F575
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_detective:":
+  - 1F575
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_detective:":
+  - 1F575
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":female-detective:":
+  - 1F575
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":guard:":
+  - 1F482
+  ":guardsman:":
+  - 1F482
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_guard:":
+  - 1F482
+  - 200D
+  - '2642'
+  - FE0F
+  ":male-guard:":
+  - 1F482
+  - 200D
+  - '2642'
+  - FE0F
+  ":guardswoman:":
+  - 1F482
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_guard:":
+  - 1F482
+  - 200D
+  - '2640'
+  - FE0F
+  ":female-guard:":
+  - 1F482
+  - 200D
+  - '2640'
+  - FE0F
+  ":construction_worker:":
+  - 1F477
+  ":construction_worker_man:":
+  - 1F477
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_construction_worker:":
+  - 1F477
+  - 200D
+  - '2642'
+  - FE0F
+  ":male-construction-worker:":
+  - 1F477
+  - 200D
+  - '2642'
+  - FE0F
+  ":construction_worker_woman:":
+  - 1F477
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_construction_worker:":
+  - 1F477
+  - 200D
+  - '2640'
+  - FE0F
+  ":female-construction-worker:":
+  - 1F477
+  - 200D
+  - '2640'
+  - FE0F
+  ":prince:":
+  - 1F934
+  ":princess:":
+  - 1F478
+  ":man_with_turban:":
+  - 1F473
+  - 200D
+  - '2642'
+  - FE0F
+  ":person_with_turban:":
+  - 1F473
+  ":person_wearing_turban:":
+  - 1F473
+  ":man_wearing_turban:":
+  - 1F473
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-wearing-turban:":
+  - 1F473
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_with_turban:":
+  - 1F473
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_wearing_turban:":
+  - 1F473
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-wearing-turban:":
+  - 1F473
+  - 200D
+  - '2640'
+  - FE0F
+  ":man_with_gua_pi_mao:":
+  - 1F472
+  ":person_with_skullcap:":
+  - 1F472
+  ":woman_with_headscarf:":
+  - 1F9D5
+  ":person_with_headscarf:":
+  - 1F9D5
+  ":man_in_tuxedo:":
+  - 1F935
+  ":person_in_tuxedo:":
+  - 1F935
+  ":bride_with_veil:":
+  - 1F470
+  ":person_with_veil:":
+  - 1F470
+  ":pregnant_woman:":
+  - 1F930
+  ":breast_feeding:":
+  - 1F931
+  ":breast-feeding:":
+  - 1F931
+  ":person_feeding_baby:":
+  - 1F9D1
+  - 200D
+  - 1F37C
+  ":angel:":
+  - 1F47C
+  ":baby_angel:":
+  - 1F47C
+  ":santa:":
+  - 1F385
+  ":santa_claus:":
+  - 1F385
+  ":mrs_claus:":
+  - 1F936
+  ":mother_christmas:":
+  - 1F936
+  ":superhero:":
+  - 1F9B8
+  ":man_superhero:":
+  - 1F9B8
+  - 200D
+  - '2642'
+  - FE0F
+  ":superhero_man:":
+  - 1F9B8
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_superhero:":
+  - 1F9B8
+  - 200D
+  - '2642'
+  - FE0F
+  ":superhero_woman:":
+  - 1F9B8
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_superhero:":
+  - 1F9B8
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_superhero:":
+  - 1F9B8
+  - 200D
+  - '2640'
+  - FE0F
+  ":supervillain:":
+  - 1F9B9
+  ":man_supervillain:":
+  - 1F9B9
+  - 200D
+  - '2642'
+  - FE0F
+  ":supervillain_man:":
+  - 1F9B9
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_supervillain:":
+  - 1F9B9
+  - 200D
+  - '2642'
+  - FE0F
+  ":supervillain_woman:":
+  - 1F9B9
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_supervillain:":
+  - 1F9B9
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_supervillain:":
+  - 1F9B9
+  - 200D
+  - '2640'
+  - FE0F
+  ":mage:":
+  - 1F9D9
+  ":mage_man:":
+  - 1F9D9
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_mage:":
+  - 1F9D9
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_mage:":
+  - 1F9D9
+  - 200D
+  - '2642'
+  - FE0F
+  ":mage_woman:":
+  - 1F9D9
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_mage:":
+  - 1F9D9
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_mage:":
+  - 1F9D9
+  - 200D
+  - '2640'
+  - FE0F
+  ":fairy:":
+  - 1F9DA
+  ":fairy_man:":
+  - 1F9DA
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_fairy:":
+  - 1F9DA
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_fairy:":
+  - 1F9DA
+  - 200D
+  - '2642'
+  - FE0F
+  ":fairy_woman:":
+  - 1F9DA
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_fairy:":
+  - 1F9DA
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_fairy:":
+  - 1F9DA
+  - 200D
+  - '2640'
+  - FE0F
+  ":vampire:":
+  - 1F9DB
+  ":man_vampire:":
+  - 1F9DB
+  - 200D
+  - '2642'
+  - FE0F
+  ":vampire_man:":
+  - 1F9DB
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_vampire:":
+  - 1F9DB
+  - 200D
+  - '2642'
+  - FE0F
+  ":vampire_woman:":
+  - 1F9DB
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_vampire:":
+  - 1F9DB
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_vampire:":
+  - 1F9DB
+  - 200D
+  - '2640'
+  - FE0F
+  ":merperson:":
+  - 1F9DC
+  ":merman:":
+  - 1F9DC
+  - 200D
+  - '2642'
+  - FE0F
+  ":mermaid:":
+  - 1F9DC
+  - 200D
+  - '2640'
+  - FE0F
+  ":elf:":
+  - 1F9DD
+  ":elf_man:":
+  - 1F9DD
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_elf:":
+  - 1F9DD
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_elf:":
+  - 1F9DD
+  - 200D
+  - '2642'
+  - FE0F
+  ":elf_woman:":
+  - 1F9DD
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_elf:":
+  - 1F9DD
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_elf:":
+  - 1F9DD
+  - 200D
+  - '2640'
+  - FE0F
+  ":genie:":
+  - 1F9DE
+  ":genie_man:":
+  - 1F9DE
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_genie:":
+  - 1F9DE
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_genie:":
+  - 1F9DE
+  - 200D
+  - '2642'
+  - FE0F
+  ":genie_woman:":
+  - 1F9DE
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_genie:":
+  - 1F9DE
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_genie:":
+  - 1F9DE
+  - 200D
+  - '2640'
+  - FE0F
+  ":zombie:":
+  - 1F9DF
+  ":man_zombie:":
+  - 1F9DF
+  - 200D
+  - '2642'
+  - FE0F
+  ":zombie_man:":
+  - 1F9DF
+  - 200D
+  - '2642'
+  - FE0F
+  ":male_zombie:":
+  - 1F9DF
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_zombie:":
+  - 1F9DF
+  - 200D
+  - '2640'
+  - FE0F
+  ":zombie_woman:":
+  - 1F9DF
+  - 200D
+  - '2640'
+  - FE0F
+  ":female_zombie:":
+  - 1F9DF
+  - 200D
+  - '2640'
+  - FE0F
+  ":massage:":
+  - 1F486
+  ":person_getting_massage:":
+  - 1F486
+  ":massage_man:":
+  - 1F486
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_getting_massage:":
+  - 1F486
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-getting-massage:":
+  - 1F486
+  - 200D
+  - '2642'
+  - FE0F
+  ":massage_woman:":
+  - 1F486
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_getting_massage:":
+  - 1F486
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-getting-massage:":
+  - 1F486
+  - 200D
+  - '2640'
+  - FE0F
+  ":haircut:":
+  - 1F487
+  ":person_getting_haircut:":
+  - 1F487
+  ":haircut_man:":
+  - 1F487
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_getting_haircut:":
+  - 1F487
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-getting-haircut:":
+  - 1F487
+  - 200D
+  - '2642'
+  - FE0F
+  ":haircut_woman:":
+  - 1F487
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_getting_haircut:":
+  - 1F487
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-getting-haircut:":
+  - 1F487
+  - 200D
+  - '2640'
+  - FE0F
+  ":walking:":
+  - 1F6B6
+  ":person_walking:":
+  - 1F6B6
+  ":man_walking:":
+  - 1F6B6
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-walking:":
+  - 1F6B6
+  - 200D
+  - '2642'
+  - FE0F
+  ":walking_man:":
+  - 1F6B6
+  - 200D
+  - '2642'
+  - FE0F
+  ":walking_woman:":
+  - 1F6B6
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_walking:":
+  - 1F6B6
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-walking:":
+  - 1F6B6
+  - 200D
+  - '2640'
+  - FE0F
+  ":standing_person:":
+  - 1F9CD
+  ":person_standing:":
+  - 1F9CD
+  ":man_standing:":
+  - 1F9CD
+  - 200D
+  - '2642'
+  - FE0F
+  ":standing_man:":
+  - 1F9CD
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_standing:":
+  - 1F9CD
+  - 200D
+  - '2640'
+  - FE0F
+  ":standing_woman:":
+  - 1F9CD
+  - 200D
+  - '2640'
+  - FE0F
+  ":kneeling_person:":
+  - 1F9CE
+  ":person_kneeling:":
+  - 1F9CE
+  ":man_kneeling:":
+  - 1F9CE
+  - 200D
+  - '2642'
+  - FE0F
+  ":kneeling_man:":
+  - 1F9CE
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_kneeling:":
+  - 1F9CE
+  - 200D
+  - '2640'
+  - FE0F
+  ":kneeling_woman:":
+  - 1F9CE
+  - 200D
+  - '2640'
+  - FE0F
+  ":person_with_probing_cane:":
+  - 1F9D1
+  - 200D
+  - 1F9AF
+  ":person_with_white_cane:":
+  - 1F9D1
+  - 200D
+  - 1F9AF
+  ":man_with_probing_cane:":
+  - 1F468
+  - 200D
+  - 1F9AF
+  ":man_with_white_cane:":
+  - 1F468
+  - 200D
+  - 1F9AF
+  ":woman_with_probing_cane:":
+  - 1F469
+  - 200D
+  - 1F9AF
+  ":woman_with_white_cane:":
+  - 1F469
+  - 200D
+  - 1F9AF
+  ":person_in_motorized_wheelchair:":
+  - 1F9D1
+  - 200D
+  - 1F9BC
+  ":man_in_motorized_wheelchair:":
+  - 1F468
+  - 200D
+  - 1F9BC
+  ":woman_in_motorized_wheelchair:":
+  - 1F469
+  - 200D
+  - 1F9BC
+  ":person_in_manual_wheelchair:":
+  - 1F9D1
+  - 200D
+  - 1F9BD
+  ":man_in_manual_wheelchair:":
+  - 1F468
+  - 200D
+  - 1F9BD
+  ":woman_in_manual_wheelchair:":
+  - 1F469
+  - 200D
+  - 1F9BD
+  ":runner:":
+  - 1F3C3
+  ":running:":
+  - 1F3C3
+  ":person_running:":
+  - 1F3C3
+  ":man_running:":
+  - 1F3C3
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-running:":
+  - 1F3C3
+  - 200D
+  - '2642'
+  - FE0F
+  ":running_man:":
+  - 1F3C3
+  - 200D
+  - '2642'
+  - FE0F
+  ":running_woman:":
+  - 1F3C3
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_running:":
+  - 1F3C3
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-running:":
+  - 1F3C3
+  - 200D
+  - '2640'
+  - FE0F
+  ":dancer:":
+  - 1F483
+  ":woman_dancing:":
+  - 1F483
+  ":man_dancing:":
+  - 1F57A
+  ":business_suit_levitating:":
+  - 1F574
+  - FE0F
+  ":person_in_suit_levitating:":
+  - 1F574
+  - FE0F
+  ":man_in_business_suit_levitating:":
+  - 1F574
+  - FE0F
+  ":dancers:":
+  - 1F46F
+  ":people_with_bunny_ears:":
+  - 1F46F
+  ":dancing_men:":
+  - 1F46F
+  - 200D
+  - '2642'
+  - FE0F
+  ":men_with_bunny_ears:":
+  - 1F46F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-with-bunny-ears-partying:":
+  - 1F46F
+  - 200D
+  - '2642'
+  - FE0F
+  ":dancing_women:":
+  - 1F46F
+  - 200D
+  - '2640'
+  - FE0F
+  ":women_with_bunny_ears:":
+  - 1F46F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-with-bunny-ears-partying:":
+  - 1F46F
+  - 200D
+  - '2640'
+  - FE0F
+  ":person_in_steamy_room:":
+  - 1F9D6
+  ":sauna_person:":
+  - 1F9D6
+  ":man_in_steamy_room:":
+  - 1F9D6
+  - 200D
+  - '2642'
+  - FE0F
+  ":sauna_man:":
+  - 1F9D6
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_in_steamy_room:":
+  - 1F9D6
+  - 200D
+  - '2640'
+  - FE0F
+  ":sauna_woman:":
+  - 1F9D6
+  - 200D
+  - '2640'
+  - FE0F
+  ":lotus_position:":
+  - 1F9D8
+  ":person_in_lotus_position:":
+  - 1F9D8
+  ":people_holding_hands:":
+  - 1F9D1
+  - 200D
+  - 1F91D
+  - 200D
+  - 1F9D1
+  ":women_holding_hands:":
+  - 1F46D
+  ":two_women_holding_hands:":
+  - 1F46D
+  ":couple:":
+  - 1F46B
+  ":woman_and_man_holding_hands:":
+  - 1F46B
+  ":man_and_woman_holding_hands:":
+  - 1F46B
+  ":men_holding_hands:":
+  - 1F46C
+  ":two_men_holding_hands:":
+  - 1F46C
+  ":couplekiss:":
+  - 1F48F
+  ":kiss_woman_man:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F468
+  ":woman-kiss-man:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F468
+  ":couplekiss_man_woman:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F468
+  ":kiss_man_man:":
+  - 1F468
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F468
+  ":man-kiss-man:":
+  - 1F468
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F468
+  ":couplekiss_man_man:":
+  - 1F468
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F468
+  ":kiss_woman_woman:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F469
+  ":woman-kiss-woman:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F469
+  ":couplekiss_woman_woman:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F48B
+  - 200D
+  - 1F469
+  ":couple_with_heart:":
+  - 1F491
+  ":woman-heart-man:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F468
+  ":couple_with_heart_woman_man:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F468
+  ":man-heart-man:":
+  - 1F468
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F468
+  ":couple_with_heart_man_man:":
+  - 1F468
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F468
+  ":woman-heart-woman:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F469
+  ":couple_with_heart_woman_woman:":
+  - 1F469
+  - 200D
+  - '2764'
+  - FE0F
+  - 200D
+  - 1F469
+  ":family:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  ":man-woman-boy:":
+  - 1F46A
+  ":family_man_woman_boy:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  ":family_man_woman_girl:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  ":man-woman-girl:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  ":family_man_woman_girl_boy:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":man-woman-girl-boy:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":family_man_woman_boy_boy:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":man-woman-boy-boy:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":family_man_woman_girl_girl:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":man-woman-girl-girl:":
+  - 1F468
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":family_man_man_boy:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F466
+  ":man-man-boy:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F466
+  ":family_man_man_girl:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F467
+  ":man-man-girl:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F467
+  ":family_man_man_girl_boy:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":man-man-girl-boy:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":family_man_man_boy_boy:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":man-man-boy-boy:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":family_man_man_girl_girl:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":man-man-girl-girl:":
+  - 1F468
+  - 200D
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":family_woman_woman_boy:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  ":woman-woman-boy:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  ":family_woman_woman_girl:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  ":woman-woman-girl:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  ":family_woman_woman_girl_boy:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":woman-woman-girl-boy:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":family_woman_woman_boy_boy:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":woman-woman-boy-boy:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":family_woman_woman_girl_girl:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":woman-woman-girl-girl:":
+  - 1F469
+  - 200D
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":family_man_boy:":
+  - 1F468
+  - 200D
+  - 1F466
+  ":man-boy:":
+  - 1F468
+  - 200D
+  - 1F466
+  ":family_man_boy_boy:":
+  - 1F468
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":man-boy-boy:":
+  - 1F468
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":family_man_girl:":
+  - 1F468
+  - 200D
+  - 1F467
+  ":man-girl:":
+  - 1F468
+  - 200D
+  - 1F467
+  ":family_man_girl_boy:":
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":man-girl-boy:":
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":family_man_girl_girl:":
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":man-girl-girl:":
+  - 1F468
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":family_woman_boy:":
+  - 1F469
+  - 200D
+  - 1F466
+  ":woman-boy:":
+  - 1F469
+  - 200D
+  - 1F466
+  ":family_woman_boy_boy:":
+  - 1F469
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":woman-boy-boy:":
+  - 1F469
+  - 200D
+  - 1F466
+  - 200D
+  - 1F466
+  ":family_woman_girl:":
+  - 1F469
+  - 200D
+  - 1F467
+  ":woman-girl:":
+  - 1F469
+  - 200D
+  - 1F467
+  ":family_woman_girl_boy:":
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":woman-girl-boy:":
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F466
+  ":family_woman_girl_girl:":
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":woman-girl-girl:":
+  - 1F469
+  - 200D
+  - 1F467
+  - 200D
+  - 1F467
+  ":speaking_head:":
+  - 1F5E3
+  - FE0F
+  ":speaking_head_in_silhouette:":
+  - 1F5E3
+  - FE0F
+  ":bust_in_silhouette:":
+  - 1F464
+  ":busts_in_silhouette:":
+  - 1F465
+  ":footprints:":
+  - 1F463
+  ":luggage:":
+  - 1F9F3
+  ":closed_umbrella:":
+  - 1F302
+  ":umbrella:":
+  - '2602'
+  - FE0F
+  ":open_umbrella:":
+  - '2602'
+  - FE0F
+  ":jack_o_lantern:":
+  - 1F383
+  ":thread:":
+  - 1F9F5
+  ":yarn:":
+  - 1F9F6
+  ":eyeglasses:":
+  - 1F453
+  ":glasses:":
+  - 1F453
+  ":dark_sunglasses:":
+  - 1F576
+  - FE0F
+  ":goggles:":
+  - 1F97D
+  ":lab_coat:":
+  - 1F97C
+  ":safety_vest:":
+  - 1F9BA
+  ":necktie:":
+  - 1F454
+  ":shirt:":
+  - 1F455
+  ":tshirt:":
+  - 1F455
+  ":t_shirt:":
+  - 1F455
+  ":jeans:":
+  - 1F456
+  ":scarf:":
+  - 1F9E3
+  ":gloves:":
+  - 1F9E4
+  ":coat:":
+  - 1F9E5
+  ":socks:":
+  - 1F9E6
+  ":dress:":
+  - 1F457
+  ":kimono:":
+  - 1F458
+  ":sari:":
+  - 1F97B
+  ":one_piece_swimsuit:":
+  - 1FA71
+  ":one-piece_swimsuit:":
+  - 1FA71
+  ":briefs:":
+  - 1FA72
+  ":swim_brief:":
+  - 1FA72
+  ":shorts:":
+  - 1FA73
+  ":bikini:":
+  - 1F459
+  ":womans_clothes:":
+  - 1F45A
+  ":purse:":
+  - 1F45B
+  ":handbag:":
+  - 1F45C
+  ":pouch:":
+  - 1F45D
+  ":clutch_bag:":
+  - 1F45D
+  ":school_satchel:":
+  - 1F392
+  ":backpack:":
+  - 1F392
+  ":mans_shoe:":
+  - 1F45E
+  ":shoe:":
+  - 1F45E
+  ":athletic_shoe:":
+  - 1F45F
+  ":running_shoe:":
+  - 1F45F
+  ":hiking_boot:":
+  - 1F97E
+  ":flat_shoe:":
+  - 1F97F
+  ":womans_flat_shoe:":
+  - 1F97F
+  ":high_heel:":
+  - 1F460
+  ":high_heeled_shoe:":
+  - 1F460
+  ":sandal:":
+  - 1F461
+  ":womans_sandal:":
+  - 1F461
+  ":ballet_shoes:":
+  - 1FA70
+  ":boot:":
+  - 1F462
+  ":womans_boot:":
+  - 1F462
+  ":crown:":
+  - 1F451
+  ":womans_hat:":
+  - 1F452
+  ":tophat:":
+  - 1F3A9
+  ":top_hat:":
+  - 1F3A9
+  ":mortar_board:":
+  - 1F393
+  ":graduation_cap:":
+  - 1F393
+  ":billed_cap:":
+  - 1F9E2
+  ":rescue_worker_helmet:":
+  - 26D1
+  - FE0F
+  ":rescue_workers_helmet:":
+  - 26D1
+  - FE0F
+  ":helmet_with_white_cross:":
+  - 26D1
+  - FE0F
+  ":lipstick:":
+  - 1F484
+  ":ring:":
+  - 1F48D
+  ":briefcase:":
+  - 1F4BC
+  ":drop_of_blood:":
+  - 1FA78
+travel-places:
+  ":rowboat:":
+  - 1F6A3
+  ":person_rowing_boat:":
+  - 1F6A3
+  ":japan:":
+  - 1F5FE
+  ":map_of_japan:":
+  - 1F5FE
+  ":snow_capped_mountain:":
+  - 1F3D4
+  - FE0F
+  ":mountain_snow:":
+  - 1F3D4
+  - FE0F
+  ":mountain:":
+  - 26F0
+  - FE0F
+  ":volcano:":
+  - 1F30B
+  ":mount_fuji:":
+  - 1F5FB
+  ":camping:":
+  - 1F3D5
+  - FE0F
+  ":beach_with_umbrella:":
+  - 1F3D6
+  - FE0F
+  ":beach_umbrella:":
+  - 1F3D6
+  - FE0F
+  ":desert:":
+  - 1F3DC
+  - FE0F
+  ":desert_island:":
+  - 1F3DD
+  - FE0F
+  ":national_park:":
+  - 1F3DE
+  - FE0F
+  ":stadium:":
+  - 1F3DF
+  - FE0F
+  ":classical_building:":
+  - 1F3DB
+  - FE0F
+  ":building_construction:":
+  - 1F3D7
+  - FE0F
+  ":houses:":
+  - 1F3D8
+  - FE0F
+  ":house_buildings:":
+  - 1F3D8
+  - FE0F
+  ":derelict_house:":
+  - 1F3DA
+  - FE0F
+  ":derelict_house_building:":
+  - 1F3DA
+  - FE0F
+  ":house:":
+  - 1F3E0
+  ":house_with_garden:":
+  - 1F3E1
+  ":office:":
+  - 1F3E2
+  ":office_building:":
+  - 1F3E2
+  ":post_office:":
+  - 1F3E4
+  ":japanese_post_office:":
+  - 1F3E3
+  ":european_post_office:":
+  - 1F3E4
+  ":hospital:":
+  - 1F3E5
+  ":bank:":
+  - 1F3E6
+  ":hotel:":
+  - 1F3E8
+  ":love_hotel:":
+  - 1F3E9
+  ":convenience_store:":
+  - 1F3EA
+  ":school:":
+  - 1F3EB
+  ":department_store:":
+  - 1F3EC
+  ":factory:":
+  - 1F3ED
+  ":japanese_castle:":
+  - 1F3EF
+  ":european_castle:":
+  - 1F3F0
+  ":castle:":
+  - 1F3F0
+  ":wedding:":
+  - 1F492
+  ":tokyo_tower:":
+  - 1F5FC
+  ":statue_of_liberty:":
+  - 1F5FD
+  ":church:":
+  - 26EA
+  ":mosque:":
+  - 1F54C
+  ":hindu_temple:":
+  - 1F6D5
+  ":synagogue:":
+  - 1F54D
+  ":shinto_shrine:":
+  - 26E9
+  - FE0F
+  ":kaaba:":
+  - 1F54B
+  ":fountain:":
+  - 26F2
+  ":tent:":
+  - 26FA
+  ":foggy:":
+  - 1F301
+  ":night_with_stars:":
+  - 1F303
+  ":cityscape:":
+  - 1F3D9
+  - FE0F
+  ":sunrise_over_mountains:":
+  - 1F304
+  ":sunrise:":
+  - 1F305
+  ":city_sunset:":
+  - 1F306
+  ":cityscape_at_dusk:":
+  - 1F306
+  ":city_sunrise:":
+  - 1F307
+  ":sunset:":
+  - 1F307
+  ":bridge_at_night:":
+  - 1F309
+  ":carousel_horse:":
+  - 1F3A0
+  ":ferris_wheel:":
+  - 1F3A1
+  ":roller_coaster:":
+  - 1F3A2
+  ":steam_locomotive:":
+  - 1F682
+  ":locomotive:":
+  - 1F682
+  ":railway_car:":
+  - 1F683
+  ":bullettrain_side:":
+  - 1F684
+  ":high_speed_train:":
+  - 1F684
+  ":bullettrain_front:":
+  - 1F685
+  ":bullet_train:":
+  - 1F685
+  ":train2:":
+  - 1F686
+  ":train:":
+  - 1F68B
+  ":metro:":
+  - 1F687
+  ":light_rail:":
+  - 1F688
+  ":station:":
+  - 1F689
+  ":tram:":
+  - 1F68A
+  ":monorail:":
+  - 1F69D
+  ":mountain_railway:":
+  - 1F69E
+  ":tram_car:":
+  - 1F68B
+  ":bus:":
+  - 1F68C
+  ":oncoming_bus:":
+  - 1F68D
+  ":trolleybus:":
+  - 1F68E
+  ":minibus:":
+  - 1F690
+  ":ambulance:":
+  - 1F691
+  ":fire_engine:":
+  - 1F692
+  ":police_car:":
+  - 1F693
+  ":oncoming_police_car:":
+  - 1F694
+  ":taxi:":
+  - 1F695
+  ":oncoming_taxi:":
+  - 1F696
+  ":car:":
+  - 1F697
+  ":red_car:":
+  - 1F697
+  ":automobile:":
+  - 1F697
+  ":oncoming_automobile:":
+  - 1F698
+  ":blue_car:":
+  - 1F699
+  ":sport_utility_vehicle:":
+  - 1F699
+  ":truck:":
+  - 1F69A
+  ":delivery_truck:":
+  - 1F69A
+  ":articulated_lorry:":
+  - 1F69B
+  ":tractor:":
+  - 1F69C
+  ":racing_car:":
+  - 1F3CE
+  - FE0F
+  ":motorcycle:":
+  - 1F3CD
+  - FE0F
+  ":racing_motorcycle:":
+  - 1F3CD
+  - FE0F
+  ":motor_scooter:":
+  - 1F6F5
+  ":auto_rickshaw:":
+  - 1F6FA
+  ":bike:":
+  - 1F6B2
+  ":bicycle:":
+  - 1F6B2
+  ":kick_scooter:":
+  - 1F6F4
+  ":scooter:":
+  - 1F6F4
+  ":busstop:":
+  - 1F68F
+  ":bus_stop:":
+  - 1F68F
+  ":motorway:":
+  - 1F6E3
+  - FE0F
+  ":railway_track:":
+  - 1F6E4
+  - FE0F
+  ":fuelpump:":
+  - 26FD
+  ":fuel_pump:":
+  - 26FD
+  ":rotating_light:":
+  - 1F6A8
+  ":police_car_light:":
+  - 1F6A8
+  ":traffic_light:":
+  - 1F6A5
+  ":horizontal_traffic_light:":
+  - 1F6A5
+  ":vertical_traffic_light:":
+  - 1F6A6
+  ":construction:":
+  - 1F6A7
+  ":anchor:":
+  - '2693'
+  ":sailboat:":
+  - 26F5
+  ":boat:":
+  - 26F5
+  ":speedboat:":
+  - 1F6A4
+  ":passenger_ship:":
+  - 1F6F3
+  - FE0F
+  ":ferry:":
+  - 26F4
+  - FE0F
+  ":motor_boat:":
+  - 1F6E5
+  - FE0F
+  ":ship:":
+  - 1F6A2
+  ":airplane:":
+  - '2708'
+  - FE0F
+  ":small_airplane:":
+  - 1F6E9
+  - FE0F
+  ":airplane_departure:":
+  - 1F6EB
+  ":flight_departure:":
+  - 1F6EB
+  ":flight_arrival:":
+  - 1F6EC
+  ":airplane_arrival:":
+  - 1F6EC
+  ":airplane_arriving:":
+  - 1F6EC
+  ":parachute:":
+  - 1FA82
+  ":seat:":
+  - 1F4BA
+  ":helicopter:":
+  - 1F681
+  ":suspension_railway:":
+  - 1F69F
+  ":mountain_cableway:":
+  - 1F6A0
+  ":aerial_tramway:":
+  - 1F6A1
+  ":satellite:":
+  - 1F6F0
+  - FE0F
+  ":artificial_satellite:":
+  - 1F6F0
+  - FE0F
+  ":rocket:":
+  - 1F680
+  ":flying_saucer:":
+  - 1F6F8
+  ":ringed_planet:":
+  - 1FA90
+  ":stars:":
+  - 1F320
+  ":shooting_star:":
+  - 1F320
+  ":milky_way:":
+  - 1F30C
+  ":umbrella_on_ground:":
+  - 26F1
+  - FE0F
+  ":parasol_on_ground:":
+  - 26F1
+  - FE0F
+  ":fireworks:":
+  - 1F386
+  ":sparkler:":
+  - 1F387
+  ":rice_scene:":
+  - 1F391
+  ":moon_viewing_ceremony:":
+  - 1F391
+  ":yen:":
+  - 1F4B4
+  ":yen_banknote:":
+  - 1F4B4
+  ":dollar:":
+  - 1F4B5
+  ":dollar_banknote:":
+  - 1F4B5
+  ":euro:":
+  - 1F4B6
+  ":euro_banknote:":
+  - 1F4B6
+  ":pound:":
+  - 1F4B7
+  ":pound_banknote:":
+  - 1F4B7
+  ":moyai:":
+  - 1F5FF
+  ":moai:":
+  - 1F5FF
+  ":passport_control:":
+  - 1F6C2
+  ":customs:":
+  - 1F6C3
+  ":baggage_claim:":
+  - 1F6C4
+  ":left_luggage:":
+  - 1F6C5
+objects:
+  ":love_letter:":
+  - 1F48C
+  ":hole:":
+  - 1F573
+  - FE0F
+  ":bomb:":
+  - 1F4A3
+  ":bath:":
+  - 1F6C0
+  ":person_taking_bath:":
+  - 1F6C0
+  ":sleeping_bed:":
+  - 1F6CC
+  ":person_in_bed:":
+  - 1F6CC
+  ":sleeping_accommodation:":
+  - 1F6CC
+  ":hocho:":
+  - 1F52A
+  ":knife:":
+  - 1F52A
+  ":kitchen_knife:":
+  - 1F52A
+  ":amphora:":
+  - 1F3FA
+  ":world_map:":
+  - 1F5FA
+  - FE0F
+  ":compass:":
+  - 1F9ED
+  ":bricks:":
+  - 1F9F1
+  ":brick:":
+  - 1F9F1
+  ":barber:":
+  - 1F488
+  ":barber_pole:":
+  - 1F488
+  ":manual_wheelchair:":
+  - 1F9BD
+  ":motorized_wheelchair:":
+  - 1F9BC
+  ":oil_drum:":
+  - 1F6E2
+  - FE0F
+  ":bellhop_bell:":
+  - 1F6CE
+  - FE0F
+  ":luggage:":
+  - 1F9F3
+  ":hourglass:":
+  - 231B
+  ":hourglass_done:":
+  - 231B
+  ":hourglass_flowing_sand:":
+  - 23F3
+  ":hourglass_not_done:":
+  - 23F3
+  ":watch:":
+  - 231A
+  ":alarm_clock:":
+  - 23F0
+  ":stopwatch:":
+  - 23F1
+  - FE0F
+  ":timer_clock:":
+  - 23F2
+  - FE0F
+  ":mantelpiece_clock:":
+  - 1F570
+  - FE0F
+  ":thermometer:":
+  - 1F321
+  - FE0F
+  ":umbrella_on_ground:":
+  - 26F1
+  - FE0F
+  ":parasol_on_ground:":
+  - 26F1
+  - FE0F
+  ":firecracker:":
+  - 1F9E8
+  ":balloon:":
+  - 1F388
+  ":tada:":
+  - 1F389
+  ":party_popper:":
+  - 1F389
+  ":confetti_ball:":
+  - 1F38A
+  ":dolls:":
+  - 1F38E
+  ":japanese_dolls:":
+  - 1F38E
+  ":flags:":
+  - 1F38F
+  ":carp_streamer:":
+  - 1F38F
+  ":wind_chime:":
+  - 1F390
+  ":red_envelope:":
+  - 1F9E7
+  ":ribbon:":
+  - 1F380
+  ":gift:":
+  - 1F381
+  ":wrapped_gift:":
+  - 1F381
+  ":diving_mask:":
+  - 1F93F
+  ":yo_yo:":
+  - 1FA80
+  ":yo-yo:":
+  - 1FA80
+  ":kite:":
+  - 1FA81
+  ":crystal_ball:":
+  - 1F52E
+  ":nazar_amulet:":
+  - 1F9FF
+  ":joystick:":
+  - 1F579
+  - FE0F
+  ":teddy_bear:":
+  - 1F9F8
+  ":framed_picture:":
+  - 1F5BC
+  - FE0F
+  ":frame_with_picture:":
+  - 1F5BC
+  - FE0F
+  ":thread:":
+  - 1F9F5
+  ":yarn:":
+  - 1F9F6
+  ":shopping_bags:":
+  - 1F6CD
+  - FE0F
+  ":shopping:":
+  - 1F6CD
+  - FE0F
+  ":prayer_beads:":
+  - 1F4FF
+  ":gem:":
+  - 1F48E
+  ":gem_stone:":
+  - 1F48E
+  ":postal_horn:":
+  - 1F4EF
+  ":studio_microphone:":
+  - 1F399
+  - FE0F
+  ":level_slider:":
+  - 1F39A
+  - FE0F
+  ":control_knobs:":
+  - 1F39B
+  - FE0F
+  ":radio:":
+  - 1F4FB
+  ":banjo:":
+  - 1FA95
+  ":iphone:":
+  - 1F4F1
+  ":mobile_phone:":
+  - 1F4F1
+  ":calling:":
+  - 1F4F2
+  ":mobile_phone_with_arrow:":
+  - 1F4F2
+  ":telephone:":
+  - 260E
+  - FE0F
+  ":phone:":
+  - 260E
+  - FE0F
+  ":telephone_receiver:":
+  - 1F4DE
+  ":pager:":
+  - 1F4DF
+  ":fax:":
+  - 1F4E0
+  ":fax_machine:":
+  - 1F4E0
+  ":battery:":
+  - 1F50B
+  ":electric_plug:":
+  - 1F50C
+  ":computer:":
+  - 1F4BB
+  ":laptop:":
+  - 1F4BB
+  ":desktop_computer:":
+  - 1F5A5
+  - FE0F
+  ":printer:":
+  - 1F5A8
+  - FE0F
+  ":keyboard:":
+  - '2328'
+  - FE0F
+  ":computer_mouse:":
+  - 1F5B1
+  - FE0F
+  ":three_button_mouse:":
+  - 1F5B1
+  - FE0F
+  ":trackball:":
+  - 1F5B2
+  - FE0F
+  ":minidisc:":
+  - 1F4BD
+  ":computer_disk:":
+  - 1F4BD
+  ":floppy_disk:":
+  - 1F4BE
+  ":cd:":
+  - 1F4BF
+  ":optical_disk:":
+  - 1F4BF
+  ":dvd:":
+  - 1F4C0
+  ":abacus:":
+  - 1F9EE
+  ":movie_camera:":
+  - 1F3A5
+  ":film_frames:":
+  - 1F39E
+  - FE0F
+  ":film_strip:":
+  - 1F39E
+  - FE0F
+  ":film_projector:":
+  - 1F4FD
+  - FE0F
+  ":tv:":
+  - 1F4FA
+  ":television:":
+  - 1F4FA
+  ":camera:":
+  - 1F4F7
+  ":camera_with_flash:":
+  - 1F4F8
+  ":camera_flash:":
+  - 1F4F8
+  ":video_camera:":
+  - 1F4F9
+  ":vhs:":
+  - 1F4FC
+  ":videocassette:":
+  - 1F4FC
+  ":mag:":
+  - 1F50D
+  ":magnifying_glass_tilted_left:":
+  - 1F50D
+  ":mag_right:":
+  - 1F50E
+  ":magnifying_glass_tilted_right:":
+  - 1F50E
+  ":candle:":
+  - 1F56F
+  - FE0F
+  ":bulb:":
+  - 1F4A1
+  ":light_bulb:":
+  - 1F4A1
+  ":flashlight:":
+  - 1F526
+  ":lantern:":
+  - 1F3EE
+  ":izakaya_lantern:":
+  - 1F3EE
+  ":red_paper_lantern:":
+  - 1F3EE
+  ":diya_lamp:":
+  - 1FA94
+  ":notebook_with_decorative_cover:":
+  - 1F4D4
+  ":closed_book:":
+  - 1F4D5
+  ":open_book:":
+  - 1F4D6
+  ":book:":
+  - 1F4D6
+  ":green_book:":
+  - 1F4D7
+  ":blue_book:":
+  - 1F4D8
+  ":orange_book:":
+  - 1F4D9
+  ":books:":
+  - 1F4DA
+  ":notebook:":
+  - 1F4D3
+  ":ledger:":
+  - 1F4D2
+  ":page_with_curl:":
+  - 1F4C3
+  ":scroll:":
+  - 1F4DC
+  ":page_facing_up:":
+  - 1F4C4
+  ":newspaper:":
+  - 1F4F0
+  ":rolled_up_newspaper:":
+  - 1F5DE
+  - FE0F
+  ":newspaper_roll:":
+  - 1F5DE
+  - FE0F
+  ":bookmark_tabs:":
+  - 1F4D1
+  ":bookmark:":
+  - 1F516
+  ":label:":
+  - 1F3F7
+  - FE0F
+  ":moneybag:":
+  - 1F4B0
+  ":money_bag:":
+  - 1F4B0
+  ":yen:":
+  - 1F4B4
+  ":yen_banknote:":
+  - 1F4B4
+  ":dollar:":
+  - 1F4B5
+  ":dollar_banknote:":
+  - 1F4B5
+  ":euro:":
+  - 1F4B6
+  ":euro_banknote:":
+  - 1F4B6
+  ":pound:":
+  - 1F4B7
+  ":pound_banknote:":
+  - 1F4B7
+  ":money_with_wings:":
+  - 1F4B8
+  ":credit_card:":
+  - 1F4B3
+  ":receipt:":
+  - 1F9FE
+  ":envelope:":
+  - '2709'
+  - FE0F
+  ":email:":
+  - '2709'
+  - FE0F
+  ":e-mail:":
+  - 1F4E7
+  ":e_mail:":
+  - 1F4E7
+  ":incoming_envelope:":
+  - 1F4E8
+  ":envelope_with_arrow:":
+  - 1F4E9
+  ":outbox_tray:":
+  - 1F4E4
+  ":inbox_tray:":
+  - 1F4E5
+  ":package:":
+  - 1F4E6
+  ":mailbox:":
+  - 1F4EB
+  ":closed_mailbox_with_raised_flag:":
+  - 1F4EB
+  ":mailbox_closed:":
+  - 1F4EA
+  ":closed_mailbox_with_lowered_flag:":
+  - 1F4EA
+  ":mailbox_with_mail:":
+  - 1F4EC
+  ":open_mailbox_with_raised_flag:":
+  - 1F4EC
+  ":mailbox_with_no_mail:":
+  - 1F4ED
+  ":open_mailbox_with_lowered_flag:":
+  - 1F4ED
+  ":postbox:":
+  - 1F4EE
+  ":ballot_box:":
+  - 1F5F3
+  - FE0F
+  ":ballot_box_with_ballot:":
+  - 1F5F3
+  - FE0F
+  ":pencil2:":
+  - 270F
+  - FE0F
+  ":pencil:":
+  - 1F4DD
+  ":black_nib:":
+  - '2712'
+  - FE0F
+  ":fountain_pen:":
+  - 1F58B
+  - FE0F
+  ":lower_left_fountain_pen:":
+  - 1F58B
+  - FE0F
+  ":pen:":
+  - 1F58A
+  - FE0F
+  ":lower_left_ballpoint_pen:":
+  - 1F58A
+  - FE0F
+  ":paintbrush:":
+  - 1F58C
+  - FE0F
+  ":lower_left_paintbrush:":
+  - 1F58C
+  - FE0F
+  ":crayon:":
+  - 1F58D
+  - FE0F
+  ":lower_left_crayon:":
+  - 1F58D
+  - FE0F
+  ":memo:":
+  - 1F4DD
+  ":file_folder:":
+  - 1F4C1
+  ":open_file_folder:":
+  - 1F4C2
+  ":card_index_dividers:":
+  - 1F5C2
+  - FE0F
+  ":date:":
+  - 1F4C5
+  ":calendar:":
+  - 1F4C6
+  ":tear_off_calendar:":
+  - 1F4C6
+  ":spiral_notepad:":
+  - 1F5D2
+  - FE0F
+  ":spiral_note_pad:":
+  - 1F5D2
+  - FE0F
+  ":spiral_calendar:":
+  - 1F5D3
+  - FE0F
+  ":spiral_calendar_pad:":
+  - 1F5D3
+  - FE0F
+  ":card_index:":
+  - 1F4C7
+  ":chart_with_upwards_trend:":
+  - 1F4C8
+  ":chart_increasing:":
+  - 1F4C8
+  ":chart_decreasing:":
+  - 1F4C9
+  ":chart_with_downwards_trend:":
+  - 1F4C9
+  ":bar_chart:":
+  - 1F4CA
+  ":clipboard:":
+  - 1F4CB
+  ":pushpin:":
+  - 1F4CC
+  ":round_pushpin:":
+  - 1F4CD
+  ":paperclip:":
+  - 1F4CE
+  ":linked_paperclips:":
+  - 1F587
+  - FE0F
+  ":paperclips:":
+  - 1F587
+  - FE0F
+  ":straight_ruler:":
+  - 1F4CF
+  ":triangular_ruler:":
+  - 1F4D0
+  ":scissors:":
+  - '2702'
+  - FE0F
+  ":card_file_box:":
+  - 1F5C3
+  - FE0F
+  ":file_cabinet:":
+  - 1F5C4
+  - FE0F
+  ":wastebasket:":
+  - 1F5D1
+  - FE0F
+  ":lock:":
+  - 1F512
+  ":locked:":
+  - 1F512
+  ":unlock:":
+  - 1F513
+  ":unlocked:":
+  - 1F513
+  ":lock_with_ink_pen:":
+  - 1F50F
+  ":locked_with_pen:":
+  - 1F50F
+  ":closed_lock_with_key:":
+  - 1F510
+  ":locked_with_key:":
+  - 1F510
+  ":key:":
+  - 1F511
+  ":old_key:":
+  - 1F5DD
+  - FE0F
+  ":hammer:":
+  - 1F528
+  ":axe:":
+  - 1FA93
+  ":pick:":
+  - 26CF
+  - FE0F
+  ":hammer_and_pick:":
+  - '2692'
+  - FE0F
+  ":hammer_and_wrench:":
+  - 1F6E0
+  - FE0F
+  ":dagger:":
+  - 1F5E1
+  - FE0F
+  ":dagger_knife:":
+  - 1F5E1
+  - FE0F
+  ":crossed_swords:":
+  - '2694'
+  - FE0F
+  ":gun:":
+  - 1F52B
+  ":pistol:":
+  - 1F52B
+  ":shield:":
+  - 1F6E1
+  - FE0F
+  ":wrench:":
+  - 1F527
+  ":nut_and_bolt:":
+  - 1F529
+  ":gear:":
+  - '2699'
+  - FE0F
+  ":clamp:":
+  - 1F5DC
+  - FE0F
+  ":compression:":
+  - 1F5DC
+  - FE0F
+  ":balance_scale:":
+  - '2696'
+  - FE0F
+  ":scales:":
+  - '2696'
+  - FE0F
+  ":probing_cane:":
+  - 1F9AF
+  ":white_cane:":
+  - 1F9AF
+  ":link:":
+  - 1F517
+  ":chains:":
+  - 26D3
+  - FE0F
+  ":toolbox:":
+  - 1F9F0
+  ":magnet:":
+  - 1F9F2
+  ":alembic:":
+  - '2697'
+  - FE0F
+  ":test_tube:":
+  - 1F9EA
+  ":petri_dish:":
+  - 1F9EB
+  ":dna:":
+  - 1F9EC
+  ":microscope:":
+  - 1F52C
+  ":telescope:":
+  - 1F52D
+  ":satellite_antenna:":
+  - 1F4E1
+  ":satellite:":
+  - 1F4E1
+  ":syringe:":
+  - 1F489
+  ":drop_of_blood:":
+  - 1FA78
+  ":pill:":
+  - 1F48A
+  ":adhesive_bandage:":
+  - 1FA79
+  ":stethoscope:":
+  - 1FA7A
+  ":door:":
+  - 1F6AA
+  ":bed:":
+  - 1F6CF
+  - FE0F
+  ":couch_and_lamp:":
+  - 1F6CB
+  - FE0F
+  ":chair:":
+  - 1FA91
+  ":toilet:":
+  - 1F6BD
+  ":shower:":
+  - 1F6BF
+  ":bathtub:":
+  - 1F6C1
+  ":razor:":
+  - 1FA92
+  ":lotion_bottle:":
+  - 1F9F4
+  ":safety_pin:":
+  - 1F9F7
+  ":broom:":
+  - 1F9F9
+  ":basket:":
+  - 1F9FA
+  ":roll_of_paper:":
+  - 1F9FB
+  ":soap:":
+  - 1F9FC
+  ":sponge:":
+  - 1F9FD
+  ":fire_extinguisher:":
+  - 1F9EF
+  ":shopping_cart:":
+  - 1F6D2
+  ":shopping_trolley:":
+  - 1F6D2
+  ":smoking:":
+  - 1F6AC
+  ":cigarette:":
+  - 1F6AC
+  ":coffin:":
+  - 26B0
+  - FE0F
+  ":funeral_urn:":
+  - 26B1
+  - FE0F
+  ":moyai:":
+  - 1F5FF
+  ":moai:":
+  - 1F5FF
+  ":potable_water:":
+  - 1F6B0
+activity:
+  ":business_suit_levitating:":
+  - 1F574
+  - FE0F
+  ":person_in_suit_levitating:":
+  - 1F574
+  - FE0F
+  ":man_in_business_suit_levitating:":
+  - 1F574
+  - FE0F
+  ":person_climbing:":
+  - 1F9D7
+  ":climbing:":
+  - 1F9D7
+  ":man_climbing:":
+  - 1F9D7
+  - 200D
+  - '2642'
+  - FE0F
+  ":climbing_man:":
+  - 1F9D7
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_climbing:":
+  - 1F9D7
+  - 200D
+  - '2640'
+  - FE0F
+  ":climbing_woman:":
+  - 1F9D7
+  - 200D
+  - '2640'
+  - FE0F
+  ":person_fencing:":
+  - 1F93A
+  ":fencer:":
+  - 1F93A
+  ":horse_racing:":
+  - 1F3C7
+  ":skier:":
+  - 26F7
+  - FE0F
+  ":snowboarder:":
+  - 1F3C2
+  ":golfer:":
+  - 1F3CC
+  - FE0F
+  ":golfing:":
+  - 1F3CC
+  - FE0F
+  ":person_golfing:":
+  - 1F3CC
+  - FE0F
+  ":golfing_man:":
+  - 1F3CC
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_golfing:":
+  - 1F3CC
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-golfing:":
+  - 1F3CC
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":golfing_woman:":
+  - 1F3CC
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_golfing:":
+  - 1F3CC
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-golfing:":
+  - 1F3CC
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":surfer:":
+  - 1F3C4
+  ":person_surfing:":
+  - 1F3C4
+  ":man_surfing:":
+  - 1F3C4
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-surfing:":
+  - 1F3C4
+  - 200D
+  - '2642'
+  - FE0F
+  ":surfing_man:":
+  - 1F3C4
+  - 200D
+  - '2642'
+  - FE0F
+  ":surfing_woman:":
+  - 1F3C4
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_surfing:":
+  - 1F3C4
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-surfing:":
+  - 1F3C4
+  - 200D
+  - '2640'
+  - FE0F
+  ":rowboat:":
+  - 1F6A3
+  ":person_rowing_boat:":
+  - 1F6A3
+  ":rowing_man:":
+  - 1F6A3
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_rowing_boat:":
+  - 1F6A3
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-rowing-boat:":
+  - 1F6A3
+  - 200D
+  - '2642'
+  - FE0F
+  ":rowing_woman:":
+  - 1F6A3
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_rowing_boat:":
+  - 1F6A3
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-rowing-boat:":
+  - 1F6A3
+  - 200D
+  - '2640'
+  - FE0F
+  ":swimmer:":
+  - 1F3CA
+  ":person_swimming:":
+  - 1F3CA
+  ":man_swimming:":
+  - 1F3CA
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-swimming:":
+  - 1F3CA
+  - 200D
+  - '2642'
+  - FE0F
+  ":swimming_man:":
+  - 1F3CA
+  - 200D
+  - '2642'
+  - FE0F
+  ":swimming_woman:":
+  - 1F3CA
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_swimming:":
+  - 1F3CA
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-swimming:":
+  - 1F3CA
+  - 200D
+  - '2640'
+  - FE0F
+  ":person_with_ball:":
+  - 26F9
+  - FE0F
+  ":bouncing_ball_person:":
+  - 26F9
+  - FE0F
+  ":person_bouncing_ball:":
+  - 26F9
+  - FE0F
+  ":basketball_man:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":bouncing_ball_man:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_bouncing_ball:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-bouncing-ball:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":basketball_woman:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":bouncing_ball_woman:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_bouncing_ball:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-bouncing-ball:":
+  - 26F9
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":weight_lifter:":
+  - 1F3CB
+  - FE0F
+  ":weight_lifting:":
+  - 1F3CB
+  - FE0F
+  ":person_lifting_weights:":
+  - 1F3CB
+  - FE0F
+  ":weight_lifting_man:":
+  - 1F3CB
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_lifting_weights:":
+  - 1F3CB
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-lifting-weights:":
+  - 1F3CB
+  - FE0F
+  - 200D
+  - '2642'
+  - FE0F
+  ":weight_lifting_woman:":
+  - 1F3CB
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_lifting_weights:":
+  - 1F3CB
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-lifting-weights:":
+  - 1F3CB
+  - FE0F
+  - 200D
+  - '2640'
+  - FE0F
+  ":bicyclist:":
+  - 1F6B4
+  ":person_biking:":
+  - 1F6B4
+  ":biking_man:":
+  - 1F6B4
+  - 200D
+  - '2642'
+  - FE0F
+  ":man_biking:":
+  - 1F6B4
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-biking:":
+  - 1F6B4
+  - 200D
+  - '2642'
+  - FE0F
+  ":biking_woman:":
+  - 1F6B4
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_biking:":
+  - 1F6B4
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-biking:":
+  - 1F6B4
+  - 200D
+  - '2640'
+  - FE0F
+  ":mountain_bicyclist:":
+  - 1F6B5
+  ":person_mountain_biking:":
+  - 1F6B5
+  ":man_mountain_biking:":
+  - 1F6B5
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-mountain-biking:":
+  - 1F6B5
+  - 200D
+  - '2642'
+  - FE0F
+  ":mountain_biking_man:":
+  - 1F6B5
+  - 200D
+  - '2642'
+  - FE0F
+  ":mountain_biking_woman:":
+  - 1F6B5
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman_mountain_biking:":
+  - 1F6B5
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-mountain-biking:":
+  - 1F6B5
+  - 200D
+  - '2640'
+  - FE0F
+  ":cartwheeling:":
+  - 1F938
+  ":person_cartwheeling:":
+  - 1F938
+  ":person_doing_cartwheel:":
+  - 1F938
+  ":man_cartwheeling:":
+  - 1F938
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-cartwheeling:":
+  - 1F938
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_cartwheeling:":
+  - 1F938
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-cartwheeling:":
+  - 1F938
+  - 200D
+  - '2640'
+  - FE0F
+  ":wrestlers:":
+  - 1F93C
+  ":wrestling:":
+  - 1F93C
+  ":people_wrestling:":
+  - 1F93C
+  ":men_wrestling:":
+  - 1F93C
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-wrestling:":
+  - 1F93C
+  - 200D
+  - '2642'
+  - FE0F
+  ":women_wrestling:":
+  - 1F93C
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-wrestling:":
+  - 1F93C
+  - 200D
+  - '2640'
+  - FE0F
+  ":water_polo:":
+  - 1F93D
+  ":person_playing_water_polo:":
+  - 1F93D
+  ":man_playing_water_polo:":
+  - 1F93D
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-playing-water-polo:":
+  - 1F93D
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_playing_water_polo:":
+  - 1F93D
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-playing-water-polo:":
+  - 1F93D
+  - 200D
+  - '2640'
+  - FE0F
+  ":handball:":
+  - 1F93E
+  ":handball_person:":
+  - 1F93E
+  ":person_playing_handball:":
+  - 1F93E
+  ":man_playing_handball:":
+  - 1F93E
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-playing-handball:":
+  - 1F93E
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_playing_handball:":
+  - 1F93E
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-playing-handball:":
+  - 1F93E
+  - 200D
+  - '2640'
+  - FE0F
+  ":juggling:":
+  - 1F939
+  ":juggling_person:":
+  - 1F939
+  ":person_juggling:":
+  - 1F939
+  ":man_juggling:":
+  - 1F939
+  - 200D
+  - '2642'
+  - FE0F
+  ":man-juggling:":
+  - 1F939
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_juggling:":
+  - 1F939
+  - 200D
+  - '2640'
+  - FE0F
+  ":woman-juggling:":
+  - 1F939
+  - 200D
+  - '2640'
+  - FE0F
+  ":lotus_position:":
+  - 1F9D8
+  ":person_in_lotus_position:":
+  - 1F9D8
+  ":man_in_lotus_position:":
+  - 1F9D8
+  - 200D
+  - '2642'
+  - FE0F
+  ":lotus_position_man:":
+  - 1F9D8
+  - 200D
+  - '2642'
+  - FE0F
+  ":woman_in_lotus_position:":
+  - 1F9D8
+  - 200D
+  - '2640'
+  - FE0F
+  ":lotus_position_woman:":
+  - 1F9D8
+  - 200D
+  - '2640'
+  - FE0F
+  ":circus_tent:":
+  - 1F3AA
+  ":skateboard:":
+  - 1F6F9
+  ":canoe:":
+  - 1F6F6
+  ":reminder_ribbon:":
+  - 1F397
+  - FE0F
+  ":admission_tickets:":
+  - 1F39F
+  - FE0F
+  ":tickets:":
+  - 1F39F
+  - FE0F
+  ":ticket:":
+  - 1F3AB
+  ":medal:":
+  - 1F396
+  - FE0F
+  ":medal_military:":
+  - 1F396
+  - FE0F
+  ":military_medal:":
+  - 1F396
+  - FE0F
+  ":trophy:":
+  - 1F3C6
+  ":sports_medal:":
+  - 1F3C5
+  ":medal_sports:":
+  - 1F3C5
+  ":1st_place_medal:":
+  - 1F947
+  ":first_place_medal:":
+  - 1F947
+  ":2nd_place_medal:":
+  - 1F948
+  ":second_place_medal:":
+  - 1F948
+  ":3rd_place_medal:":
+  - 1F949
+  ":third_place_medal:":
+  - 1F949
+  ":soccer:":
+  - 26BD
+  ":soccer_ball:":
+  - 26BD
+  ":baseball:":
+  - 26BE
+  ":softball:":
+  - 1F94E
+  ":basketball:":
+  - 1F3C0
+  ":volleyball:":
+  - 1F3D0
+  ":football:":
+  - 1F3C8
+  ":american_football:":
+  - 1F3C8
+  ":rugby_football:":
+  - 1F3C9
+  ":tennis:":
+  - 1F3BE
+  ":flying_disc:":
+  - 1F94F
+  ":bowling:":
+  - 1F3B3
+  ":cricket_game:":
+  - 1F3CF
+  ":cricket_bat_and_ball:":
+  - 1F3CF
+  ":field_hockey:":
+  - 1F3D1
+  ":field_hockey_stick_and_ball:":
+  - 1F3D1
+  ":ice_hockey:":
+  - 1F3D2
+  ":ice_hockey_stick_and_puck:":
+  - 1F3D2
+  ":lacrosse:":
+  - 1F94D
+  ":ping_pong:":
+  - 1F3D3
+  ":table_tennis_paddle_and_ball:":
+  - 1F3D3
+  ":badminton:":
+  - 1F3F8
+  ":badminton_racquet_and_shuttlecock:":
+  - 1F3F8
+  ":boxing_glove:":
+  - 1F94A
+  ":martial_arts_uniform:":
+  - 1F94B
+  ":goal_net:":
+  - 1F945
+  ":golf:":
+  - 26F3
+  ":flag_in_hole:":
+  - 26F3
+  ":ice_skate:":
+  - 26F8
+  - FE0F
+  ":fishing_pole_and_fish:":
+  - 1F3A3
+  ":fishing_pole:":
+  - 1F3A3
+  ":running_shirt:":
+  - 1F3BD
+  ":running_shirt_with_sash:":
+  - 1F3BD
+  ":ski:":
+  - 1F3BF
+  ":skis:":
+  - 1F3BF
+  ":sled:":
+  - 1F6F7
+  ":curling_stone:":
+  - 1F94C
+  ":dart:":
+  - 1F3AF
+  ":direct_hit:":
+  - 1F3AF
+  ":8ball:":
+  - 1F3B1
+  ":pool_8_ball:":
+  - 1F3B1
+  ":video_game:":
+  - 1F3AE
+  ":slot_machine:":
+  - 1F3B0
+  ":game_die:":
+  - 1F3B2
+  ":jigsaw:":
+  - 1F9E9
+  ":puzzle_piece:":
+  - 1F9E9
+  ":chess_pawn:":
+  - 265F
+  - FE0F
+  ":performing_arts:":
+  - 1F3AD
+  ":art:":
+  - 1F3A8
+  ":artist_palette:":
+  - 1F3A8
+  ":thread:":
+  - 1F9F5
+  ":yarn:":
+  - 1F9F6
+  ":musical_score:":
+  - 1F3BC
+  ":microphone:":
+  - 1F3A4
+  ":headphones:":
+  - 1F3A7
+  ":headphone:":
+  - 1F3A7
+  ":saxophone:":
+  - 1F3B7
+  ":guitar:":
+  - 1F3B8
+  ":musical_keyboard:":
+  - 1F3B9
+  ":trumpet:":
+  - 1F3BA
+  ":violin:":
+  - 1F3BB
+  ":drum:":
+  - 1F941
+  ":drum_with_drumsticks:":
+  - 1F941
+  ":clapper:":
+  - 1F3AC
+  ":clapper_board:":
+  - 1F3AC
+  ":bow_and_arrow:":
+  - 1F3F9
+nature:
+  ":see_no_evil:":
+  - 1F648
+  ":see_no_evil_monkey:":
+  - 1F648
+  ":hear_no_evil:":
+  - 1F649
+  ":hear_no_evil_monkey:":
+  - 1F649
+  ":speak_no_evil:":
+  - 1F64A
+  ":speak_no_evil_monkey:":
+  - 1F64A
+  ":collision:":
+  - 1F4A5
+  ":boom:":
+  - 1F4A5
+  ":dizzy:":
+  - 1F4AB
+  ":sweat_drops:":
+  - 1F4A6
+  ":sweat_droplets:":
+  - 1F4A6
+  ":dash:":
+  - 1F4A8
+  ":dashing_away:":
+  - 1F4A8
+  ":monkey_face:":
+  - 1F435
+  ":monkey:":
+  - 1F412
+  ":gorilla:":
+  - 1F98D
+  ":orangutan:":
+  - 1F9A7
+  ":dog:":
+  - 1F415
+  ":dog_face:":
+  - 1F436
+  ":dog2:":
+  - 1F415
+  ":guide_dog:":
+  - 1F9AE
+  ":service_dog:":
+  - 1F415
+  - 200D
+  - 1F9BA
+  ":poodle:":
+  - 1F429
+  ":wolf:":
+  - 1F43A
+  ":fox_face:":
+  - 1F98A
+  ":fox:":
+  - 1F98A
+  ":raccoon:":
+  - 1F99D
+  ":cat:":
+  - 1F408
+  ":cat_face:":
+  - 1F431
+  ":cat2:":
+  - 1F408
+  ":lion:":
+  - 1F981
+  ":lion_face:":
+  - 1F981
+  ":tiger:":
+  - 1F405
+  ":tiger_face:":
+  - 1F42F
+  ":tiger2:":
+  - 1F405
+  ":leopard:":
+  - 1F406
+  ":horse:":
+  - 1F40E
+  ":horse_face:":
+  - 1F434
+  ":racehorse:":
+  - 1F40E
+  ":unicorn:":
+  - 1F984
+  ":unicorn_face:":
+  - 1F984
+  ":zebra:":
+  - 1F993
+  ":zebra_face:":
+  - 1F993
+  ":deer:":
+  - 1F98C
+  ":cow:":
+  - 1F404
+  ":cow_face:":
+  - 1F42E
+  ":ox:":
+  - 1F402
+  ":water_buffalo:":
+  - 1F403
+  ":cow2:":
+  - 1F404
+  ":pig:":
+  - 1F416
+  ":pig_face:":
+  - 1F437
+  ":pig2:":
+  - 1F416
+  ":boar:":
+  - 1F417
+  ":pig_nose:":
+  - 1F43D
+  ":ram:":
+  - 1F40F
+  ":sheep:":
+  - 1F411
+  ":ewe:":
+  - 1F411
+  ":goat:":
+  - 1F410
+  ":camel:":
+  - 1F42B
+  ":dromedary_camel:":
+  - 1F42A
+  ":two_hump_camel:":
+  - 1F42B
+  ":llama:":
+  - 1F999
+  ":giraffe:":
+  - 1F992
+  ":giraffe_face:":
+  - 1F992
+  ":elephant:":
+  - 1F418
+  ":rhinoceros:":
+  - 1F98F
+  ":hippopotamus:":
+  - 1F99B
+  ":mouse:":
+  - 1F401
+  ":mouse_face:":
+  - 1F42D
+  ":mouse2:":
+  - 1F401
+  ":rat:":
+  - 1F400
+  ":hamster:":
+  - 1F439
+  ":rabbit:":
+  - 1F407
+  ":rabbit_face:":
+  - 1F430
+  ":rabbit2:":
+  - 1F407
+  ":chipmunk:":
+  - 1F43F
+  - FE0F
+  ":hedgehog:":
+  - 1F994
+  ":bat:":
+  - 1F987
+  ":bear:":
+  - 1F43B
+  ":koala:":
+  - 1F428
+  ":panda_face:":
+  - 1F43C
+  ":panda:":
+  - 1F43C
+  ":sloth:":
+  - 1F9A5
+  ":otter:":
+  - 1F9A6
+  ":skunk:":
+  - 1F9A8
+  ":kangaroo:":
+  - 1F998
+  ":badger:":
+  - 1F9A1
+  ":paw_prints:":
+  - 1F43E
+  ":feet:":
+  - 1F43E
+  ":turkey:":
+  - 1F983
+  ":chicken:":
+  - 1F414
+  ":rooster:":
+  - 1F413
+  ":hatching_chick:":
+  - 1F423
+  ":baby_chick:":
+  - 1F424
+  ":hatched_chick:":
+  - 1F425
+  ":front_facing_baby_chick:":
+  - 1F425
+  ":bird:":
+  - 1F426
+  ":penguin:":
+  - 1F427
+  ":dove:":
+  - 1F54A
+  - FE0F
+  ":dove_of_peace:":
+  - 1F54A
+  - FE0F
+  ":eagle:":
+  - 1F985
+  ":duck:":
+  - 1F986
+  ":swan:":
+  - 1F9A2
+  ":owl:":
+  - 1F989
+  ":flamingo:":
+  - 1F9A9
+  ":peacock:":
+  - 1F99A
+  ":parrot:":
+  - 1F99C
+  ":frog:":
+  - 1F438
+  ":crocodile:":
+  - 1F40A
+  ":turtle:":
+  - 1F422
+  ":lizard:":
+  - 1F98E
+  ":snake:":
+  - 1F40D
+  ":dragon_face:":
+  - 1F432
+  ":dragon:":
+  - 1F409
+  ":sauropod:":
+  - 1F995
+  ":t-rex:":
+  - 1F996
+  ":t_rex:":
+  - 1F996
+  ":whale:":
+  - 1F40B
+  ":spouting_whale:":
+  - 1F433
+  ":whale2:":
+  - 1F40B
+  ":dolphin:":
+  - 1F42C
+  ":flipper:":
+  - 1F42C
+  ":fish:":
+  - 1F41F
+  ":tropical_fish:":
+  - 1F420
+  ":blowfish:":
+  - 1F421
+  ":shark:":
+  - 1F988
+  ":octopus:":
+  - 1F419
+  ":shell:":
+  - 1F41A
+  ":spiral_shell:":
+  - 1F41A
+  ":snail:":
+  - 1F40C
+  ":butterfly:":
+  - 1F98B
+  ":bug:":
+  - 1F41B
+  ":ant:":
+  - 1F41C
+  ":honeybee:":
+  - 1F41D
+  ":bee:":
+  - 1F41D
+  ":beetle:":
+  - 1F41E
+  ":lady_beetle:":
+  - 1F41E
+  ":cricket:":
+  - 1F997
+  ":spider:":
+  - 1F577
+  - FE0F
+  ":spider_web:":
+  - 1F578
+  - FE0F
+  ":scorpion:":
+  - 1F982
+  ":mosquito:":
+  - 1F99F
+  ":microbe:":
+  - 1F9A0
+  ":bouquet:":
+  - 1F490
+  ":cherry_blossom:":
+  - 1F338
+  ":white_flower:":
+  - 1F4AE
+  ":rosette:":
+  - 1F3F5
+  - FE0F
+  ":rose:":
+  - 1F339
+  ":wilted_flower:":
+  - 1F940
+  ":hibiscus:":
+  - 1F33A
+  ":sunflower:":
+  - 1F33B
+  ":blossom:":
+  - 1F33C
+  ":tulip:":
+  - 1F337
+  ":seedling:":
+  - 1F331
+  ":evergreen_tree:":
+  - 1F332
+  ":deciduous_tree:":
+  - 1F333
+  ":palm_tree:":
+  - 1F334
+  ":cactus:":
+  - 1F335
+  ":ear_of_rice:":
+  - 1F33E
+  ":sheaf_of_rice:":
+  - 1F33E
+  ":herb:":
+  - 1F33F
+  ":shamrock:":
+  - '2618'
+  - FE0F
+  ":four_leaf_clover:":
+  - 1F340
+  ":maple_leaf:":
+  - 1F341
+  ":fallen_leaf:":
+  - 1F342
+  ":leaves:":
+  - 1F343
+  ":leaf_fluttering_in_wind:":
+  - 1F343
+  ":mushroom:":
+  - 1F344
+  ":chestnut:":
+  - 1F330
+  ":crab:":
+  - 1F980
+  ":lobster:":
+  - 1F99E
+  ":shrimp:":
+  - 1F990
+  ":squid:":
+  - 1F991
+  ":earth_africa:":
+  - 1F30D
+  ":globe_showing_europe_africa:":
+  - 1F30D
+  ":earth_americas:":
+  - 1F30E
+  ":globe_showing_americas:":
+  - 1F30E
+  ":earth_asia:":
+  - 1F30F
+  ":globe_showing_asia_australia:":
+  - 1F30F
+  ":globe_with_meridians:":
+  - 1F310
+  ":new_moon:":
+  - 1F311
+  ":waxing_crescent_moon:":
+  - 1F312
+  ":first_quarter_moon:":
+  - 1F313
+  ":moon:":
+  - 1F314
+  ":waxing_gibbous_moon:":
+  - 1F314
+  ":full_moon:":
+  - 1F315
+  ":waning_gibbous_moon:":
+  - 1F316
+  ":last_quarter_moon:":
+  - 1F317
+  ":waning_crescent_moon:":
+  - 1F318
+  ":crescent_moon:":
+  - 1F319
+  ":new_moon_with_face:":
+  - 1F31A
+  ":new_moon_face:":
+  - 1F31A
+  ":first_quarter_moon_with_face:":
+  - 1F31B
+  ":first_quarter_moon_face:":
+  - 1F31B
+  ":last_quarter_moon_with_face:":
+  - 1F31C
+  ":last_quarter_moon_face:":
+  - 1F31C
+  ":sunny:":
+  - '2600'
+  - FE0F
+  ":sun:":
+  - '2600'
+  - FE0F
+  ":full_moon_with_face:":
+  - 1F31D
+  ":full_moon_face:":
+  - 1F31D
+  ":sun_with_face:":
+  - 1F31E
+  ":star:":
+  - 2B50
+  ":star2:":
+  - 1F31F
+  ":glowing_star:":
+  - 1F31F
+  ":stars:":
+  - 1F320
+  ":shooting_star:":
+  - 1F320
+  ":cloud:":
+  - '2601'
+  - FE0F
+  ":partly_sunny:":
+  - 26C5
+  ":sun_behind_cloud:":
+  - 1F325
+  - FE0F
+  ":cloud_with_lightning_and_rain:":
+  - 26C8
+  - FE0F
+  ":thunder_cloud_and_rain:":
+  - 26C8
+  - FE0F
+  ":mostly_sunny:":
+  - 1F324
+  - FE0F
+  ":sun_behind_small_cloud:":
+  - 1F324
+  - FE0F
+  ":sun_small_cloud:":
+  - 1F324
+  - FE0F
+  ":barely_sunny:":
+  - 1F325
+  - FE0F
+  ":sun_behind_large_cloud:":
+  - 1F325
+  - FE0F
+  ":sun_behind_rain_cloud:":
+  - 1F326
+  - FE0F
+  ":partly_sunny_rain:":
+  - 1F326
+  - FE0F
+  ":cloud_with_rain:":
+  - 1F327
+  - FE0F
+  ":rain_cloud:":
+  - 1F327
+  - FE0F
+  ":cloud_with_snow:":
+  - 1F328
+  - FE0F
+  ":snow_cloud:":
+  - 1F328
+  - FE0F
+  ":lightning:":
+  - 1F329
+  - FE0F
+  ":cloud_with_lightning:":
+  - 1F329
+  - FE0F
+  ":lightning_cloud:":
+  - 1F329
+  - FE0F
+  ":tornado:":
+  - 1F32A
+  - FE0F
+  ":tornado_cloud:":
+  - 1F32A
+  - FE0F
+  ":fog:":
+  - 1F32B
+  - FE0F
+  ":wind_face:":
+  - 1F32C
+  - FE0F
+  ":wind_blowing_face:":
+  - 1F32C
+  - FE0F
+  ":rainbow:":
+  - 1F308
+  ":umbrella:":
+  - '2614'
+  ":open_umbrella:":
+  - '2602'
+  - FE0F
+  ":umbrella_with_rain_drops:":
+  - '2614'
+  ":zap:":
+  - 26A1
+  ":high_voltage:":
+  - 26A1
+  ":snowflake:":
+  - '2744'
+  - FE0F
+  ":snowman:":
+  - 26C4
+  ":snowman_with_snow:":
+  - '2603'
+  - FE0F
+  ":snowman_without_snow:":
+  - 26C4
+  ":comet:":
+  - '2604'
+  - FE0F
+  ":fire:":
+  - 1F525
+  ":droplet:":
+  - 1F4A7
+  ":ocean:":
+  - 1F30A
+  ":water_wave:":
+  - 1F30A
+  ":christmas_tree:":
+  - 1F384
+  ":sparkles:":
+  - '2728'
+  ":tanabata_tree:":
+  - 1F38B
+  ":bamboo:":
+  - 1F38D
+  ":pine_decoration:":
+  - 1F38D
+symbols:
+  ":cupid:":
+  - 1F498
+  ":heart_with_arrow:":
+  - 1F498
+  ":gift_heart:":
+  - 1F49D
+  ":heart_with_ribbon:":
+  - 1F49D
+  ":sparkling_heart:":
+  - 1F496
+  ":heartpulse:":
+  - 1F497
+  ":growing_heart:":
+  - 1F497
+  ":heartbeat:":
+  - 1F493
+  ":beating_heart:":
+  - 1F493
+  ":revolving_hearts:":
+  - 1F49E
+  ":two_hearts:":
+  - 1F495
+  ":heart_decoration:":
+  - 1F49F
+  ":heart_exclamation:":
+  - '2763'
+  - FE0F
+  ":heavy_heart_exclamation:":
+  - '2763'
+  - FE0F
+  ":heavy_heart_exclamation_mark_ornament:":
+  - '2763'
+  - FE0F
+  ":broken_heart:":
+  - 1F494
+  ":heart:":
+  - '2764'
+  - FE0F
+  ":red_heart:":
+  - '2764'
+  - FE0F
+  ":orange_heart:":
+  - 1F9E1
+  ":yellow_heart:":
+  - 1F49B
+  ":green_heart:":
+  - 1F49A
+  ":blue_heart:":
+  - 1F499
+  ":purple_heart:":
+  - 1F49C
+  ":brown_heart:":
+  - 1F90E
+  ":black_heart:":
+  - 1F5A4
+  ":white_heart:":
+  - 1F90D
+  ":100:":
+  - 1F4AF
+  ":hundred_points:":
+  - 1F4AF
+  ":anger:":
+  - 1F4A2
+  ":anger_symbol:":
+  - 1F4A2
+  ":speech_balloon:":
+  - 1F4AC
+  ":eye_speech_bubble:":
+  - 1F441
+  - FE0F
+  - 200D
+  - 1F5E8
+  - FE0F
+  ":eye_in_speech_bubble:":
+  - 1F441
+  - FE0F
+  - 200D
+  - 1F5E8
+  - FE0F
+  ":eye-in-speech-bubble:":
+  - 1F441
+  - FE0F
+  - 200D
+  - 1F5E8
+  - FE0F
+  ":left_speech_bubble:":
+  - 1F5E8
+  - FE0F
+  ":right_anger_bubble:":
+  - 1F5EF
+  - FE0F
+  ":thought_balloon:":
+  - 1F4AD
+  ":zzz:":
+  - 1F4A4
+  ":white_flower:":
+  - 1F4AE
+  ":hotsprings:":
+  - '2668'
+  - FE0F
+  ":hot_springs:":
+  - '2668'
+  - FE0F
+  ":barber:":
+  - 1F488
+  ":barber_pole:":
+  - 1F488
+  ":stop_sign:":
+  - 1F6D1
+  ":octagonal_sign:":
+  - 1F6D1
+  ":clock12:":
+  - 1F55B
+  ":twelve_oclock:":
+  - 1F55B
+  ":clock1230:":
+  - 1F567
+  ":twelve_thirty:":
+  - 1F567
+  ":clock1:":
+  - 1F550
+  ":one_oclock:":
+  - 1F550
+  ":clock130:":
+  - 1F55C
+  ":one_thirty:":
+  - 1F55C
+  ":clock2:":
+  - 1F551
+  ":two_oclock:":
+  - 1F551
+  ":clock230:":
+  - 1F55D
+  ":two_thirty:":
+  - 1F55D
+  ":clock3:":
+  - 1F552
+  ":three_oclock:":
+  - 1F552
+  ":clock330:":
+  - 1F55E
+  ":three_thirty:":
+  - 1F55E
+  ":clock4:":
+  - 1F553
+  ":four_oclock:":
+  - 1F553
+  ":clock430:":
+  - 1F55F
+  ":four_thirty:":
+  - 1F55F
+  ":clock5:":
+  - 1F554
+  ":five_oclock:":
+  - 1F554
+  ":clock530:":
+  - 1F560
+  ":five_thirty:":
+  - 1F560
+  ":clock6:":
+  - 1F555
+  ":six_oclock:":
+  - 1F555
+  ":clock630:":
+  - 1F561
+  ":six_thirty:":
+  - 1F561
+  ":clock7:":
+  - 1F556
+  ":seven_oclock:":
+  - 1F556
+  ":clock730:":
+  - 1F562
+  ":seven_thirty:":
+  - 1F562
+  ":clock8:":
+  - 1F557
+  ":eight_oclock:":
+  - 1F557
+  ":clock830:":
+  - 1F563
+  ":eight_thirty:":
+  - 1F563
+  ":clock9:":
+  - 1F558
+  ":nine_oclock:":
+  - 1F558
+  ":clock930:":
+  - 1F564
+  ":nine_thirty:":
+  - 1F564
+  ":clock10:":
+  - 1F559
+  ":ten_oclock:":
+  - 1F559
+  ":clock1030:":
+  - 1F565
+  ":ten_thirty:":
+  - 1F565
+  ":clock11:":
+  - 1F55A
+  ":eleven_oclock:":
+  - 1F55A
+  ":clock1130:":
+  - 1F566
+  ":eleven_thirty:":
+  - 1F566
+  ":cyclone:":
+  - 1F300
+  ":spades:":
+  - '2660'
+  - FE0F
+  ":spade_suit:":
+  - '2660'
+  - FE0F
+  ":hearts:":
+  - '2665'
+  - FE0F
+  ":heart_suit:":
+  - '2665'
+  - FE0F
+  ":diamonds:":
+  - '2666'
+  - FE0F
+  ":diamond_suit:":
+  - '2666'
+  - FE0F
+  ":clubs:":
+  - '2663'
+  - FE0F
+  ":club_suit:":
+  - '2663'
+  - FE0F
+  ":black_joker:":
+  - 1F0CF
+  ":joker:":
+  - 1F0CF
+  ":mahjong:":
+  - 1F004
+  ":mahjong_red_dragon:":
+  - 1F004
+  ":flower_playing_cards:":
+  - 1F3B4
+  ":mute:":
+  - 1F507
+  ":muted_speaker:":
+  - 1F507
+  ":speaker:":
+  - 1F508
+  ":speaker_low_volume:":
+  - 1F508
+  ":sound:":
+  - 1F509
+  ":speaker_medium_volume:":
+  - 1F509
+  ":loud_sound:":
+  - 1F50A
+  ":speaker_high_volume:":
+  - 1F50A
+  ":loudspeaker:":
+  - 1F4E2
+  ":mega:":
+  - 1F4E3
+  ":megaphone:":
+  - 1F4E3
+  ":postal_horn:":
+  - 1F4EF
+  ":bell:":
+  - 1F514
+  ":no_bell:":
+  - 1F515
+  ":bell_with_slash:":
+  - 1F515
+  ":musical_note:":
+  - 1F3B5
+  ":notes:":
+  - 1F3B6
+  ":musical_notes:":
+  - 1F3B6
+  ":chart:":
+  - 1F4B9
+  ":chart_increasing_with_yen:":
+  - 1F4B9
+  ":atm:":
+  - 1F3E7
+  ":atm_sign:":
+  - 1F3E7
+  ":put_litter_in_its_place:":
+  - 1F6AE
+  ":litter_in_bin_sign:":
+  - 1F6AE
+  ":potable_water:":
+  - 1F6B0
+  ":wheelchair:":
+  - 267F
+  ":wheelchair_symbol:":
+  - 267F
+  ":mens:":
+  - 1F6B9
+  ":mens_room:":
+  - 1F6B9
+  ":womens:":
+  - 1F6BA
+  ":womens_room:":
+  - 1F6BA
+  ":restroom:":
+  - 1F6BB
+  ":baby_symbol:":
+  - 1F6BC
+  ":wc:":
+  - 1F6BE
+  ":water_closet:":
+  - 1F6BE
+  ":warning:":
+  - 26A0
+  - FE0F
+  ":children_crossing:":
+  - 1F6B8
+  ":no_entry:":
+  - 26D4
+  ":no_entry_sign:":
+  - 1F6AB
+  ":prohibited:":
+  - 1F6AB
+  ":no_bicycles:":
+  - 1F6B3
+  ":no_smoking:":
+  - 1F6AD
+  ":do_not_litter:":
+  - 1F6AF
+  ":no_littering:":
+  - 1F6AF
+  ":non-potable_water:":
+  - 1F6B1
+  ":non_potable_water:":
+  - 1F6B1
+  ":no_pedestrians:":
+  - 1F6B7
+  ":no_mobile_phones:":
+  - 1F4F5
+  ":underage:":
+  - 1F51E
+  ":no_one_under_eighteen:":
+  - 1F51E
+  ":radioactive:":
+  - '2622'
+  - FE0F
+  ":radioactive_sign:":
+  - '2622'
+  - FE0F
+  ":biohazard:":
+  - '2623'
+  - FE0F
+  ":biohazard_sign:":
+  - '2623'
+  - FE0F
+  ":arrow_up:":
+  - 2B06
+  - FE0F
+  ":up_arrow:":
+  - 2B06
+  - FE0F
+  ":arrow_upper_right:":
+  - '2197'
+  - FE0F
+  ":up_right_arrow:":
+  - '2197'
+  - FE0F
+  ":arrow_right:":
+  - 27A1
+  - FE0F
+  ":right_arrow:":
+  - 27A1
+  - FE0F
+  ":arrow_lower_right:":
+  - '2198'
+  - FE0F
+  ":down_right_arrow:":
+  - '2198'
+  - FE0F
+  ":arrow_down:":
+  - 2B07
+  - FE0F
+  ":down_arrow:":
+  - 2B07
+  - FE0F
+  ":arrow_lower_left:":
+  - '2199'
+  - FE0F
+  ":down_left_arrow:":
+  - '2199'
+  - FE0F
+  ":arrow_left:":
+  - 2B05
+  - FE0F
+  ":left_arrow:":
+  - 2B05
+  - FE0F
+  ":arrow_upper_left:":
+  - '2196'
+  - FE0F
+  ":up_left_arrow:":
+  - '2196'
+  - FE0F
+  ":arrow_up_down:":
+  - '2195'
+  - FE0F
+  ":up_down_arrow:":
+  - '2195'
+  - FE0F
+  ":left_right_arrow:":
+  - '2194'
+  - FE0F
+  ":leftwards_arrow_with_hook:":
+  - 21A9
+  - FE0F
+  ":right_arrow_curving_left:":
+  - 21A9
+  - FE0F
+  ":arrow_right_hook:":
+  - 21AA
+  - FE0F
+  ":left_arrow_curving_right:":
+  - 21AA
+  - FE0F
+  ":arrow_heading_up:":
+  - '2934'
+  - FE0F
+  ":right_arrow_curving_up:":
+  - '2934'
+  - FE0F
+  ":arrow_heading_down:":
+  - '2935'
+  - FE0F
+  ":right_arrow_curving_down:":
+  - '2935'
+  - FE0F
+  ":arrows_clockwise:":
+  - 1F503
+  ":clockwise_vertical_arrows:":
+  - 1F503
+  ":arrows_counterclockwise:":
+  - 1F504
+  ":counterclockwise_arrows_button:":
+  - 1F504
+  ":back:":
+  - 1F519
+  ":back_arrow:":
+  - 1F519
+  ":end:":
+  - 1F51A
+  ":end_arrow:":
+  - 1F51A
+  ":on:":
+  - 1F51B
+  ":on_arrow:":
+  - 1F51B
+  ":soon:":
+  - 1F51C
+  ":soon_arrow:":
+  - 1F51C
+  ":top:":
+  - 1F51D
+  ":top_arrow:":
+  - 1F51D
+  ":place_of_worship:":
+  - 1F6D0
+  ":atom_symbol:":
+  - 269B
+  - FE0F
+  ":om:":
+  - 1F549
+  - FE0F
+  ":om_symbol:":
+  - 1F549
+  - FE0F
+  ":star_of_david:":
+  - '2721'
+  - FE0F
+  ":wheel_of_dharma:":
+  - '2638'
+  - FE0F
+  ":yin_yang:":
+  - 262F
+  - FE0F
+  ":latin_cross:":
+  - 271D
+  - FE0F
+  ":orthodox_cross:":
+  - '2626'
+  - FE0F
+  ":star_and_crescent:":
+  - 262A
+  - FE0F
+  ":peace_symbol:":
+  - 262E
+  - FE0F
+  ":menorah:":
+  - 1F54E
+  ":menorah_with_nine_branches:":
+  - 1F54E
+  ":six_pointed_star:":
+  - 1F52F
+  ":dotted_six_pointed_star:":
+  - 1F52F
+  ":aries:":
+  - '2648'
+  ":taurus:":
+  - '2649'
+  ":gemini:":
+  - 264A
+  ":cancer:":
+  - 264B
+  ":leo:":
+  - 264C
+  ":virgo:":
+  - 264D
+  ":libra:":
+  - 264E
+  ":scorpius:":
+  - 264F
+  ":scorpio:":
+  - 264F
+  ":sagittarius:":
+  - '2650'
+  ":capricorn:":
+  - '2651'
+  ":aquarius:":
+  - '2652'
+  ":pisces:":
+  - '2653'
+  ":ophiuchus:":
+  - 26CE
+  ":twisted_rightwards_arrows:":
+  - 1F500
+  ":shuffle_tracks_button:":
+  - 1F500
+  ":repeat:":
+  - 1F501
+  ":repeat_button:":
+  - 1F501
+  ":repeat_one:":
+  - 1F502
+  ":repeat_single_button:":
+  - 1F502
+  ":arrow_forward:":
+  - 25B6
+  - FE0F
+  ":play_button:":
+  - 25B6
+  - FE0F
+  ":fast_forward:":
+  - 23E9
+  ":fast_forward_button:":
+  - 23E9
+  ":next_track_button:":
+  - 23ED
+  - FE0F
+  ":black_right_pointing_double_triangle_with_vertical_bar:":
+  - 23ED
+  - FE0F
+  ":play_or_pause_button:":
+  - 23EF
+  - FE0F
+  ":black_right_pointing_triangle_with_double_vertical_bar:":
+  - 23EF
+  - FE0F
+  ":arrow_backward:":
+  - 25C0
+  - FE0F
+  ":reverse_button:":
+  - 25C0
+  - FE0F
+  ":rewind:":
+  - 23EA
+  ":fast_reverse_button:":
+  - 23EA
+  ":last_track_button:":
+  - 23EE
+  - FE0F
+  ":previous_track_button:":
+  - 23EE
+  - FE0F
+  ":black_left_pointing_double_triangle_with_vertical_bar:":
+  - 23EE
+  - FE0F
+  ":arrow_up_small:":
+  - 1F53C
+  ":upwards_button:":
+  - 1F53C
+  ":arrow_double_up:":
+  - 23EB
+  ":fast_up_button:":
+  - 23EB
+  ":arrow_down_small:":
+  - 1F53D
+  ":downwards_button:":
+  - 1F53D
+  ":arrow_double_down:":
+  - 23EC
+  ":fast_down_button:":
+  - 23EC
+  ":pause_button:":
+  - 23F8
+  - FE0F
+  ":double_vertical_bar:":
+  - 23F8
+  - FE0F
+  ":stop_button:":
+  - 23F9
+  - FE0F
+  ":black_square_for_stop:":
+  - 23F9
+  - FE0F
+  ":record_button:":
+  - 23FA
+  - FE0F
+  ":black_circle_for_record:":
+  - 23FA
+  - FE0F
+  ":eject_button:":
+  - 23CF
+  - FE0F
+  ":eject:":
+  - 23CF
+  - FE0F
+  ":cinema:":
+  - 1F3A6
+  ":low_brightness:":
+  - 1F505
+  ":dim_button:":
+  - 1F505
+  ":high_brightness:":
+  - 1F506
+  ":bright_button:":
+  - 1F506
+  ":signal_strength:":
+  - 1F4F6
+  ":antenna_bars:":
+  - 1F4F6
+  ":vibration_mode:":
+  - 1F4F3
+  ":mobile_phone_off:":
+  - 1F4F4
+  ":female_sign:":
+  - '2640'
+  - FE0F
+  ":male_sign:":
+  - '2642'
+  - FE0F
+  ":multiply:":
+  - '2716'
+  - FE0F
+  ":heavy_multiplication_x:":
+  - '2716'
+  - FE0F
+  ":plus:":
+  - '2795'
+  ":heavy_plus_sign:":
+  - '2795'
+  ":minus:":
+  - '2796'
+  ":heavy_minus_sign:":
+  - '2796'
+  ":divide:":
+  - '2797'
+  ":heavy_division_sign:":
+  - '2797'
+  ":infinity:":
+  - 267E
+  - FE0F
+  ":bangbang:":
+  - 203C
+  - FE0F
+  ":double_exclamation_mark:":
+  - 203C
+  - FE0F
+  ":interrobang:":
+  - '2049'
+  - FE0F
+  ":exclamation_question_mark:":
+  - '2049'
+  - FE0F
+  ":question:":
+  - '2753'
+  ":question_mark:":
+  - '2753'
+  ":grey_question:":
+  - '2754'
+  ":white_question_mark:":
+  - '2754'
+  ":grey_exclamation:":
+  - '2755'
+  ":white_exclamation_mark:":
+  - '2755'
+  ":exclamation:":
+  - '2757'
+  ":heavy_exclamation_mark:":
+  - '2757'
+  ":exclamation_mark:":
+  - '2757'
+  ":wavy_dash:":
+  - '3030'
+  - FE0F
+  ":currency_exchange:":
+  - 1F4B1
+  ":heavy_dollar_sign:":
+  - 1F4B2
+  ":medical_symbol:":
+  - '2695'
+  - FE0F
+  ":staff_of_aesculapius:":
+  - '2695'
+  - FE0F
+  ":recycle:":
+  - 267B
+  - FE0F
+  ":recycling_symbol:":
+  - 267B
+  - FE0F
+  ":fleur_de_lis:":
+  - 269C
+  - FE0F
+  ":trident:":
+  - 1F531
+  ":trident_emblem:":
+  - 1F531
+  ":name_badge:":
+  - 1F4DB
+  ":beginner:":
+  - 1F530
+  ":japanese_symbol_for_beginner:":
+  - 1F530
+  ":o:":
+  - 2B55
+  ":hollow_red_circle:":
+  - 2B55
+  ":white_check_mark:":
+  - '2705'
+  ":check_mark_button:":
+  - '2705'
+  ":ballot_box_with_check:":
+  - '2611'
+  - FE0F
+  ":check_box_with_check:":
+  - '2611'
+  - FE0F
+  ":heavy_check_mark:":
+  - '2714'
+  - FE0F
+  ":check_mark:":
+  - '2714'
+  - FE0F
+  ":x:":
+  - 274C
+  ":cross_mark:":
+  - 274C
+  ":cross_mark_button:":
+  - 274E
+  ":negative_squared_cross_mark:":
+  - 274E
+  ":curly_loop:":
+  - 27B0
+  ":loop:":
+  - 27BF
+  ":double_curly_loop:":
+  - 27BF
+  ":part_alternation_mark:":
+  - 303D
+  - FE0F
+  ":eight_spoked_asterisk:":
+  - '2733'
+  - FE0F
+  ":eight_pointed_black_star:":
+  - '2734'
+  - FE0F
+  ":eight_pointed_star:":
+  - '2734'
+  - FE0F
+  ":sparkle:":
+  - '2747'
+  - FE0F
+  ":copyright:":
+  - FE0F
+  ":registered:":
+  - FE0F
+  ":tm:":
+  - '2122'
+  - FE0F
+  ":trade_mark:":
+  - '2122'
+  - FE0F
+  ":hash:":
+  - FE0F
+  - 20E3
+  ":keycap_number_sign:":
+  - FE0F
+  - 20E3
+  ":asterisk:":
+  - FE0F
+  - 20E3
+  ":keycap_star:":
+  - FE0F
+  - 20E3
+  ":keycap_asterisk:":
+  - FE0F
+  - 20E3
+  ":zero:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_zero:":
+  - FE0F
+  - 20E3
+  ":one:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_one:":
+  - FE0F
+  - 20E3
+  ":two:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_two:":
+  - FE0F
+  - 20E3
+  ":three:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_three:":
+  - FE0F
+  - 20E3
+  ":four:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_four:":
+  - FE0F
+  - 20E3
+  ":five:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_five:":
+  - FE0F
+  - 20E3
+  ":six:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_six:":
+  - FE0F
+  - 20E3
+  ":seven:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_seven:":
+  - FE0F
+  - 20E3
+  ":eight:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_eight:":
+  - FE0F
+  - 20E3
+  ":nine:":
+  - FE0F
+  - 20E3
+  ":keycap_digit_nine:":
+  - FE0F
+  - 20E3
+  ":keycap_ten:":
+  - 1F51F
+  ":keycap_10:":
+  - 1F51F
+  ":capital_abcd:":
+  - 1F520
+  ":input_latin_uppercase:":
+  - 1F520
+  ":abcd:":
+  - 1F521
+  ":input_latin_lowercase:":
+  - 1F521
+  ":1234:":
+  - 1F522
+  ":input_numbers:":
+  - 1F522
+  ":symbols:":
+  - 1F523
+  ":input_symbols:":
+  - 1F523
+  ":abc:":
+  - 1F524
+  ":input_latin_letters:":
+  - 1F524
+  ":a:":
+  - 1F170
+  - FE0F
+  ":a_button_blood_type_:":
+  - 1F170
+  - FE0F
+  ":ab:":
+  - 1F18E
+  ":ab_button_blood_type_:":
+  - 1F18E
+  ":b:":
+  - 1F171
+  - FE0F
+  ":b_button_blood_type_:":
+  - 1F171
+  - FE0F
+  ":cl:":
+  - 1F191
+  ":cl_button:":
+  - 1F191
+  ":cool:":
+  - 1F192
+  ":cool_button:":
+  - 1F192
+  ":free:":
+  - 1F193
+  ":free_button:":
+  - 1F193
+  ":information_source:":
+  - '2139'
+  - FE0F
+  ":information:":
+  - '2139'
+  - FE0F
+  ":id:":
+  - 1F194
+  ":id_button:":
+  - 1F194
+  ":m:":
+  - 24C2
+  - FE0F
+  ":circled_m:":
+  - 24C2
+  - FE0F
+  ":new:":
+  - 1F195
+  ":new_button:":
+  - 1F195
+  ":ng:":
+  - 1F196
+  ":ng_button:":
+  - 1F196
+  ":o2:":
+  - 1F17E
+  - FE0F
+  ":o_button_blood_type_:":
+  - 1F17E
+  - FE0F
+  ":ok:":
+  - 1F197
+  ":ok_button:":
+  - 1F197
+  ":parking:":
+  - 1F17F
+  - FE0F
+  ":p_button:":
+  - 1F17F
+  - FE0F
+  ":sos:":
+  - 1F198
+  ":sos_button:":
+  - 1F198
+  ":up:":
+  - 1F199
+  ":up_button:":
+  - 1F199
+  ":vs:":
+  - 1F19A
+  ":vs_button:":
+  - 1F19A
+  ":koko:":
+  - 1F201
+  ":japanese_here_button:":
+  - 1F201
+  ":sa:":
+  - 1F202
+  - FE0F
+  ":japanese_service_charge_button:":
+  - 1F202
+  - FE0F
+  ":u6708:":
+  - 1F237
+  - FE0F
+  ":japanese_monthly_amount_button:":
+  - 1F237
+  - FE0F
+  ":u6709:":
+  - 1F236
+  ":japanese_not_free_of_charge_button:":
+  - 1F236
+  ":u6307:":
+  - 1F22F
+  ":japanese_reserved_button:":
+  - 1F22F
+  ":ideograph_advantage:":
+  - 1F250
+  ":japanese_bargain_button:":
+  - 1F250
+  ":u5272:":
+  - 1F239
+  ":japanese_discount_button:":
+  - 1F239
+  ":u7121:":
+  - 1F21A
+  ":japanese_free_of_charge_button:":
+  - 1F21A
+  ":u7981:":
+  - 1F232
+  ":japanese_prohibited_button:":
+  - 1F232
+  ":accept:":
+  - 1F251
+  ":japanese_acceptable_button:":
+  - 1F251
+  ":u7533:":
+  - 1F238
+  ":japanese_application_button:":
+  - 1F238
+  ":u5408:":
+  - 1F234
+  ":japanese_passing_grade_button:":
+  - 1F234
+  ":u7a7a:":
+  - 1F233
+  ":japanese_vacancy_button:":
+  - 1F233
+  ":congratulations:":
+  - '3297'
+  - FE0F
+  ":japanese_congratulations_button:":
+  - '3297'
+  - FE0F
+  ":secret:":
+  - '3299'
+  - FE0F
+  ":japanese_secret_button:":
+  - '3299'
+  - FE0F
+  ":u55b6:":
+  - 1F23A
+  ":japanese_open_for_business_button:":
+  - 1F23A
+  ":u6e80:":
+  - 1F235
+  ":japanese_no_vacancy_button:":
+  - 1F235
+  ":red_circle:":
+  - 1F534
+  ":orange_circle:":
+  - 1F7E0
+  ":large_orange_circle:":
+  - 1F7E0
+  ":yellow_circle:":
+  - 1F7E1
+  ":large_yellow_circle:":
+  - 1F7E1
+  ":green_circle:":
+  - 1F7E2
+  ":large_green_circle:":
+  - 1F7E2
+  ":large_blue_circle:":
+  - 1F535
+  ":blue_circle:":
+  - 1F535
+  ":purple_circle:":
+  - 1F7E3
+  ":large_purple_circle:":
+  - 1F7E3
+  ":brown_circle:":
+  - 1F7E4
+  ":large_brown_circle:":
+  - 1F7E4
+  ":black_circle:":
+  - 26AB
+  ":white_circle:":
+  - 26AA
+  ":red_square:":
+  - 1F7E5
+  ":large_red_square:":
+  - 1F7E5
+  ":orange_square:":
+  - 1F7E7
+  ":large_orange_square:":
+  - 1F7E7
+  ":yellow_square:":
+  - 1F7E8
+  ":large_yellow_square:":
+  - 1F7E8
+  ":green_square:":
+  - 1F7E9
+  ":large_green_square:":
+  - 1F7E9
+  ":blue_square:":
+  - 1F7E6
+  ":large_blue_square:":
+  - 1F7E6
+  ":purple_square:":
+  - 1F7EA
+  ":large_purple_square:":
+  - 1F7EA
+  ":brown_square:":
+  - 1F7EB
+  ":large_brown_square:":
+  - 1F7EB
+  ":black_large_square:":
+  - 2B1B
+  ":white_large_square:":
+  - 2B1C
+  ":black_medium_square:":
+  - 25FC
+  - FE0F
+  ":white_medium_square:":
+  - 25FB
+  - FE0F
+  ":black_medium_small_square:":
+  - 25FE
+  ":white_medium_small_square:":
+  - 25FD
+  ":black_small_square:":
+  - 25AA
+  - FE0F
+  ":white_small_square:":
+  - 25AB
+  - FE0F
+  ":large_orange_diamond:":
+  - 1F536
+  ":large_blue_diamond:":
+  - 1F537
+  ":small_orange_diamond:":
+  - 1F538
+  ":small_blue_diamond:":
+  - 1F539
+  ":small_red_triangle:":
+  - 1F53A
+  ":red_triangle_pointed_up:":
+  - 1F53A
+  ":small_red_triangle_down:":
+  - 1F53B
+  ":red_triangle_pointed_down:":
+  - 1F53B
+  ":diamond_with_a_dot:":
+  - 1F4A0
+  ":diamond_shape_with_a_dot_inside:":
+  - 1F4A0
+  ":radio_button:":
+  - 1F518
+  ":white_square_button:":
+  - 1F533
+  ":black_square_button:":
+  - 1F532
+food-drink:
+  ":grapes:":
+  - 1F347
+  ":melon:":
+  - 1F348
+  ":watermelon:":
+  - 1F349
+  ":tangerine:":
+  - 1F34A
+  ":orange:":
+  - 1F34A
+  ":mandarin:":
+  - 1F34A
+  ":lemon:":
+  - 1F34B
+  ":banana:":
+  - 1F34C
+  ":pineapple:":
+  - 1F34D
+  ":mango:":
+  - 1F96D
+  ":apple:":
+  - 1F34E
+  ":red_apple:":
+  - 1F34E
+  ":green_apple:":
+  - 1F34F
+  ":pear:":
+  - 1F350
+  ":peach:":
+  - 1F351
+  ":cherries:":
+  - 1F352
+  ":strawberry:":
+  - 1F353
+  ":kiwi_fruit:":
+  - 1F95D
+  ":kiwifruit:":
+  - 1F95D
+  ":tomato:":
+  - 1F345
+  ":coconut:":
+  - 1F965
+  ":avocado:":
+  - 1F951
+  ":eggplant:":
+  - 1F346
+  ":potato:":
+  - 1F954
+  ":carrot:":
+  - 1F955
+  ":corn:":
+  - 1F33D
+  ":ear_of_corn:":
+  - 1F33D
+  ":hot_pepper:":
+  - 1F336
+  - FE0F
+  ":cucumber:":
+  - 1F952
+  ":leafy_green:":
+  - 1F96C
+  ":broccoli:":
+  - 1F966
+  ":garlic:":
+  - 1F9C4
+  ":onion:":
+  - 1F9C5
+  ":mushroom:":
+  - 1F344
+  ":peanuts:":
+  - 1F95C
+  ":chestnut:":
+  - 1F330
+  ":bread:":
+  - 1F35E
+  ":croissant:":
+  - 1F950
+  ":baguette_bread:":
+  - 1F956
+  ":pretzel:":
+  - 1F968
+  ":bagel:":
+  - 1F96F
+  ":pancakes:":
+  - 1F95E
+  ":waffle:":
+  - 1F9C7
+  ":cheese_wedge:":
+  - 1F9C0
+  ":cheese:":
+  - 1F9C0
+  ":meat_on_bone:":
+  - 1F356
+  ":poultry_leg:":
+  - 1F357
+  ":cut_of_meat:":
+  - 1F969
+  ":bacon:":
+  - 1F953
+  ":hamburger:":
+  - 1F354
+  ":fries:":
+  - 1F35F
+  ":french_fries:":
+  - 1F35F
+  ":pizza:":
+  - 1F355
+  ":hotdog:":
+  - 1F32D
+  ":hot_dog:":
+  - 1F32D
+  ":sandwich:":
+  - 1F96A
+  ":taco:":
+  - 1F32E
+  ":burrito:":
+  - 1F32F
+  ":stuffed_flatbread:":
+  - 1F959
+  ":falafel:":
+  - 1F9C6
+  ":egg:":
+  - 1F95A
+  ":cooking:":
+  - 1F373
+  ":fried_egg:":
+  - 1F373
+  ":shallow_pan_of_food:":
+  - 1F958
+  ":stew:":
+  - 1F372
+  ":pot_of_food:":
+  - 1F372
+  ":bowl_with_spoon:":
+  - 1F963
+  ":green_salad:":
+  - 1F957
+  ":popcorn:":
+  - 1F37F
+  ":butter:":
+  - 1F9C8
+  ":salt:":
+  - 1F9C2
+  ":canned_food:":
+  - 1F96B
+  ":bento:":
+  - 1F371
+  ":bento_box:":
+  - 1F371
+  ":rice_cracker:":
+  - 1F358
+  ":rice_ball:":
+  - 1F359
+  ":rice:":
+  - 1F35A
+  ":cooked_rice:":
+  - 1F35A
+  ":curry:":
+  - 1F35B
+  ":curry_rice:":
+  - 1F35B
+  ":ramen:":
+  - 1F35C
+  ":steaming_bowl:":
+  - 1F35C
+  ":spaghetti:":
+  - 1F35D
+  ":sweet_potato:":
+  - 1F360
+  ":roasted_sweet_potato:":
+  - 1F360
+  ":oden:":
+  - 1F362
+  ":sushi:":
+  - 1F363
+  ":fried_shrimp:":
+  - 1F364
+  ":fish_cake:":
+  - 1F365
+  ":fish_cake_with_swirl:":
+  - 1F365
+  ":moon_cake:":
+  - 1F96E
+  ":dango:":
+  - 1F361
+  ":dumpling:":
+  - 1F95F
+  ":fortune_cookie:":
+  - 1F960
+  ":takeout_box:":
+  - 1F961
+  ":oyster:":
+  - 1F9AA
+  ":icecream:":
+  - 1F366
+  ":soft_ice_cream:":
+  - 1F366
+  ":shaved_ice:":
+  - 1F367
+  ":ice_cream:":
+  - 1F368
+  ":doughnut:":
+  - 1F369
+  ":cookie:":
+  - 1F36A
+  ":birthday:":
+  - 1F382
+  ":birthday_cake:":
+  - 1F382
+  ":cake:":
+  - 1F370
+  ":shortcake:":
+  - 1F370
+  ":cupcake:":
+  - 1F9C1
+  ":pie:":
+  - 1F967
+  ":chocolate_bar:":
+  - 1F36B
+  ":candy:":
+  - 1F36C
+  ":lollipop:":
+  - 1F36D
+  ":custard:":
+  - 1F36E
+  ":honey_pot:":
+  - 1F36F
+  ":baby_bottle:":
+  - 1F37C
+  ":glass_of_milk:":
+  - 1F95B
+  ":milk_glass:":
+  - 1F95B
+  ":coffee:":
+  - '2615'
+  ":hot_beverage:":
+  - '2615'
+  ":tea:":
+  - 1F375
+  ":teacup_without_handle:":
+  - 1F375
+  ":sake:":
+  - 1F376
+  ":champagne:":
+  - 1F37E
+  ":bottle_with_popping_cork:":
+  - 1F37E
+  ":wine_glass:":
+  - 1F377
+  ":cocktail:":
+  - 1F378
+  ":cocktail_glass:":
+  - 1F378
+  ":tropical_drink:":
+  - 1F379
+  ":beer:":
+  - 1F37A
+  ":beer_mug:":
+  - 1F37A
+  ":beers:":
+  - 1F37B
+  ":clinking_beer_mugs:":
+  - 1F37B
+  ":clinking_glasses:":
+  - 1F942
+  ":tumbler_glass:":
+  - 1F943
+  ":cup_with_straw:":
+  - 1F964
+  ":beverage_box:":
+  - 1F9C3
+  ":mate:":
+  - 1F9C9
+  ":mate_drink:":
+  - 1F9C9
+  ":ice_cube:":
+  - 1F9CA
+  ":ice:":
+  - 1F9CA
+  ":chopsticks:":
+  - 1F962
+  ":knife_fork_plate:":
+  - 1F37D
+  - FE0F
+  ":plate_with_cutlery:":
+  - 1F37D
+  - FE0F
+  ":fork_and_knife_with_plate:":
+  - 1F37D
+  - FE0F
+  ":fork_and_knife:":
+  - 1F374
+  ":spoon:":
+  - 1F944

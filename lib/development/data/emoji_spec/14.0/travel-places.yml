@@ -1,0 +1,853 @@
+---
+"\U0001F6A3 Person Rowing Boat":
+  :url: https://emojipedia.org/person-rowing-boat/
+  :unicode:
+  - U+1F6A3
+  :shortcodes:
+  - ":rowboat:"
+  - ":person_rowing_boat:"
+"\U0001F5FE Map of Japan":
+  :url: https://emojipedia.org/map-of-japan/
+  :unicode:
+  - U+1F5FE
+  :shortcodes:
+  - ":japan:"
+  - ":map_of_japan:"
+"\U0001F3D4 Snow-Capped Mountain":
+  :url: https://emojipedia.org/snow-capped-mountain/
+  :unicode:
+  - U+1F3D4
+  - U+FE0F
+  :shortcodes:
+  - ":snow_capped_mountain:"
+  - ":mountain_snow:"
+"⛰ Mountain":
+  :url: https://emojipedia.org/mountain/
+  :unicode:
+  - U+26F0
+  - U+FE0F
+  :shortcodes:
+  - ":mountain:"
+"\U0001F30B Volcano":
+  :url: https://emojipedia.org/volcano/
+  :unicode:
+  - U+1F30B
+  :shortcodes:
+  - ":volcano:"
+"\U0001F5FB Mount Fuji":
+  :url: https://emojipedia.org/mount-fuji/
+  :unicode:
+  - U+1F5FB
+  :shortcodes:
+  - ":mount_fuji:"
+"\U0001F3D5 Camping":
+  :url: https://emojipedia.org/camping/
+  :unicode:
+  - U+1F3D5
+  - U+FE0F
+  :shortcodes:
+  - ":camping:"
+"\U0001F3D6 Beach with Umbrella":
+  :url: https://emojipedia.org/beach-with-umbrella/
+  :unicode:
+  - U+1F3D6
+  - U+FE0F
+  :shortcodes:
+  - ":beach_with_umbrella:"
+  - ":beach_umbrella:"
+"\U0001F3DC Desert":
+  :url: https://emojipedia.org/desert/
+  :unicode:
+  - U+1F3DC
+  - U+FE0F
+  :shortcodes:
+  - ":desert:"
+"\U0001F3DD Desert Island":
+  :url: https://emojipedia.org/desert-island/
+  :unicode:
+  - U+1F3DD
+  - U+FE0F
+  :shortcodes:
+  - ":desert_island:"
+"\U0001F3DE National Park":
+  :url: https://emojipedia.org/national-park/
+  :unicode:
+  - U+1F3DE
+  - U+FE0F
+  :shortcodes:
+  - ":national_park:"
+"\U0001F3DF Stadium":
+  :url: https://emojipedia.org/stadium/
+  :unicode:
+  - U+1F3DF
+  - U+FE0F
+  :shortcodes:
+  - ":stadium:"
+"\U0001F3DB Classical Building":
+  :url: https://emojipedia.org/classical-building/
+  :unicode:
+  - U+1F3DB
+  - U+FE0F
+  :shortcodes:
+  - ":classical_building:"
+"\U0001F3D7 Building Construction":
+  :url: https://emojipedia.org/building-construction/
+  :unicode:
+  - U+1F3D7
+  - U+FE0F
+  :shortcodes:
+  - ":building_construction:"
+"\U0001F3D8 Houses":
+  :url: https://emojipedia.org/houses/
+  :unicode:
+  - U+1F3D8
+  - U+FE0F
+  :shortcodes:
+  - ":houses:"
+  - ":house_buildings:"
+"\U0001F3DA Derelict House":
+  :url: https://emojipedia.org/derelict-house/
+  :unicode:
+  - U+1F3DA
+  - U+FE0F
+  :shortcodes:
+  - ":derelict_house:"
+  - ":derelict_house_building:"
+"\U0001F3E0 House":
+  :url: https://emojipedia.org/house/
+  :unicode:
+  - U+1F3E0
+  :shortcodes:
+  - ":house:"
+"\U0001F3E1 House with Garden":
+  :url: https://emojipedia.org/house-with-garden/
+  :unicode:
+  - U+1F3E1
+  :shortcodes:
+  - ":house_with_garden:"
+"\U0001F3E2 Office Building":
+  :url: https://emojipedia.org/office-building/
+  :unicode:
+  - U+1F3E2
+  :shortcodes:
+  - ":office:"
+  - ":office_building:"
+"\U0001F3E3 Japanese Post Office":
+  :url: https://emojipedia.org/japanese-post-office/
+  :unicode:
+  - U+1F3E3
+  :shortcodes:
+  - ":post_office:"
+  - ":japanese_post_office:"
+"\U0001F3E4 Post Office":
+  :url: https://emojipedia.org/post-office/
+  :unicode:
+  - U+1F3E4
+  :shortcodes:
+  - ":european_post_office:"
+  - ":post_office:"
+"\U0001F3E5 Hospital":
+  :url: https://emojipedia.org/hospital/
+  :unicode:
+  - U+1F3E5
+  :shortcodes:
+  - ":hospital:"
+"\U0001F3E6 Bank":
+  :url: https://emojipedia.org/bank/
+  :unicode:
+  - U+1F3E6
+  :shortcodes:
+  - ":bank:"
+"\U0001F3E8 Hotel":
+  :url: https://emojipedia.org/hotel/
+  :unicode:
+  - U+1F3E8
+  :shortcodes:
+  - ":hotel:"
+"\U0001F3E9 Love Hotel":
+  :url: https://emojipedia.org/love-hotel/
+  :unicode:
+  - U+1F3E9
+  :shortcodes:
+  - ":love_hotel:"
+"\U0001F3EA Convenience Store":
+  :url: https://emojipedia.org/convenience-store/
+  :unicode:
+  - U+1F3EA
+  :shortcodes:
+  - ":convenience_store:"
+"\U0001F3EB School":
+  :url: https://emojipedia.org/school/
+  :unicode:
+  - U+1F3EB
+  :shortcodes:
+  - ":school:"
+"\U0001F3EC Department Store":
+  :url: https://emojipedia.org/department-store/
+  :unicode:
+  - U+1F3EC
+  :shortcodes:
+  - ":department_store:"
+"\U0001F3ED Factory":
+  :url: https://emojipedia.org/factory/
+  :unicode:
+  - U+1F3ED
+  :shortcodes:
+  - ":factory:"
+"\U0001F3EF Japanese Castle":
+  :url: https://emojipedia.org/japanese-castle/
+  :unicode:
+  - U+1F3EF
+  :shortcodes:
+  - ":japanese_castle:"
+"\U0001F3F0 Castle":
+  :url: https://emojipedia.org/castle/
+  :unicode:
+  - U+1F3F0
+  :shortcodes:
+  - ":european_castle:"
+  - ":castle:"
+"\U0001F492 Wedding":
+  :url: https://emojipedia.org/wedding/
+  :unicode:
+  - U+1F492
+  :shortcodes:
+  - ":wedding:"
+"\U0001F5FC Tokyo Tower":
+  :url: https://emojipedia.org/tokyo-tower/
+  :unicode:
+  - U+1F5FC
+  :shortcodes:
+  - ":tokyo_tower:"
+"\U0001F5FD Statue of Liberty":
+  :url: https://emojipedia.org/statue-of-liberty/
+  :unicode:
+  - U+1F5FD
+  :shortcodes:
+  - ":statue_of_liberty:"
+"⛪ Church":
+  :url: https://emojipedia.org/church/
+  :unicode:
+  - U+26EA
+  :shortcodes:
+  - ":church:"
+"\U0001F54C Mosque":
+  :url: https://emojipedia.org/mosque/
+  :unicode:
+  - U+1F54C
+  :shortcodes:
+  - ":mosque:"
+"\U0001F6D5 Hindu Temple":
+  :url: https://emojipedia.org/hindu-temple/
+  :unicode:
+  - U+1F6D5
+  :shortcodes:
+  - ":hindu_temple:"
+"\U0001F54D Synagogue":
+  :url: https://emojipedia.org/synagogue/
+  :unicode:
+  - U+1F54D
+  :shortcodes:
+  - ":synagogue:"
+"⛩ Shinto Shrine":
+  :url: https://emojipedia.org/shinto-shrine/
+  :unicode:
+  - U+26E9
+  - U+FE0F
+  :shortcodes:
+  - ":shinto_shrine:"
+"\U0001F54B Kaaba":
+  :url: https://emojipedia.org/kaaba/
+  :unicode:
+  - U+1F54B
+  :shortcodes:
+  - ":kaaba:"
+"⛲ Fountain":
+  :url: https://emojipedia.org/fountain/
+  :unicode:
+  - U+26F2
+  :shortcodes:
+  - ":fountain:"
+"⛺ Tent":
+  :url: https://emojipedia.org/tent/
+  :unicode:
+  - U+26FA
+  :shortcodes:
+  - ":tent:"
+"\U0001F301 Foggy":
+  :url: https://emojipedia.org/foggy/
+  :unicode:
+  - U+1F301
+  :shortcodes:
+  - ":foggy:"
+"\U0001F303 Night with Stars":
+  :url: https://emojipedia.org/night-with-stars/
+  :unicode:
+  - U+1F303
+  :shortcodes:
+  - ":night_with_stars:"
+"\U0001F3D9 Cityscape":
+  :url: https://emojipedia.org/cityscape/
+  :unicode:
+  - U+1F3D9
+  - U+FE0F
+  :shortcodes:
+  - ":cityscape:"
+"\U0001F304 Sunrise Over Mountains":
+  :url: https://emojipedia.org/sunrise-over-mountains/
+  :unicode:
+  - U+1F304
+  :shortcodes:
+  - ":sunrise_over_mountains:"
+"\U0001F305 Sunrise":
+  :url: https://emojipedia.org/sunrise/
+  :unicode:
+  - U+1F305
+  :shortcodes:
+  - ":sunrise:"
+"\U0001F306 Cityscape at Dusk":
+  :url: https://emojipedia.org/cityscape-at-dusk/
+  :unicode:
+  - U+1F306
+  :shortcodes:
+  - ":city_sunset:"
+  - ":cityscape_at_dusk:"
+"\U0001F307 Sunset":
+  :url: https://emojipedia.org/sunset/
+  :unicode:
+  - U+1F307
+  :shortcodes:
+  - ":city_sunrise:"
+  - ":sunset:"
+"\U0001F309 Bridge at Night":
+  :url: https://emojipedia.org/bridge-at-night/
+  :unicode:
+  - U+1F309
+  :shortcodes:
+  - ":bridge_at_night:"
+"\U0001F3A0 Carousel Horse":
+  :url: https://emojipedia.org/carousel-horse/
+  :unicode:
+  - U+1F3A0
+  :shortcodes:
+  - ":carousel_horse:"
+"\U0001F3A1 Ferris Wheel":
+  :url: https://emojipedia.org/ferris-wheel/
+  :unicode:
+  - U+1F3A1
+  :shortcodes:
+  - ":ferris_wheel:"
+"\U0001F3A2 Roller Coaster":
+  :url: https://emojipedia.org/roller-coaster/
+  :unicode:
+  - U+1F3A2
+  :shortcodes:
+  - ":roller_coaster:"
+"\U0001F682 Locomotive":
+  :url: https://emojipedia.org/locomotive/
+  :unicode:
+  - U+1F682
+  :shortcodes:
+  - ":steam_locomotive:"
+  - ":locomotive:"
+"\U0001F683 Railway Car":
+  :url: https://emojipedia.org/railway-car/
+  :unicode:
+  - U+1F683
+  :shortcodes:
+  - ":railway_car:"
+"\U0001F684 High-Speed Train":
+  :url: https://emojipedia.org/high-speed-train/
+  :unicode:
+  - U+1F684
+  :shortcodes:
+  - ":bullettrain_side:"
+  - ":high_speed_train:"
+"\U0001F685 Bullet Train":
+  :url: https://emojipedia.org/bullet-train/
+  :unicode:
+  - U+1F685
+  :shortcodes:
+  - ":bullettrain_front:"
+  - ":bullet_train:"
+"\U0001F686 Train":
+  :url: https://emojipedia.org/train/
+  :unicode:
+  - U+1F686
+  :shortcodes:
+  - ":train2:"
+  - ":train:"
+"\U0001F687 Metro":
+  :url: https://emojipedia.org/metro/
+  :unicode:
+  - U+1F687
+  :shortcodes:
+  - ":metro:"
+"\U0001F688 Light Rail":
+  :url: https://emojipedia.org/light-rail/
+  :unicode:
+  - U+1F688
+  :shortcodes:
+  - ":light_rail:"
+"\U0001F689 Station":
+  :url: https://emojipedia.org/station/
+  :unicode:
+  - U+1F689
+  :shortcodes:
+  - ":station:"
+"\U0001F68A Tram":
+  :url: https://emojipedia.org/tram/
+  :unicode:
+  - U+1F68A
+  :shortcodes:
+  - ":tram:"
+"\U0001F69D Monorail":
+  :url: https://emojipedia.org/monorail/
+  :unicode:
+  - U+1F69D
+  :shortcodes:
+  - ":monorail:"
+"\U0001F69E Mountain Railway":
+  :url: https://emojipedia.org/mountain-railway/
+  :unicode:
+  - U+1F69E
+  :shortcodes:
+  - ":mountain_railway:"
+"\U0001F68B Tram Car":
+  :url: https://emojipedia.org/tram-car/
+  :unicode:
+  - U+1F68B
+  :shortcodes:
+  - ":train:"
+  - ":tram_car:"
+"\U0001F68C Bus":
+  :url: https://emojipedia.org/bus/
+  :unicode:
+  - U+1F68C
+  :shortcodes:
+  - ":bus:"
+"\U0001F68D Oncoming Bus":
+  :url: https://emojipedia.org/oncoming-bus/
+  :unicode:
+  - U+1F68D
+  :shortcodes:
+  - ":oncoming_bus:"
+"\U0001F68E Trolleybus":
+  :url: https://emojipedia.org/trolleybus/
+  :unicode:
+  - U+1F68E
+  :shortcodes:
+  - ":trolleybus:"
+"\U0001F690 Minibus":
+  :url: https://emojipedia.org/minibus/
+  :unicode:
+  - U+1F690
+  :shortcodes:
+  - ":minibus:"
+"\U0001F691 Ambulance":
+  :url: https://emojipedia.org/ambulance/
+  :unicode:
+  - U+1F691
+  :shortcodes:
+  - ":ambulance:"
+"\U0001F692 Fire Engine":
+  :url: https://emojipedia.org/fire-engine/
+  :unicode:
+  - U+1F692
+  :shortcodes:
+  - ":fire_engine:"
+"\U0001F693 Police Car":
+  :url: https://emojipedia.org/police-car/
+  :unicode:
+  - U+1F693
+  :shortcodes:
+  - ":police_car:"
+"\U0001F694 Oncoming Police Car":
+  :url: https://emojipedia.org/oncoming-police-car/
+  :unicode:
+  - U+1F694
+  :shortcodes:
+  - ":oncoming_police_car:"
+"\U0001F695 Taxi":
+  :url: https://emojipedia.org/taxi/
+  :unicode:
+  - U+1F695
+  :shortcodes:
+  - ":taxi:"
+"\U0001F696 Oncoming Taxi":
+  :url: https://emojipedia.org/oncoming-taxi/
+  :unicode:
+  - U+1F696
+  :shortcodes:
+  - ":oncoming_taxi:"
+"\U0001F697 Automobile":
+  :url: https://emojipedia.org/automobile/
+  :unicode:
+  - U+1F697
+  :shortcodes:
+  - ":car:"
+  - ":red_car:"
+  - ":automobile:"
+"\U0001F698 Oncoming Automobile":
+  :url: https://emojipedia.org/oncoming-automobile/
+  :unicode:
+  - U+1F698
+  :shortcodes:
+  - ":oncoming_automobile:"
+"\U0001F699 Sport Utility Vehicle":
+  :url: https://emojipedia.org/sport-utility-vehicle/
+  :unicode:
+  - U+1F699
+  :shortcodes:
+  - ":blue_car:"
+  - ":sport_utility_vehicle:"
+"\U0001F69A Delivery Truck":
+  :url: https://emojipedia.org/delivery-truck/
+  :unicode:
+  - U+1F69A
+  :shortcodes:
+  - ":truck:"
+  - ":delivery_truck:"
+"\U0001F69B Articulated Lorry":
+  :url: https://emojipedia.org/articulated-lorry/
+  :unicode:
+  - U+1F69B
+  :shortcodes:
+  - ":articulated_lorry:"
+"\U0001F69C Tractor":
+  :url: https://emojipedia.org/tractor/
+  :unicode:
+  - U+1F69C
+  :shortcodes:
+  - ":tractor:"
+"\U0001F3CE Racing Car":
+  :url: https://emojipedia.org/racing-car/
+  :unicode:
+  - U+1F3CE
+  - U+FE0F
+  :shortcodes:
+  - ":racing_car:"
+"\U0001F3CD Motorcycle":
+  :url: https://emojipedia.org/motorcycle/
+  :unicode:
+  - U+1F3CD
+  - U+FE0F
+  :shortcodes:
+  - ":motorcycle:"
+  - ":racing_motorcycle:"
+"\U0001F6F5 Motor Scooter":
+  :url: https://emojipedia.org/motor-scooter/
+  :unicode:
+  - U+1F6F5
+  :shortcodes:
+  - ":motor_scooter:"
+"\U0001F6FA Auto Rickshaw":
+  :url: https://emojipedia.org/auto-rickshaw/
+  :unicode:
+  - U+1F6FA
+  :shortcodes:
+  - ":auto_rickshaw:"
+"\U0001F6B2 Bicycle":
+  :url: https://emojipedia.org/bicycle/
+  :unicode:
+  - U+1F6B2
+  :shortcodes:
+  - ":bike:"
+  - ":bicycle:"
+"\U0001F6F4 Kick Scooter":
+  :url: https://emojipedia.org/kick-scooter/
+  :unicode:
+  - U+1F6F4
+  :shortcodes:
+  - ":kick_scooter:"
+  - ":scooter:"
+"\U0001F68F Bus Stop":
+  :url: https://emojipedia.org/bus-stop/
+  :unicode:
+  - U+1F68F
+  :shortcodes:
+  - ":busstop:"
+  - ":bus_stop:"
+"\U0001F6E3 Motorway":
+  :url: https://emojipedia.org/motorway/
+  :unicode:
+  - U+1F6E3
+  - U+FE0F
+  :shortcodes:
+  - ":motorway:"
+"\U0001F6E4 Railway Track":
+  :url: https://emojipedia.org/railway-track/
+  :unicode:
+  - U+1F6E4
+  - U+FE0F
+  :shortcodes:
+  - ":railway_track:"
+"⛽ Fuel Pump":
+  :url: https://emojipedia.org/fuel-pump/
+  :unicode:
+  - U+26FD
+  :shortcodes:
+  - ":fuelpump:"
+  - ":fuel_pump:"
+"\U0001F6A8 Police Car Light":
+  :url: https://emojipedia.org/police-car-light/
+  :unicode:
+  - U+1F6A8
+  :shortcodes:
+  - ":rotating_light:"
+  - ":police_car_light:"
+"\U0001F6A5 Horizontal Traffic Light":
+  :url: https://emojipedia.org/horizontal-traffic-light/
+  :unicode:
+  - U+1F6A5
+  :shortcodes:
+  - ":traffic_light:"
+  - ":horizontal_traffic_light:"
+"\U0001F6A6 Vertical Traffic Light":
+  :url: https://emojipedia.org/vertical-traffic-light/
+  :unicode:
+  - U+1F6A6
+  :shortcodes:
+  - ":vertical_traffic_light:"
+"\U0001F6A7 Construction":
+  :url: https://emojipedia.org/construction/
+  :unicode:
+  - U+1F6A7
+  :shortcodes:
+  - ":construction:"
+"⚓ Anchor":
+  :url: https://emojipedia.org/anchor/
+  :unicode:
+  - U+2693
+  :shortcodes:
+  - ":anchor:"
+"⛵ Sailboat":
+  :url: https://emojipedia.org/sailboat/
+  :unicode:
+  - U+26F5
+  :shortcodes:
+  - ":sailboat:"
+  - ":boat:"
+"\U0001F6A4 Speedboat":
+  :url: https://emojipedia.org/speedboat/
+  :unicode:
+  - U+1F6A4
+  :shortcodes:
+  - ":speedboat:"
+"\U0001F6F3 Passenger Ship":
+  :url: https://emojipedia.org/passenger-ship/
+  :unicode:
+  - U+1F6F3
+  - U+FE0F
+  :shortcodes:
+  - ":passenger_ship:"
+"⛴ Ferry":
+  :url: https://emojipedia.org/ferry/
+  :unicode:
+  - U+26F4
+  - U+FE0F
+  :shortcodes:
+  - ":ferry:"
+"\U0001F6E5 Motor Boat":
+  :url: https://emojipedia.org/motor-boat/
+  :unicode:
+  - U+1F6E5
+  - U+FE0F
+  :shortcodes:
+  - ":motor_boat:"
+"\U0001F6A2 Ship":
+  :url: https://emojipedia.org/ship/
+  :unicode:
+  - U+1F6A2
+  :shortcodes:
+  - ":ship:"
+"✈ Airplane":
+  :url: https://emojipedia.org/airplane/
+  :unicode:
+  - U+2708
+  - U+FE0F
+  :shortcodes:
+  - ":airplane:"
+"\U0001F6E9 Small Airplane":
+  :url: https://emojipedia.org/small-airplane/
+  :unicode:
+  - U+1F6E9
+  - U+FE0F
+  :shortcodes:
+  - ":small_airplane:"
+"\U0001F6EB Airplane Departure":
+  :url: https://emojipedia.org/airplane-departure/
+  :unicode:
+  - U+1F6EB
+  :shortcodes:
+  - ":airplane_departure:"
+  - ":flight_departure:"
+"\U0001F6EC Airplane Arrival":
+  :url: https://emojipedia.org/airplane-arrival/
+  :unicode:
+  - U+1F6EC
+  :shortcodes:
+  - ":flight_arrival:"
+  - ":airplane_arrival:"
+  - ":airplane_arriving:"
+"\U0001FA82 Parachute":
+  :url: https://emojipedia.org/parachute/
+  :unicode:
+  - U+1FA82
+  :shortcodes:
+  - ":parachute:"
+"\U0001F4BA Seat":
+  :url: https://emojipedia.org/seat/
+  :unicode:
+  - U+1F4BA
+  :shortcodes:
+  - ":seat:"
+"\U0001F681 Helicopter":
+  :url: https://emojipedia.org/helicopter/
+  :unicode:
+  - U+1F681
+  :shortcodes:
+  - ":helicopter:"
+"\U0001F69F Suspension Railway":
+  :url: https://emojipedia.org/suspension-railway/
+  :unicode:
+  - U+1F69F
+  :shortcodes:
+  - ":suspension_railway:"
+"\U0001F6A0 Mountain Cableway":
+  :url: https://emojipedia.org/mountain-cableway/
+  :unicode:
+  - U+1F6A0
+  :shortcodes:
+  - ":mountain_cableway:"
+"\U0001F6A1 Aerial Tramway":
+  :url: https://emojipedia.org/aerial-tramway/
+  :unicode:
+  - U+1F6A1
+  :shortcodes:
+  - ":aerial_tramway:"
+"\U0001F6F0 Satellite":
+  :url: https://emojipedia.org/satellite/
+  :unicode:
+  - U+1F6F0
+  - U+FE0F
+  :shortcodes:
+  - ":satellite:"
+  - ":artificial_satellite:"
+"\U0001F680 Rocket":
+  :url: https://emojipedia.org/rocket/
+  :unicode:
+  - U+1F680
+  :shortcodes:
+  - ":rocket:"
+"\U0001F6F8 Flying Saucer":
+  :url: https://emojipedia.org/flying-saucer/
+  :unicode:
+  - U+1F6F8
+  :shortcodes:
+  - ":flying_saucer:"
+"\U0001FA90 Ringed Planet":
+  :url: https://emojipedia.org/ringed-planet/
+  :unicode:
+  - U+1FA90
+  :shortcodes:
+  - ":ringed_planet:"
+"\U0001F320 Shooting Star":
+  :url: https://emojipedia.org/shooting-star/
+  :unicode:
+  - U+1F320
+  :shortcodes:
+  - ":stars:"
+  - ":shooting_star:"
+"\U0001F30C Milky Way":
+  :url: https://emojipedia.org/milky-way/
+  :unicode:
+  - U+1F30C
+  :shortcodes:
+  - ":milky_way:"
+"⛱ Umbrella on Ground":
+  :url: https://emojipedia.org/umbrella-on-ground/
+  :unicode:
+  - U+26F1
+  - U+FE0F
+  :shortcodes:
+  - ":umbrella_on_ground:"
+  - ":parasol_on_ground:"
+"\U0001F386 Fireworks":
+  :url: https://emojipedia.org/fireworks/
+  :unicode:
+  - U+1F386
+  :shortcodes:
+  - ":fireworks:"
+"\U0001F387 Sparkler":
+  :url: https://emojipedia.org/sparkler/
+  :unicode:
+  - U+1F387
+  :shortcodes:
+  - ":sparkler:"
+"\U0001F391 Moon Viewing Ceremony":
+  :url: https://emojipedia.org/moon-viewing-ceremony/
+  :unicode:
+  - U+1F391
+  :shortcodes:
+  - ":rice_scene:"
+  - ":moon_viewing_ceremony:"
+"\U0001F4B4 Yen Banknote":
+  :url: https://emojipedia.org/yen-banknote/
+  :unicode:
+  - U+1F4B4
+  :shortcodes:
+  - ":yen:"
+  - ":yen_banknote:"
+"\U0001F4B5 Dollar Banknote":
+  :url: https://emojipedia.org/dollar-banknote/
+  :unicode:
+  - U+1F4B5
+  :shortcodes:
+  - ":dollar:"
+  - ":dollar_banknote:"
+"\U0001F4B6 Euro Banknote":
+  :url: https://emojipedia.org/euro-banknote/
+  :unicode:
+  - U+1F4B6
+  :shortcodes:
+  - ":euro:"
+  - ":euro_banknote:"
+"\U0001F4B7 Pound Banknote":
+  :url: https://emojipedia.org/pound-banknote/
+  :unicode:
+  - U+1F4B7
+  :shortcodes:
+  - ":pound:"
+  - ":pound_banknote:"
+"\U0001F5FF Moai":
+  :url: https://emojipedia.org/moai/
+  :unicode:
+  - U+1F5FF
+  :shortcodes:
+  - ":moyai:"
+  - ":moai:"
+"\U0001F6C2 Passport Control":
+  :url: https://emojipedia.org/passport-control/
+  :unicode:
+  - U+1F6C2
+  :shortcodes:
+  - ":passport_control:"
+"\U0001F6C3 Customs":
+  :url: https://emojipedia.org/customs/
+  :unicode:
+  - U+1F6C3
+  :shortcodes:
+  - ":customs:"
+"\U0001F6C4 Baggage Claim":
+  :url: https://emojipedia.org/baggage-claim/
+  :unicode:
+  - U+1F6C4
+  :shortcodes:
+  - ":baggage_claim:"
+"\U0001F6C5 Left Luggage":
+  :url: https://emojipedia.org/left-luggage/
+  :unicode:
+  - U+1F6C5
+  :shortcodes:
+  - ":left_luggage:"

@@ -1,0 +1,2441 @@
+---
+"\U0001F3C1 Chequered Flag":
+  :url: https://emojipedia.org/chequered-flag/
+  :unicode:
+  - U+1F3C1
+  :shortcodes:
+  - ":checkered_flag:"
+  - ":chequered_flag:"
+"\U0001F6A9 Triangular Flag":
+  :url: https://emojipedia.org/triangular-flag/
+  :unicode:
+  - U+1F6A9
+  :shortcodes:
+  - ":triangular_flag_on_post:"
+  - ":triangular_flag:"
+"\U0001F38C Crossed Flags":
+  :url: https://emojipedia.org/crossed-flags/
+  :unicode:
+  - U+1F38C
+  :shortcodes:
+  - ":crossed_flags:"
+"\U0001F3F4 Black Flag":
+  :url: https://emojipedia.org/black-flag/
+  :unicode:
+  - U+1F3F4
+  :shortcodes:
+  - ":black_flag:"
+  - ":waving_black_flag:"
+"\U0001F3F3 White Flag":
+  :url: https://emojipedia.org/white-flag/
+  :unicode:
+  - U+1F3F3
+  - U+FE0F
+  :shortcodes:
+  - ":white_flag:"
+  - ":waving_white_flag:"
+"\U0001F3F3️‍\U0001F308 Rainbow Flag":
+  :url: https://emojipedia.org/rainbow-flag/
+  :unicode:
+  - U+1F3F3
+  - U+FE0F
+  - U+200D
+  - U+1F308
+  :shortcodes:
+  - ":rainbow_flag:"
+  - ":rainbow-flag:"
+"\U0001F3F3️‍⚧️ Transgender Flag":
+  :url: https://emojipedia.org/transgender-flag/
+  :unicode:
+  - U+1F3F3
+  - U+FE0F
+  - U+200D
+  - U+26A7
+  - U+FE0F
+  :shortcodes:
+  - ":transgender_flag:"
+"\U0001F3F4‍☠️ Pirate Flag":
+  :url: https://emojipedia.org/pirate-flag/
+  :unicode:
+  - U+1F3F4
+  - U+200D
+  - U+2620
+  - U+FE0F
+  :shortcodes:
+  - ":pirate_flag:"
+"\U0001F1E6\U0001F1E8 Flag: Ascension Island":
+  :url: https://emojipedia.org/flag-ascension-island/
+  :unicode:
+  - U+1F1E6
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-ac:"
+  - ":ascension_island:"
+  - ":flag_ascension_island:"
+"\U0001F1E6\U0001F1E9 Flag: Andorra":
+  :url: https://emojipedia.org/flag-andorra/
+  :unicode:
+  - U+1F1E6
+  - U+1F1E9
+  :shortcodes:
+  - ":andorra:"
+  - ":flag-ad:"
+  - ":flag_andorra:"
+"\U0001F1E6\U0001F1EA Flag: United Arab Emirates":
+  :url: https://emojipedia.org/flag-united-arab-emirates/
+  :unicode:
+  - U+1F1E6
+  - U+1F1EA
+  :shortcodes:
+  - ":flag-ae:"
+  - ":united_arab_emirates:"
+  - ":flag_united_arab_emirates:"
+"\U0001F1E6\U0001F1EB Flag: Afghanistan":
+  :url: https://emojipedia.org/flag-afghanistan/
+  :unicode:
+  - U+1F1E6
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-af:"
+  - ":afghanistan:"
+  - ":flag_afghanistan:"
+"\U0001F1E6\U0001F1EC Flag: Antigua & Barbuda":
+  :url: https://emojipedia.org/flag-antigua-barbuda/
+  :unicode:
+  - U+1F1E6
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-ag:"
+  - ":antigua_barbuda:"
+  - ":flag_antigua_barbuda:"
+"\U0001F1E6\U0001F1EE Flag: Anguilla":
+  :url: https://emojipedia.org/flag-anguilla/
+  :unicode:
+  - U+1F1E6
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-ai:"
+  - ":anguilla:"
+  - ":flag_anguilla:"
+"\U0001F1E6\U0001F1F1 Flag: Albania":
+  :url: https://emojipedia.org/flag-albania/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F1
+  :shortcodes:
+  - ":albania:"
+  - ":flag-al:"
+  - ":flag_albania:"
+"\U0001F1E6\U0001F1F2 Flag: Armenia":
+  :url: https://emojipedia.org/flag-armenia/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F2
+  :shortcodes:
+  - ":armenia:"
+  - ":flag-am:"
+  - ":flag_armenia:"
+"\U0001F1E6\U0001F1F4 Flag: Angola":
+  :url: https://emojipedia.org/flag-angola/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F4
+  :shortcodes:
+  - ":angola:"
+  - ":flag-ao:"
+  - ":flag_angola:"
+"\U0001F1E6\U0001F1F6 Flag: Antarctica":
+  :url: https://emojipedia.org/flag-antarctica/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F6
+  :shortcodes:
+  - ":flag-aq:"
+  - ":antarctica:"
+  - ":flag_antarctica:"
+"\U0001F1E6\U0001F1F7 Flag: Argentina":
+  :url: https://emojipedia.org/flag-argentina/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F7
+  :shortcodes:
+  - ":flag-ar:"
+  - ":argentina:"
+  - ":flag_argentina:"
+"\U0001F1E6\U0001F1F8 Flag: American Samoa":
+  :url: https://emojipedia.org/flag-american-samoa/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-as:"
+  - ":american_samoa:"
+  - ":flag_american_samoa:"
+"\U0001F1E6\U0001F1F9 Flag: Austria":
+  :url: https://emojipedia.org/flag-austria/
+  :unicode:
+  - U+1F1E6
+  - U+1F1F9
+  :shortcodes:
+  - ":austria:"
+  - ":flag-at:"
+  - ":flag_austria:"
+"\U0001F1E6\U0001F1FA Flag: Australia":
+  :url: https://emojipedia.org/flag-australia/
+  :unicode:
+  - U+1F1E6
+  - U+1F1FA
+  :shortcodes:
+  - ":flag-au:"
+  - ":australia:"
+  - ":flag_australia:"
+"\U0001F1E6\U0001F1FC Flag: Aruba":
+  :url: https://emojipedia.org/flag-aruba/
+  :unicode:
+  - U+1F1E6
+  - U+1F1FC
+  :shortcodes:
+  - ":aruba:"
+  - ":flag-aw:"
+  - ":flag_aruba:"
+"\U0001F1E6\U0001F1FD Flag: Åland Islands":
+  :url: https://emojipedia.org/flag-aland-islands/
+  :unicode:
+  - U+1F1E6
+  - U+1F1FD
+  :shortcodes:
+  - ":flag-ax:"
+  - ":aland_islands:"
+  - ":flag_aland_islands:"
+"\U0001F1E6\U0001F1FF Flag: Azerbaijan":
+  :url: https://emojipedia.org/flag-azerbaijan/
+  :unicode:
+  - U+1F1E6
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-az:"
+  - ":azerbaijan:"
+  - ":flag_azerbaijan:"
+"\U0001F1E7\U0001F1E6 Flag: Bosnia & Herzegovina":
+  :url: https://emojipedia.org/flag-bosnia-herzegovina/
+  :unicode:
+  - U+1F1E7
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-ba:"
+  - ":bosnia_herzegovina:"
+  - ":flag_bosnia_herzegovina:"
+"\U0001F1E7\U0001F1E7 Flag: Barbados":
+  :url: https://emojipedia.org/flag-barbados/
+  :unicode:
+  - U+1F1E7
+  - U+1F1E7
+  :shortcodes:
+  - ":flag-bb:"
+  - ":barbados:"
+  - ":flag_barbados:"
+"\U0001F1E7\U0001F1E9 Flag: Bangladesh":
+  :url: https://emojipedia.org/flag-bangladesh/
+  :unicode:
+  - U+1F1E7
+  - U+1F1E9
+  :shortcodes:
+  - ":flag-bd:"
+  - ":bangladesh:"
+  - ":flag_bangladesh:"
+"\U0001F1E7\U0001F1EA Flag: Belgium":
+  :url: https://emojipedia.org/flag-belgium/
+  :unicode:
+  - U+1F1E7
+  - U+1F1EA
+  :shortcodes:
+  - ":belgium:"
+  - ":flag-be:"
+  - ":flag_belgium:"
+"\U0001F1E7\U0001F1EB Flag: Burkina Faso":
+  :url: https://emojipedia.org/flag-burkina-faso/
+  :unicode:
+  - U+1F1E7
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-bf:"
+  - ":burkina_faso:"
+  - ":flag_burkina_faso:"
+"\U0001F1E7\U0001F1EC Flag: Bulgaria":
+  :url: https://emojipedia.org/flag-bulgaria/
+  :unicode:
+  - U+1F1E7
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-bg:"
+  - ":bulgaria:"
+  - ":flag_bulgaria:"
+"\U0001F1E7\U0001F1ED Flag: Bahrain":
+  :url: https://emojipedia.org/flag-bahrain/
+  :unicode:
+  - U+1F1E7
+  - U+1F1ED
+  :shortcodes:
+  - ":bahrain:"
+  - ":flag-bh:"
+  - ":flag_bahrain:"
+"\U0001F1E7\U0001F1EE Flag: Burundi":
+  :url: https://emojipedia.org/flag-burundi/
+  :unicode:
+  - U+1F1E7
+  - U+1F1EE
+  :shortcodes:
+  - ":burundi:"
+  - ":flag-bi:"
+  - ":flag_burundi:"
+"\U0001F1E7\U0001F1EF Flag: Benin":
+  :url: https://emojipedia.org/flag-benin/
+  :unicode:
+  - U+1F1E7
+  - U+1F1EF
+  :shortcodes:
+  - ":benin:"
+  - ":flag-bj:"
+  - ":flag_benin:"
+"\U0001F1E7\U0001F1F1 Flag: St. Barthélemy":
+  :url: https://emojipedia.org/flag-st-barthelemy/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F1
+  :shortcodes:
+  - ":flag-bl:"
+  - ":st_barthelemy:"
+  - ":flag_st_barthelemy:"
+"\U0001F1E7\U0001F1F2 Flag: Bermuda":
+  :url: https://emojipedia.org/flag-bermuda/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F2
+  :shortcodes:
+  - ":bermuda:"
+  - ":flag-bm:"
+  - ":flag_bermuda:"
+"\U0001F1E7\U0001F1F3 Flag: Brunei":
+  :url: https://emojipedia.org/flag-brunei/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F3
+  :shortcodes:
+  - ":brunei:"
+  - ":flag-bn:"
+  - ":flag_brunei:"
+"\U0001F1E7\U0001F1F4 Flag: Bolivia":
+  :url: https://emojipedia.org/flag-bolivia/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F4
+  :shortcodes:
+  - ":bolivia:"
+  - ":flag-bo:"
+  - ":flag_bolivia:"
+"\U0001F1E7\U0001F1F6 Flag: Caribbean Netherlands":
+  :url: https://emojipedia.org/flag-caribbean-netherlands/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F6
+  :shortcodes:
+  - ":flag-bq:"
+  - ":caribbean_netherlands:"
+  - ":flag_caribbean_netherlands:"
+"\U0001F1E7\U0001F1F7 Flag: Brazil":
+  :url: https://emojipedia.org/flag-brazil/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F7
+  :shortcodes:
+  - ":brazil:"
+  - ":flag-br:"
+  - ":flag_brazil:"
+"\U0001F1E7\U0001F1F8 Flag: Bahamas":
+  :url: https://emojipedia.org/flag-bahamas/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F8
+  :shortcodes:
+  - ":bahamas:"
+  - ":flag-bs:"
+  - ":flag_bahamas:"
+"\U0001F1E7\U0001F1F9 Flag: Bhutan":
+  :url: https://emojipedia.org/flag-bhutan/
+  :unicode:
+  - U+1F1E7
+  - U+1F1F9
+  :shortcodes:
+  - ":bhutan:"
+  - ":flag-bt:"
+  - ":flag_bhutan:"
+"\U0001F1E7\U0001F1FB Flag: Bouvet Island":
+  :url: https://emojipedia.org/flag-bouvet-island/
+  :unicode:
+  - U+1F1E7
+  - U+1F1FB
+  :shortcodes:
+  - ":flag-bv:"
+  - ":bouvet_island:"
+  - ":flag_bouvet_island:"
+"\U0001F1E7\U0001F1FC Flag: Botswana":
+  :url: https://emojipedia.org/flag-botswana/
+  :unicode:
+  - U+1F1E7
+  - U+1F1FC
+  :shortcodes:
+  - ":flag-bw:"
+  - ":botswana:"
+  - ":flag_botswana:"
+"\U0001F1E7\U0001F1FE Flag: Belarus":
+  :url: https://emojipedia.org/flag-belarus/
+  :unicode:
+  - U+1F1E7
+  - U+1F1FE
+  :shortcodes:
+  - ":belarus:"
+  - ":flag-by:"
+  - ":flag_belarus:"
+"\U0001F1E7\U0001F1FF Flag: Belize":
+  :url: https://emojipedia.org/flag-belize/
+  :unicode:
+  - U+1F1E7
+  - U+1F1FF
+  :shortcodes:
+  - ":belize:"
+  - ":flag-bz:"
+  - ":flag_belize:"
+"\U0001F1E8\U0001F1E6 Flag: Canada":
+  :url: https://emojipedia.org/flag-canada/
+  :unicode:
+  - U+1F1E8
+  - U+1F1E6
+  :shortcodes:
+  - ":canada:"
+  - ":flag-ca:"
+  - ":flag_canada:"
+"\U0001F1E8\U0001F1E8 Flag: Cocos (Keeling) Islands":
+  :url: https://emojipedia.org/flag-cocos-keeling-islands/
+  :unicode:
+  - U+1F1E8
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-cc:"
+  - ":cocos_islands:"
+  - ":flag_cocos_keeling_islands:"
+"\U0001F1E8\U0001F1E9 Flag: Congo - Kinshasa":
+  :url: https://emojipedia.org/flag-congo-kinshasa/
+  :unicode:
+  - U+1F1E8
+  - U+1F1E9
+  :shortcodes:
+  - ":flag-cd:"
+  - ":congo_kinshasa:"
+  - ":flag_congo_kinshasa:"
+"\U0001F1E8\U0001F1EB Flag: Central African Republic":
+  :url: https://emojipedia.org/flag-central-african-republic/
+  :unicode:
+  - U+1F1E8
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-cf:"
+  - ":central_african_republic:"
+  - ":flag_central_african_republic:"
+"\U0001F1E8\U0001F1EC Flag: Congo - Brazzaville":
+  :url: https://emojipedia.org/flag-congo-brazzaville/
+  :unicode:
+  - U+1F1E8
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-cg:"
+  - ":congo_brazzaville:"
+  - ":flag_congo_brazzaville:"
+"\U0001F1E8\U0001F1ED Flag: Switzerland":
+  :url: https://emojipedia.org/flag-switzerland/
+  :unicode:
+  - U+1F1E8
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-ch:"
+  - ":switzerland:"
+  - ":flag_switzerland:"
+"\U0001F1E8\U0001F1EE Flag: Côte d’Ivoire":
+  :url: https://emojipedia.org/flag-cote-divoire/
+  :unicode:
+  - U+1F1E8
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-ci:"
+  - ":cote_divoire:"
+  - ":flag_cote_divoire:"
+"\U0001F1E8\U0001F1F0 Flag: Cook Islands":
+  :url: https://emojipedia.org/flag-cook-islands/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-ck:"
+  - ":cook_islands:"
+  - ":flag_cook_islands:"
+"\U0001F1E8\U0001F1F1 Flag: Chile":
+  :url: https://emojipedia.org/flag-chile/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F1
+  :shortcodes:
+  - ":chile:"
+  - ":flag-cl:"
+  - ":flag_chile:"
+"\U0001F1E8\U0001F1F2 Flag: Cameroon":
+  :url: https://emojipedia.org/flag-cameroon/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-cm:"
+  - ":cameroon:"
+  - ":flag_cameroon:"
+"\U0001F1E8\U0001F1F3 Flag: China":
+  :url: https://emojipedia.org/flag-china/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F3
+  :shortcodes:
+  - ":cn:"
+  - ":flag-cn:"
+  - ":flag_china:"
+"\U0001F1E8\U0001F1F4 Flag: Colombia":
+  :url: https://emojipedia.org/flag-colombia/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F4
+  :shortcodes:
+  - ":flag-co:"
+  - ":colombia:"
+  - ":flag_colombia:"
+"\U0001F1E8\U0001F1F5 Flag: Clipperton Island":
+  :url: https://emojipedia.org/flag-clipperton-island/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F5
+  :shortcodes:
+  - ":flag-cp:"
+  - ":clipperton_island:"
+  - ":flag_clipperton_island:"
+"\U0001F1E8\U0001F1F7 Flag: Costa Rica":
+  :url: https://emojipedia.org/flag-costa-rica/
+  :unicode:
+  - U+1F1E8
+  - U+1F1F7
+  :shortcodes:
+  - ":flag-cr:"
+  - ":costa_rica:"
+  - ":flag_costa_rica:"
+"\U0001F1E8\U0001F1FA Flag: Cuba":
+  :url: https://emojipedia.org/flag-cuba/
+  :unicode:
+  - U+1F1E8
+  - U+1F1FA
+  :shortcodes:
+  - ":cuba:"
+  - ":flag-cu:"
+  - ":flag_cuba:"
+"\U0001F1E8\U0001F1FB Flag: Cape Verde":
+  :url: https://emojipedia.org/flag-cape-verde/
+  :unicode:
+  - U+1F1E8
+  - U+1F1FB
+  :shortcodes:
+  - ":flag-cv:"
+  - ":cape_verde:"
+  - ":flag_cape_verde:"
+"\U0001F1E8\U0001F1FC Flag: Curaçao":
+  :url: https://emojipedia.org/flag-curacao/
+  :unicode:
+  - U+1F1E8
+  - U+1F1FC
+  :shortcodes:
+  - ":curacao:"
+  - ":flag-cw:"
+  - ":flag_curacao:"
+"\U0001F1E8\U0001F1FD Flag: Christmas Island":
+  :url: https://emojipedia.org/flag-christmas-island/
+  :unicode:
+  - U+1F1E8
+  - U+1F1FD
+  :shortcodes:
+  - ":flag-cx:"
+  - ":christmas_island:"
+  - ":flag_christmas_island:"
+"\U0001F1E8\U0001F1FE Flag: Cyprus":
+  :url: https://emojipedia.org/flag-cyprus/
+  :unicode:
+  - U+1F1E8
+  - U+1F1FE
+  :shortcodes:
+  - ":cyprus:"
+  - ":flag-cy:"
+  - ":flag_cyprus:"
+"\U0001F1E8\U0001F1FF Flag: Czechia":
+  :url: https://emojipedia.org/flag-czechia/
+  :unicode:
+  - U+1F1E8
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-cz:"
+  - ":flag_czechia:"
+  - ":czech_republic:"
+"\U0001F1E9\U0001F1EA Flag: Germany":
+  :url: https://emojipedia.org/flag-germany/
+  :unicode:
+  - U+1F1E9
+  - U+1F1EA
+  :shortcodes:
+  - ":de:"
+  - ":flag-de:"
+  - ":flag_germany:"
+"\U0001F1E9\U0001F1EC Flag: Diego Garcia":
+  :url: https://emojipedia.org/flag-diego-garcia/
+  :unicode:
+  - U+1F1E9
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-dg:"
+  - ":diego_garcia:"
+  - ":flag_diego_garcia:"
+"\U0001F1E9\U0001F1EF Flag: Djibouti":
+  :url: https://emojipedia.org/flag-djibouti/
+  :unicode:
+  - U+1F1E9
+  - U+1F1EF
+  :shortcodes:
+  - ":flag-dj:"
+  - ":djibouti:"
+  - ":flag_djibouti:"
+"\U0001F1E9\U0001F1F0 Flag: Denmark":
+  :url: https://emojipedia.org/flag-denmark/
+  :unicode:
+  - U+1F1E9
+  - U+1F1F0
+  :shortcodes:
+  - ":denmark:"
+  - ":flag-dk:"
+  - ":flag_denmark:"
+"\U0001F1E9\U0001F1F2 Flag: Dominica":
+  :url: https://emojipedia.org/flag-dominica/
+  :unicode:
+  - U+1F1E9
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-dm:"
+  - ":dominica:"
+  - ":flag_dominica:"
+"\U0001F1E9\U0001F1F4 Flag: Dominican Republic":
+  :url: https://emojipedia.org/flag-dominican-republic/
+  :unicode:
+  - U+1F1E9
+  - U+1F1F4
+  :shortcodes:
+  - ":flag-do:"
+  - ":dominican_republic:"
+  - ":flag_dominican_republic:"
+"\U0001F1E9\U0001F1FF Flag: Algeria":
+  :url: https://emojipedia.org/flag-algeria/
+  :unicode:
+  - U+1F1E9
+  - U+1F1FF
+  :shortcodes:
+  - ":algeria:"
+  - ":flag-dz:"
+  - ":flag_algeria:"
+"\U0001F1EA\U0001F1E6 Flag: Ceuta & Melilla":
+  :url: https://emojipedia.org/flag-ceuta-melilla/
+  :unicode:
+  - U+1F1EA
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-ea:"
+  - ":ceuta_melilla:"
+  - ":flag_ceuta_melilla:"
+"\U0001F1EA\U0001F1E8 Flag: Ecuador":
+  :url: https://emojipedia.org/flag-ecuador/
+  :unicode:
+  - U+1F1EA
+  - U+1F1E8
+  :shortcodes:
+  - ":ecuador:"
+  - ":flag-ec:"
+  - ":flag_ecuador:"
+"\U0001F1EA\U0001F1EA Flag: Estonia":
+  :url: https://emojipedia.org/flag-estonia/
+  :unicode:
+  - U+1F1EA
+  - U+1F1EA
+  :shortcodes:
+  - ":estonia:"
+  - ":flag-ee:"
+  - ":flag_estonia:"
+"\U0001F1EA\U0001F1EC Flag: Egypt":
+  :url: https://emojipedia.org/flag-egypt/
+  :unicode:
+  - U+1F1EA
+  - U+1F1EC
+  :shortcodes:
+  - ":egypt:"
+  - ":flag-eg:"
+  - ":flag_egypt:"
+"\U0001F1EA\U0001F1ED Flag: Western Sahara":
+  :url: https://emojipedia.org/flag-western-sahara/
+  :unicode:
+  - U+1F1EA
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-eh:"
+  - ":western_sahara:"
+  - ":flag_western_sahara:"
+"\U0001F1EA\U0001F1F7 Flag: Eritrea":
+  :url: https://emojipedia.org/flag-eritrea/
+  :unicode:
+  - U+1F1EA
+  - U+1F1F7
+  :shortcodes:
+  - ":eritrea:"
+  - ":flag-er:"
+  - ":flag_eritrea:"
+"\U0001F1EA\U0001F1F8 Flag: Spain":
+  :url: https://emojipedia.org/flag-spain/
+  :unicode:
+  - U+1F1EA
+  - U+1F1F8
+  :shortcodes:
+  - ":es:"
+  - ":flag-es:"
+  - ":flag_spain:"
+"\U0001F1EA\U0001F1F9 Flag: Ethiopia":
+  :url: https://emojipedia.org/flag-ethiopia/
+  :unicode:
+  - U+1F1EA
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-et:"
+  - ":ethiopia:"
+  - ":flag_ethiopia:"
+"\U0001F1EA\U0001F1FA Flag: European Union":
+  :url: https://emojipedia.org/flag-european-union/
+  :unicode:
+  - U+1F1EA
+  - U+1F1FA
+  :shortcodes:
+  - ":eu:"
+  - ":flag-eu:"
+  - ":european_union:"
+  - ":flag_european_union:"
+"\U0001F1EB\U0001F1EE Flag: Finland":
+  :url: https://emojipedia.org/flag-finland/
+  :unicode:
+  - U+1F1EB
+  - U+1F1EE
+  :shortcodes:
+  - ":finland:"
+  - ":flag-fi:"
+  - ":flag_finland:"
+"\U0001F1EB\U0001F1EF Flag: Fiji":
+  :url: https://emojipedia.org/flag-fiji/
+  :unicode:
+  - U+1F1EB
+  - U+1F1EF
+  :shortcodes:
+  - ":fiji:"
+  - ":flag-fj:"
+  - ":flag_fiji:"
+"\U0001F1EB\U0001F1F0 Flag: Falkland Islands":
+  :url: https://emojipedia.org/flag-falkland-islands/
+  :unicode:
+  - U+1F1EB
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-fk:"
+  - ":falkland_islands:"
+  - ":flag_falkland_islands:"
+"\U0001F1EB\U0001F1F2 Flag: Micronesia":
+  :url: https://emojipedia.org/flag-micronesia/
+  :unicode:
+  - U+1F1EB
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-fm:"
+  - ":micronesia:"
+  - ":flag_micronesia:"
+"\U0001F1EB\U0001F1F4 Flag: Faroe Islands":
+  :url: https://emojipedia.org/flag-faroe-islands/
+  :unicode:
+  - U+1F1EB
+  - U+1F1F4
+  :shortcodes:
+  - ":flag-fo:"
+  - ":faroe_islands:"
+  - ":flag_faroe_islands:"
+"\U0001F1EB\U0001F1F7 Flag: France":
+  :url: https://emojipedia.org/flag-france/
+  :unicode:
+  - U+1F1EB
+  - U+1F1F7
+  :shortcodes:
+  - ":fr:"
+  - ":flag-fr:"
+  - ":flag_france:"
+"\U0001F1EC\U0001F1E6 Flag: Gabon":
+  :url: https://emojipedia.org/flag-gabon/
+  :unicode:
+  - U+1F1EC
+  - U+1F1E6
+  :shortcodes:
+  - ":gabon:"
+  - ":flag-ga:"
+  - ":flag_gabon:"
+"\U0001F1EC\U0001F1E7 Flag: United Kingdom":
+  :url: https://emojipedia.org/flag-united-kingdom/
+  :unicode:
+  - U+1F1EC
+  - U+1F1E7
+  :shortcodes:
+  - ":gb:"
+  - ":uk:"
+  - ":flag-gb:"
+  - ":flag_united_kingdom:"
+"\U0001F1EC\U0001F1E9 Flag: Grenada":
+  :url: https://emojipedia.org/flag-grenada/
+  :unicode:
+  - U+1F1EC
+  - U+1F1E9
+  :shortcodes:
+  - ":flag-gd:"
+  - ":grenada:"
+  - ":flag_grenada:"
+"\U0001F1EC\U0001F1EA Flag: Georgia":
+  :url: https://emojipedia.org/flag-georgia/
+  :unicode:
+  - U+1F1EC
+  - U+1F1EA
+  :shortcodes:
+  - ":flag-ge:"
+  - ":georgia:"
+  - ":flag_georgia:"
+"\U0001F1EC\U0001F1EB Flag: French Guiana":
+  :url: https://emojipedia.org/flag-french-guiana/
+  :unicode:
+  - U+1F1EC
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-gf:"
+  - ":french_guiana:"
+  - ":flag_french_guiana:"
+"\U0001F1EC\U0001F1EC Flag: Guernsey":
+  :url: https://emojipedia.org/flag-guernsey/
+  :unicode:
+  - U+1F1EC
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-gg:"
+  - ":guernsey:"
+  - ":flag_guernsey:"
+"\U0001F1EC\U0001F1ED Flag: Ghana":
+  :url: https://emojipedia.org/flag-ghana/
+  :unicode:
+  - U+1F1EC
+  - U+1F1ED
+  :shortcodes:
+  - ":ghana:"
+  - ":flag-gh:"
+  - ":flag_ghana:"
+"\U0001F1EC\U0001F1EE Flag: Gibraltar":
+  :url: https://emojipedia.org/flag-gibraltar/
+  :unicode:
+  - U+1F1EC
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-gi:"
+  - ":gibraltar:"
+  - ":flag_gibraltar:"
+"\U0001F1EC\U0001F1F1 Flag: Greenland":
+  :url: https://emojipedia.org/flag-greenland/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F1
+  :shortcodes:
+  - ":flag-gl:"
+  - ":greenland:"
+  - ":flag_greenland:"
+"\U0001F1EC\U0001F1F2 Flag: Gambia":
+  :url: https://emojipedia.org/flag-gambia/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F2
+  :shortcodes:
+  - ":gambia:"
+  - ":flag-gm:"
+  - ":flag_gambia:"
+"\U0001F1EC\U0001F1F3 Flag: Guinea":
+  :url: https://emojipedia.org/flag-guinea/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F3
+  :shortcodes:
+  - ":guinea:"
+  - ":flag-gn:"
+  - ":flag_guinea:"
+"\U0001F1EC\U0001F1F5 Flag: Guadeloupe":
+  :url: https://emojipedia.org/flag-guadeloupe/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F5
+  :shortcodes:
+  - ":flag-gp:"
+  - ":guadeloupe:"
+  - ":flag_guadeloupe:"
+"\U0001F1EC\U0001F1F6 Flag: Equatorial Guinea":
+  :url: https://emojipedia.org/flag-equatorial-guinea/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F6
+  :shortcodes:
+  - ":flag-gq:"
+  - ":equatorial_guinea:"
+  - ":flag_equatorial_guinea:"
+"\U0001F1EC\U0001F1F7 Flag: Greece":
+  :url: https://emojipedia.org/flag-greece/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F7
+  :shortcodes:
+  - ":greece:"
+  - ":flag-gr:"
+  - ":flag_greece:"
+"\U0001F1EC\U0001F1F8 Flag: South Georgia & South Sandwich Islands":
+  :url: https://emojipedia.org/flag-south-georgia-south-sandwich-islands/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-gs:"
+  - ":south_georgia_south_sandwich_islands:"
+  - ":flag_south_georgia_south_sandwich_islands:"
+"\U0001F1EC\U0001F1F9 Flag: Guatemala":
+  :url: https://emojipedia.org/flag-guatemala/
+  :unicode:
+  - U+1F1EC
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-gt:"
+  - ":guatemala:"
+  - ":flag_guatemala:"
+"\U0001F1EC\U0001F1FA Flag: Guam":
+  :url: https://emojipedia.org/flag-guam/
+  :unicode:
+  - U+1F1EC
+  - U+1F1FA
+  :shortcodes:
+  - ":guam:"
+  - ":flag-gu:"
+  - ":flag_guam:"
+"\U0001F1EC\U0001F1FC Flag: Guinea-Bissau":
+  :url: https://emojipedia.org/flag-guinea-bissau/
+  :unicode:
+  - U+1F1EC
+  - U+1F1FC
+  :shortcodes:
+  - ":flag-gw:"
+  - ":guinea_bissau:"
+  - ":flag_guinea_bissau:"
+"\U0001F1EC\U0001F1FE Flag: Guyana":
+  :url: https://emojipedia.org/flag-guyana/
+  :unicode:
+  - U+1F1EC
+  - U+1F1FE
+  :shortcodes:
+  - ":guyana:"
+  - ":flag-gy:"
+  - ":flag_guyana:"
+"\U0001F1ED\U0001F1F0 Flag: Hong Kong SAR China":
+  :url: https://emojipedia.org/flag-hong-kong-sar-china/
+  :unicode:
+  - U+1F1ED
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-hk:"
+  - ":hong_kong:"
+  - ":flag_hong_kong_sar_china:"
+"\U0001F1ED\U0001F1F2 Flag: Heard & McDonald Islands":
+  :url: https://emojipedia.org/flag-heard-mcdonald-islands/
+  :unicode:
+  - U+1F1ED
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-hm:"
+  - ":heard_mcdonald_islands:"
+  - ":flag_heard_mcdonald_islands:"
+"\U0001F1ED\U0001F1F3 Flag: Honduras":
+  :url: https://emojipedia.org/flag-honduras/
+  :unicode:
+  - U+1F1ED
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-hn:"
+  - ":honduras:"
+  - ":flag_honduras:"
+"\U0001F1ED\U0001F1F7 Flag: Croatia":
+  :url: https://emojipedia.org/flag-croatia/
+  :unicode:
+  - U+1F1ED
+  - U+1F1F7
+  :shortcodes:
+  - ":croatia:"
+  - ":flag-hr:"
+  - ":flag_croatia:"
+"\U0001F1ED\U0001F1F9 Flag: Haiti":
+  :url: https://emojipedia.org/flag-haiti/
+  :unicode:
+  - U+1F1ED
+  - U+1F1F9
+  :shortcodes:
+  - ":haiti:"
+  - ":flag-ht:"
+  - ":flag_haiti:"
+"\U0001F1ED\U0001F1FA Flag: Hungary":
+  :url: https://emojipedia.org/flag-hungary/
+  :unicode:
+  - U+1F1ED
+  - U+1F1FA
+  :shortcodes:
+  - ":flag-hu:"
+  - ":hungary:"
+  - ":flag_hungary:"
+"\U0001F1EE\U0001F1E8 Flag: Canary Islands":
+  :url: https://emojipedia.org/flag-canary-islands/
+  :unicode:
+  - U+1F1EE
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-ic:"
+  - ":canary_islands:"
+  - ":flag_canary_islands:"
+"\U0001F1EE\U0001F1E9 Flag: Indonesia":
+  :url: https://emojipedia.org/flag-indonesia/
+  :unicode:
+  - U+1F1EE
+  - U+1F1E9
+  :shortcodes:
+  - ":flag-id:"
+  - ":indonesia:"
+  - ":flag_indonesia:"
+"\U0001F1EE\U0001F1EA Flag: Ireland":
+  :url: https://emojipedia.org/flag-ireland/
+  :unicode:
+  - U+1F1EE
+  - U+1F1EA
+  :shortcodes:
+  - ":flag-ie:"
+  - ":ireland:"
+  - ":flag_ireland:"
+"\U0001F1EE\U0001F1F1 Flag: Israel":
+  :url: https://emojipedia.org/flag-israel/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F1
+  :shortcodes:
+  - ":israel:"
+  - ":flag-il:"
+  - ":flag_israel:"
+"\U0001F1EE\U0001F1F2 Flag: Isle of Man":
+  :url: https://emojipedia.org/flag-isle-of-man/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-im:"
+  - ":isle_of_man:"
+  - ":flag_isle_of_man:"
+"\U0001F1EE\U0001F1F3 Flag: India":
+  :url: https://emojipedia.org/flag-india/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F3
+  :shortcodes:
+  - ":india:"
+  - ":flag-in:"
+  - ":flag_india:"
+"\U0001F1EE\U0001F1F4 Flag: British Indian Ocean Territory":
+  :url: https://emojipedia.org/flag-british-indian-ocean-territory/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F4
+  :shortcodes:
+  - ":flag-io:"
+  - ":british_indian_ocean_territory:"
+  - ":flag_british_indian_ocean_territory:"
+"\U0001F1EE\U0001F1F6 Flag: Iraq":
+  :url: https://emojipedia.org/flag-iraq/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F6
+  :shortcodes:
+  - ":iraq:"
+  - ":flag-iq:"
+  - ":flag_iraq:"
+"\U0001F1EE\U0001F1F7 Flag: Iran":
+  :url: https://emojipedia.org/flag-iran/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F7
+  :shortcodes:
+  - ":iran:"
+  - ":flag-ir:"
+  - ":flag_iran:"
+"\U0001F1EE\U0001F1F8 Flag: Iceland":
+  :url: https://emojipedia.org/flag-iceland/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-is:"
+  - ":iceland:"
+  - ":flag_iceland:"
+"\U0001F1EE\U0001F1F9 Flag: Italy":
+  :url: https://emojipedia.org/flag-italy/
+  :unicode:
+  - U+1F1EE
+  - U+1F1F9
+  :shortcodes:
+  - ":it:"
+  - ":flag-it:"
+  - ":flag_italy:"
+"\U0001F1EF\U0001F1EA Flag: Jersey":
+  :url: https://emojipedia.org/flag-jersey/
+  :unicode:
+  - U+1F1EF
+  - U+1F1EA
+  :shortcodes:
+  - ":jersey:"
+  - ":flag-je:"
+  - ":flag_jersey:"
+"\U0001F1EF\U0001F1F2 Flag: Jamaica":
+  :url: https://emojipedia.org/flag-jamaica/
+  :unicode:
+  - U+1F1EF
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-jm:"
+  - ":jamaica:"
+  - ":flag_jamaica:"
+"\U0001F1EF\U0001F1F4 Flag: Jordan":
+  :url: https://emojipedia.org/flag-jordan/
+  :unicode:
+  - U+1F1EF
+  - U+1F1F4
+  :shortcodes:
+  - ":jordan:"
+  - ":flag-jo:"
+  - ":flag_jordan:"
+"\U0001F1EF\U0001F1F5 Flag: Japan":
+  :url: https://emojipedia.org/flag-japan/
+  :unicode:
+  - U+1F1EF
+  - U+1F1F5
+  :shortcodes:
+  - ":jp:"
+  - ":flag-jp:"
+  - ":flag_japan:"
+"\U0001F1F0\U0001F1EA Flag: Kenya":
+  :url: https://emojipedia.org/flag-kenya/
+  :unicode:
+  - U+1F1F0
+  - U+1F1EA
+  :shortcodes:
+  - ":kenya:"
+  - ":flag-ke:"
+  - ":flag_kenya:"
+"\U0001F1F0\U0001F1EC Flag: Kyrgyzstan":
+  :url: https://emojipedia.org/flag-kyrgyzstan/
+  :unicode:
+  - U+1F1F0
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-kg:"
+  - ":kyrgyzstan:"
+  - ":flag_kyrgyzstan:"
+"\U0001F1F0\U0001F1ED Flag: Cambodia":
+  :url: https://emojipedia.org/flag-cambodia/
+  :unicode:
+  - U+1F1F0
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-kh:"
+  - ":cambodia:"
+  - ":flag_cambodia:"
+"\U0001F1F0\U0001F1EE Flag: Kiribati":
+  :url: https://emojipedia.org/flag-kiribati/
+  :unicode:
+  - U+1F1F0
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-ki:"
+  - ":kiribati:"
+  - ":flag_kiribati:"
+"\U0001F1F0\U0001F1F2 Flag: Comoros":
+  :url: https://emojipedia.org/flag-comoros/
+  :unicode:
+  - U+1F1F0
+  - U+1F1F2
+  :shortcodes:
+  - ":comoros:"
+  - ":flag-km:"
+  - ":flag_comoros:"
+"\U0001F1F0\U0001F1F3 Flag: St. Kitts & Nevis":
+  :url: https://emojipedia.org/flag-st-kitts-nevis/
+  :unicode:
+  - U+1F1F0
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-kn:"
+  - ":st_kitts_nevis:"
+  - ":flag_st_kitts_nevis:"
+"\U0001F1F0\U0001F1F5 Flag: North Korea":
+  :url: https://emojipedia.org/flag-north-korea/
+  :unicode:
+  - U+1F1F0
+  - U+1F1F5
+  :shortcodes:
+  - ":flag-kp:"
+  - ":north_korea:"
+  - ":flag_north_korea:"
+"\U0001F1F0\U0001F1F7 Flag: South Korea":
+  :url: https://emojipedia.org/flag-south-korea/
+  :unicode:
+  - U+1F1F0
+  - U+1F1F7
+  :shortcodes:
+  - ":kr:"
+  - ":flag-kr:"
+  - ":flag_south_korea:"
+"\U0001F1F0\U0001F1FC Flag: Kuwait":
+  :url: https://emojipedia.org/flag-kuwait/
+  :unicode:
+  - U+1F1F0
+  - U+1F1FC
+  :shortcodes:
+  - ":kuwait:"
+  - ":flag-kw:"
+  - ":flag_kuwait:"
+"\U0001F1F0\U0001F1FE Flag: Cayman Islands":
+  :url: https://emojipedia.org/flag-cayman-islands/
+  :unicode:
+  - U+1F1F0
+  - U+1F1FE
+  :shortcodes:
+  - ":flag-ky:"
+  - ":cayman_islands:"
+  - ":flag_cayman_islands:"
+"\U0001F1F0\U0001F1FF Flag: Kazakhstan":
+  :url: https://emojipedia.org/flag-kazakhstan/
+  :unicode:
+  - U+1F1F0
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-kz:"
+  - ":kazakhstan:"
+  - ":flag_kazakhstan:"
+"\U0001F1F1\U0001F1E6 Flag: Laos":
+  :url: https://emojipedia.org/flag-laos/
+  :unicode:
+  - U+1F1F1
+  - U+1F1E6
+  :shortcodes:
+  - ":laos:"
+  - ":flag-la:"
+  - ":flag_laos:"
+"\U0001F1F1\U0001F1E7 Flag: Lebanon":
+  :url: https://emojipedia.org/flag-lebanon/
+  :unicode:
+  - U+1F1F1
+  - U+1F1E7
+  :shortcodes:
+  - ":flag-lb:"
+  - ":lebanon:"
+  - ":flag_lebanon:"
+"\U0001F1F1\U0001F1E8 Flag: St. Lucia":
+  :url: https://emojipedia.org/flag-st-lucia/
+  :unicode:
+  - U+1F1F1
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-lc:"
+  - ":st_lucia:"
+  - ":flag_st_lucia:"
+"\U0001F1F1\U0001F1EE Flag: Liechtenstein":
+  :url: https://emojipedia.org/flag-liechtenstein/
+  :unicode:
+  - U+1F1F1
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-li:"
+  - ":liechtenstein:"
+  - ":flag_liechtenstein:"
+"\U0001F1F1\U0001F1F0 Flag: Sri Lanka":
+  :url: https://emojipedia.org/flag-sri-lanka/
+  :unicode:
+  - U+1F1F1
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-lk:"
+  - ":sri_lanka:"
+  - ":flag_sri_lanka:"
+"\U0001F1F1\U0001F1F7 Flag: Liberia":
+  :url: https://emojipedia.org/flag-liberia/
+  :unicode:
+  - U+1F1F1
+  - U+1F1F7
+  :shortcodes:
+  - ":flag-lr:"
+  - ":liberia:"
+  - ":flag_liberia:"
+"\U0001F1F1\U0001F1F8 Flag: Lesotho":
+  :url: https://emojipedia.org/flag-lesotho/
+  :unicode:
+  - U+1F1F1
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-ls:"
+  - ":lesotho:"
+  - ":flag_lesotho:"
+"\U0001F1F1\U0001F1F9 Flag: Lithuania":
+  :url: https://emojipedia.org/flag-lithuania/
+  :unicode:
+  - U+1F1F1
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-lt:"
+  - ":lithuania:"
+  - ":flag_lithuania:"
+"\U0001F1F1\U0001F1FA Flag: Luxembourg":
+  :url: https://emojipedia.org/flag-luxembourg/
+  :unicode:
+  - U+1F1F1
+  - U+1F1FA
+  :shortcodes:
+  - ":flag-lu:"
+  - ":luxembourg:"
+  - ":flag_luxembourg:"
+"\U0001F1F1\U0001F1FB Flag: Latvia":
+  :url: https://emojipedia.org/flag-latvia/
+  :unicode:
+  - U+1F1F1
+  - U+1F1FB
+  :shortcodes:
+  - ":latvia:"
+  - ":flag-lv:"
+  - ":flag_latvia:"
+"\U0001F1F1\U0001F1FE Flag: Libya":
+  :url: https://emojipedia.org/flag-libya/
+  :unicode:
+  - U+1F1F1
+  - U+1F1FE
+  :shortcodes:
+  - ":libya:"
+  - ":flag-ly:"
+  - ":flag_libya:"
+"\U0001F1F2\U0001F1E6 Flag: Morocco":
+  :url: https://emojipedia.org/flag-morocco/
+  :unicode:
+  - U+1F1F2
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-ma:"
+  - ":morocco:"
+  - ":flag_morocco:"
+"\U0001F1F2\U0001F1E8 Flag: Monaco":
+  :url: https://emojipedia.org/flag-monaco/
+  :unicode:
+  - U+1F1F2
+  - U+1F1E8
+  :shortcodes:
+  - ":monaco:"
+  - ":flag-mc:"
+  - ":flag_monaco:"
+"\U0001F1F2\U0001F1E9 Flag: Moldova":
+  :url: https://emojipedia.org/flag-moldova/
+  :unicode:
+  - U+1F1F2
+  - U+1F1E9
+  :shortcodes:
+  - ":flag-md:"
+  - ":moldova:"
+  - ":flag_moldova:"
+"\U0001F1F2\U0001F1EA Flag: Montenegro":
+  :url: https://emojipedia.org/flag-montenegro/
+  :unicode:
+  - U+1F1F2
+  - U+1F1EA
+  :shortcodes:
+  - ":flag-me:"
+  - ":montenegro:"
+  - ":flag_montenegro:"
+"\U0001F1F2\U0001F1EB Flag: St. Martin":
+  :url: https://emojipedia.org/flag-st-martin/
+  :unicode:
+  - U+1F1F2
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-mf:"
+  - ":st_martin:"
+  - ":flag_st_martin:"
+"\U0001F1F2\U0001F1EC Flag: Madagascar":
+  :url: https://emojipedia.org/flag-madagascar/
+  :unicode:
+  - U+1F1F2
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-mg:"
+  - ":madagascar:"
+  - ":flag_madagascar:"
+"\U0001F1F2\U0001F1ED Flag: Marshall Islands":
+  :url: https://emojipedia.org/flag-marshall-islands/
+  :unicode:
+  - U+1F1F2
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-mh:"
+  - ":marshall_islands:"
+  - ":flag_marshall_islands:"
+"\U0001F1F2\U0001F1F0 Flag: North Macedonia":
+  :url: https://emojipedia.org/flag-north-macedonia/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-mk:"
+  - ":macedonia:"
+  - ":flag_north_macedonia:"
+"\U0001F1F2\U0001F1F1 Flag: Mali":
+  :url: https://emojipedia.org/flag-mali/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F1
+  :shortcodes:
+  - ":mali:"
+  - ":flag-ml:"
+  - ":flag_mali:"
+"\U0001F1F2\U0001F1F2 Flag: Myanmar (Burma)":
+  :url: https://emojipedia.org/flag-myanmar-burma/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-mm:"
+  - ":myanmar:"
+  - ":flag_myanmar_burma_:"
+"\U0001F1F2\U0001F1F3 Flag: Mongolia":
+  :url: https://emojipedia.org/flag-mongolia/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-mn:"
+  - ":mongolia:"
+  - ":flag_mongolia:"
+"\U0001F1F2\U0001F1F4 Flag: Macao Sar China":
+  :url: https://emojipedia.org/flag-macao-sar-china/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F4
+  :shortcodes:
+  - ":macau:"
+  - ":flag-mo:"
+  - ":flag_macao_sar_china:"
+"\U0001F1F2\U0001F1F5 Flag: Northern Mariana Islands":
+  :url: https://emojipedia.org/flag-northern-mariana-islands/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F5
+  :shortcodes:
+  - ":flag-mp:"
+  - ":northern_mariana_islands:"
+  - ":flag_northern_mariana_islands:"
+"\U0001F1F2\U0001F1F6 Flag: Martinique":
+  :url: https://emojipedia.org/flag-martinique/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F6
+  :shortcodes:
+  - ":flag-mq:"
+  - ":martinique:"
+  - ":flag_martinique:"
+"\U0001F1F2\U0001F1F7 Flag: Mauritania":
+  :url: https://emojipedia.org/flag-mauritania/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F7
+  :shortcodes:
+  - ":flag-mr:"
+  - ":mauritania:"
+  - ":flag_mauritania:"
+"\U0001F1F2\U0001F1F8 Flag: Montserrat":
+  :url: https://emojipedia.org/flag-montserrat/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-ms:"
+  - ":montserrat:"
+  - ":flag_montserrat:"
+"\U0001F1F2\U0001F1F9 Flag: Malta":
+  :url: https://emojipedia.org/flag-malta/
+  :unicode:
+  - U+1F1F2
+  - U+1F1F9
+  :shortcodes:
+  - ":malta:"
+  - ":flag-mt:"
+  - ":flag_malta:"
+"\U0001F1F2\U0001F1FA Flag: Mauritius":
+  :url: https://emojipedia.org/flag-mauritius/
+  :unicode:
+  - U+1F1F2
+  - U+1F1FA
+  :shortcodes:
+  - ":flag-mu:"
+  - ":mauritius:"
+  - ":flag_mauritius:"
+"\U0001F1F2\U0001F1FB Flag: Maldives":
+  :url: https://emojipedia.org/flag-maldives/
+  :unicode:
+  - U+1F1F2
+  - U+1F1FB
+  :shortcodes:
+  - ":flag-mv:"
+  - ":maldives:"
+  - ":flag_maldives:"
+"\U0001F1F2\U0001F1FC Flag: Malawi":
+  :url: https://emojipedia.org/flag-malawi/
+  :unicode:
+  - U+1F1F2
+  - U+1F1FC
+  :shortcodes:
+  - ":malawi:"
+  - ":flag-mw:"
+  - ":flag_malawi:"
+"\U0001F1F2\U0001F1FD Flag: Mexico":
+  :url: https://emojipedia.org/flag-mexico/
+  :unicode:
+  - U+1F1F2
+  - U+1F1FD
+  :shortcodes:
+  - ":mexico:"
+  - ":flag-mx:"
+  - ":flag_mexico:"
+"\U0001F1F2\U0001F1FE Flag: Malaysia":
+  :url: https://emojipedia.org/flag-malaysia/
+  :unicode:
+  - U+1F1F2
+  - U+1F1FE
+  :shortcodes:
+  - ":flag-my:"
+  - ":malaysia:"
+  - ":flag_malaysia:"
+"\U0001F1F2\U0001F1FF Flag: Mozambique":
+  :url: https://emojipedia.org/flag-mozambique/
+  :unicode:
+  - U+1F1F2
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-mz:"
+  - ":mozambique:"
+  - ":flag_mozambique:"
+"\U0001F1F3\U0001F1E6 Flag: Namibia":
+  :url: https://emojipedia.org/flag-namibia/
+  :unicode:
+  - U+1F1F3
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-na:"
+  - ":namibia:"
+  - ":flag_namibia:"
+"\U0001F1F3\U0001F1E8 Flag: New Caledonia":
+  :url: https://emojipedia.org/flag-new-caledonia/
+  :unicode:
+  - U+1F1F3
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-nc:"
+  - ":new_caledonia:"
+  - ":flag_new_caledonia:"
+"\U0001F1F3\U0001F1EA Flag: Niger":
+  :url: https://emojipedia.org/flag-niger/
+  :unicode:
+  - U+1F1F3
+  - U+1F1EA
+  :shortcodes:
+  - ":niger:"
+  - ":flag-ne:"
+  - ":flag_niger:"
+"\U0001F1F3\U0001F1EB Flag: Norfolk Island":
+  :url: https://emojipedia.org/flag-norfolk-island/
+  :unicode:
+  - U+1F1F3
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-nf:"
+  - ":norfolk_island:"
+  - ":flag_norfolk_island:"
+"\U0001F1F3\U0001F1EC Flag: Nigeria":
+  :url: https://emojipedia.org/flag-nigeria/
+  :unicode:
+  - U+1F1F3
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-ng:"
+  - ":nigeria:"
+  - ":flag_nigeria:"
+"\U0001F1F3\U0001F1EE Flag: Nicaragua":
+  :url: https://emojipedia.org/flag-nicaragua/
+  :unicode:
+  - U+1F1F3
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-ni:"
+  - ":nicaragua:"
+  - ":flag_nicaragua:"
+"\U0001F1F3\U0001F1F1 Flag: Netherlands":
+  :url: https://emojipedia.org/flag-netherlands/
+  :unicode:
+  - U+1F1F3
+  - U+1F1F1
+  :shortcodes:
+  - ":flag-nl:"
+  - ":netherlands:"
+  - ":flag_netherlands:"
+"\U0001F1F3\U0001F1F4 Flag: Norway":
+  :url: https://emojipedia.org/flag-norway/
+  :unicode:
+  - U+1F1F3
+  - U+1F1F4
+  :shortcodes:
+  - ":norway:"
+  - ":flag-no:"
+  - ":flag_norway:"
+"\U0001F1F3\U0001F1F5 Flag: Nepal":
+  :url: https://emojipedia.org/flag-nepal/
+  :unicode:
+  - U+1F1F3
+  - U+1F1F5
+  :shortcodes:
+  - ":nepal:"
+  - ":flag-np:"
+  - ":flag_nepal:"
+"\U0001F1F3\U0001F1F7 Flag: Nauru":
+  :url: https://emojipedia.org/flag-nauru/
+  :unicode:
+  - U+1F1F3
+  - U+1F1F7
+  :shortcodes:
+  - ":nauru:"
+  - ":flag-nr:"
+  - ":flag_nauru:"
+"\U0001F1F3\U0001F1FA Flag: Niue":
+  :url: https://emojipedia.org/flag-niue/
+  :unicode:
+  - U+1F1F3
+  - U+1F1FA
+  :shortcodes:
+  - ":niue:"
+  - ":flag-nu:"
+  - ":flag_niue:"
+"\U0001F1F3\U0001F1FF Flag: New Zealand":
+  :url: https://emojipedia.org/flag-new-zealand/
+  :unicode:
+  - U+1F1F3
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-nz:"
+  - ":new_zealand:"
+  - ":flag_new_zealand:"
+"\U0001F1F4\U0001F1F2 Flag: Oman":
+  :url: https://emojipedia.org/flag-oman/
+  :unicode:
+  - U+1F1F4
+  - U+1F1F2
+  :shortcodes:
+  - ":oman:"
+  - ":flag-om:"
+  - ":flag_oman:"
+"\U0001F1F5\U0001F1E6 Flag: Panama":
+  :url: https://emojipedia.org/flag-panama/
+  :unicode:
+  - U+1F1F5
+  - U+1F1E6
+  :shortcodes:
+  - ":panama:"
+  - ":flag-pa:"
+  - ":flag_panama:"
+"\U0001F1F5\U0001F1EA Flag: Peru":
+  :url: https://emojipedia.org/flag-peru/
+  :unicode:
+  - U+1F1F5
+  - U+1F1EA
+  :shortcodes:
+  - ":peru:"
+  - ":flag-pe:"
+  - ":flag_peru:"
+"\U0001F1F5\U0001F1EB Flag: French Polynesia":
+  :url: https://emojipedia.org/flag-french-polynesia/
+  :unicode:
+  - U+1F1F5
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-pf:"
+  - ":french_polynesia:"
+  - ":flag_french_polynesia:"
+"\U0001F1F5\U0001F1EC Flag: Papua New Guinea":
+  :url: https://emojipedia.org/flag-papua-new-guinea/
+  :unicode:
+  - U+1F1F5
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-pg:"
+  - ":papua_new_guinea:"
+  - ":flag_papua_new_guinea:"
+"\U0001F1F5\U0001F1ED Flag: Philippines":
+  :url: https://emojipedia.org/flag-philippines/
+  :unicode:
+  - U+1F1F5
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-ph:"
+  - ":philippines:"
+  - ":flag_philippines:"
+"\U0001F1F5\U0001F1F0 Flag: Pakistan":
+  :url: https://emojipedia.org/flag-pakistan/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-pk:"
+  - ":pakistan:"
+  - ":flag_pakistan:"
+"\U0001F1F5\U0001F1F1 Flag: Poland":
+  :url: https://emojipedia.org/flag-poland/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F1
+  :shortcodes:
+  - ":poland:"
+  - ":flag-pl:"
+  - ":flag_poland:"
+"\U0001F1F5\U0001F1F2 Flag: St. Pierre & Miquelon":
+  :url: https://emojipedia.org/flag-st-pierre-miquelon/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-pm:"
+  - ":st_pierre_miquelon:"
+  - ":flag_st_pierre_miquelon:"
+"\U0001F1F5\U0001F1F3 Flag: Pitcairn Islands":
+  :url: https://emojipedia.org/flag-pitcairn-islands/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-pn:"
+  - ":pitcairn_islands:"
+  - ":flag_pitcairn_islands:"
+"\U0001F1F5\U0001F1F7 Flag: Puerto Rico":
+  :url: https://emojipedia.org/flag-puerto-rico/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F7
+  :shortcodes:
+  - ":flag-pr:"
+  - ":puerto_rico:"
+  - ":flag_puerto_rico:"
+"\U0001F1F5\U0001F1F8 Flag: Palestinian Territories":
+  :url: https://emojipedia.org/flag-palestinian-territories/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-ps:"
+  - ":palestinian_territories:"
+  - ":flag_palestinian_territories:"
+"\U0001F1F5\U0001F1F9 Flag: Portugal":
+  :url: https://emojipedia.org/flag-portugal/
+  :unicode:
+  - U+1F1F5
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-pt:"
+  - ":portugal:"
+  - ":flag_portugal:"
+"\U0001F1F5\U0001F1FC Flag: Palau":
+  :url: https://emojipedia.org/flag-palau/
+  :unicode:
+  - U+1F1F5
+  - U+1F1FC
+  :shortcodes:
+  - ":palau:"
+  - ":flag-pw:"
+  - ":flag_palau:"
+"\U0001F1F5\U0001F1FE Flag: Paraguay":
+  :url: https://emojipedia.org/flag-paraguay/
+  :unicode:
+  - U+1F1F5
+  - U+1F1FE
+  :shortcodes:
+  - ":flag-py:"
+  - ":paraguay:"
+  - ":flag_paraguay:"
+"\U0001F1F6\U0001F1E6 Flag: Qatar":
+  :url: https://emojipedia.org/flag-qatar/
+  :unicode:
+  - U+1F1F6
+  - U+1F1E6
+  :shortcodes:
+  - ":qatar:"
+  - ":flag-qa:"
+  - ":flag_qatar:"
+"\U0001F1F7\U0001F1EA Flag: Réunion":
+  :url: https://emojipedia.org/flag-reunion/
+  :unicode:
+  - U+1F1F7
+  - U+1F1EA
+  :shortcodes:
+  - ":flag-re:"
+  - ":reunion:"
+  - ":flag_reunion:"
+"\U0001F1F7\U0001F1F4 Flag: Romania":
+  :url: https://emojipedia.org/flag-romania/
+  :unicode:
+  - U+1F1F7
+  - U+1F1F4
+  :shortcodes:
+  - ":flag-ro:"
+  - ":romania:"
+  - ":flag_romania:"
+"\U0001F1F7\U0001F1F8 Flag: Serbia":
+  :url: https://emojipedia.org/flag-serbia/
+  :unicode:
+  - U+1F1F7
+  - U+1F1F8
+  :shortcodes:
+  - ":serbia:"
+  - ":flag-rs:"
+  - ":flag_serbia:"
+"\U0001F1F7\U0001F1FA Flag: Russia":
+  :url: https://emojipedia.org/flag-russia/
+  :unicode:
+  - U+1F1F7
+  - U+1F1FA
+  :shortcodes:
+  - ":ru:"
+  - ":flag-ru:"
+  - ":flag_russia:"
+"\U0001F1F7\U0001F1FC Flag: Rwanda":
+  :url: https://emojipedia.org/flag-rwanda/
+  :unicode:
+  - U+1F1F7
+  - U+1F1FC
+  :shortcodes:
+  - ":rwanda:"
+  - ":flag-rw:"
+  - ":flag_rwanda:"
+"\U0001F1F8\U0001F1E6 Flag: Saudi Arabia":
+  :url: https://emojipedia.org/flag-saudi-arabia/
+  :unicode:
+  - U+1F1F8
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-sa:"
+  - ":saudi_arabia:"
+  - ":flag_saudi_arabia:"
+"\U0001F1F8\U0001F1E7 Flag: Solomon Islands":
+  :url: https://emojipedia.org/flag-solomon-islands/
+  :unicode:
+  - U+1F1F8
+  - U+1F1E7
+  :shortcodes:
+  - ":flag-sb:"
+  - ":solomon_islands:"
+  - ":flag_solomon_islands:"
+"\U0001F1F8\U0001F1E8 Flag: Seychelles":
+  :url: https://emojipedia.org/flag-seychelles/
+  :unicode:
+  - U+1F1F8
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-sc:"
+  - ":seychelles:"
+  - ":flag_seychelles:"
+"\U0001F1F8\U0001F1E9 Flag: Sudan":
+  :url: https://emojipedia.org/flag-sudan/
+  :unicode:
+  - U+1F1F8
+  - U+1F1E9
+  :shortcodes:
+  - ":sudan:"
+  - ":flag-sd:"
+  - ":flag_sudan:"
+"\U0001F1F8\U0001F1EA Flag: Sweden":
+  :url: https://emojipedia.org/flag-sweden/
+  :unicode:
+  - U+1F1F8
+  - U+1F1EA
+  :shortcodes:
+  - ":sweden:"
+  - ":flag-se:"
+  - ":flag_sweden:"
+"\U0001F1F8\U0001F1EC Flag: Singapore":
+  :url: https://emojipedia.org/flag-singapore/
+  :unicode:
+  - U+1F1F8
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-sg:"
+  - ":singapore:"
+  - ":flag_singapore:"
+"\U0001F1F8\U0001F1ED Flag: St. Helena":
+  :url: https://emojipedia.org/flag-st-helena/
+  :unicode:
+  - U+1F1F8
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-sh:"
+  - ":st_helena:"
+  - ":flag_st_helena:"
+"\U0001F1F8\U0001F1EE Flag: Slovenia":
+  :url: https://emojipedia.org/flag-slovenia/
+  :unicode:
+  - U+1F1F8
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-si:"
+  - ":slovenia:"
+  - ":flag_slovenia:"
+"\U0001F1F8\U0001F1EF Flag: Svalbard & Jan Mayen":
+  :url: https://emojipedia.org/flag-svalbard-jan-mayen/
+  :unicode:
+  - U+1F1F8
+  - U+1F1EF
+  :shortcodes:
+  - ":flag-sj:"
+  - ":svalbard_jan_mayen:"
+  - ":flag_svalbard_jan_mayen:"
+"\U0001F1F8\U0001F1F0 Flag: Slovakia":
+  :url: https://emojipedia.org/flag-slovakia/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-sk:"
+  - ":slovakia:"
+  - ":flag_slovakia:"
+"\U0001F1F8\U0001F1F1 Flag: Sierra Leone":
+  :url: https://emojipedia.org/flag-sierra-leone/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F1
+  :shortcodes:
+  - ":flag-sl:"
+  - ":sierra_leone:"
+  - ":flag_sierra_leone:"
+"\U0001F1F8\U0001F1F2 Flag: San Marino":
+  :url: https://emojipedia.org/flag-san-marino/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-sm:"
+  - ":san_marino:"
+  - ":flag_san_marino:"
+"\U0001F1F8\U0001F1F3 Flag: Senegal":
+  :url: https://emojipedia.org/flag-senegal/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-sn:"
+  - ":senegal:"
+  - ":flag_senegal:"
+"\U0001F1F8\U0001F1F4 Flag: Somalia":
+  :url: https://emojipedia.org/flag-somalia/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F4
+  :shortcodes:
+  - ":flag-so:"
+  - ":somalia:"
+  - ":flag_somalia:"
+"\U0001F1F8\U0001F1F7 Flag: Suriname":
+  :url: https://emojipedia.org/flag-suriname/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F7
+  :shortcodes:
+  - ":flag-sr:"
+  - ":suriname:"
+  - ":flag_suriname:"
+"\U0001F1F8\U0001F1F8 Flag: South Sudan":
+  :url: https://emojipedia.org/flag-south-sudan/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F8
+  :shortcodes:
+  - ":flag-ss:"
+  - ":south_sudan:"
+  - ":flag_south_sudan:"
+"\U0001F1F8\U0001F1F9 Flag: São Tomé & Príncipe":
+  :url: https://emojipedia.org/flag-sao-tome-principe/
+  :unicode:
+  - U+1F1F8
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-st:"
+  - ":sao_tome_principe:"
+  - ":flag_sao_tome_principe:"
+"\U0001F1F8\U0001F1FB Flag: El Salvador":
+  :url: https://emojipedia.org/flag-el-salvador/
+  :unicode:
+  - U+1F1F8
+  - U+1F1FB
+  :shortcodes:
+  - ":flag-sv:"
+  - ":el_salvador:"
+  - ":flag_el_salvador:"
+"\U0001F1F8\U0001F1FD Flag: Sint Maarten":
+  :url: https://emojipedia.org/flag-sint-maarten/
+  :unicode:
+  - U+1F1F8
+  - U+1F1FD
+  :shortcodes:
+  - ":flag-sx:"
+  - ":sint_maarten:"
+  - ":flag_sint_maarten:"
+"\U0001F1F8\U0001F1FE Flag: Syria":
+  :url: https://emojipedia.org/flag-syria/
+  :unicode:
+  - U+1F1F8
+  - U+1F1FE
+  :shortcodes:
+  - ":syria:"
+  - ":flag-sy:"
+  - ":flag_syria:"
+"\U0001F1F8\U0001F1FF Flag: Eswatini":
+  :url: https://emojipedia.org/flag-eswatini/
+  :unicode:
+  - U+1F1F8
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-sz:"
+  - ":swaziland:"
+  - ":flag_eswatini:"
+"\U0001F1F9\U0001F1E6 Flag: Tristan Da Cunha":
+  :url: https://emojipedia.org/flag-tristan-da-cunha/
+  :unicode:
+  - U+1F1F9
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-ta:"
+  - ":tristan_da_cunha:"
+  - ":flag_tristan_da_cunha:"
+"\U0001F1F9\U0001F1E8 Flag: Turks & Caicos Islands":
+  :url: https://emojipedia.org/flag-turks-caicos-islands/
+  :unicode:
+  - U+1F1F9
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-tc:"
+  - ":turks_caicos_islands:"
+  - ":flag_turks_caicos_islands:"
+"\U0001F1F9\U0001F1E9 Flag: Chad":
+  :url: https://emojipedia.org/flag-chad/
+  :unicode:
+  - U+1F1F9
+  - U+1F1E9
+  :shortcodes:
+  - ":chad:"
+  - ":flag-td:"
+  - ":flag_chad:"
+"\U0001F1F9\U0001F1EB Flag: French Southern Territories":
+  :url: https://emojipedia.org/flag-french-southern-territories/
+  :unicode:
+  - U+1F1F9
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-tf:"
+  - ":french_southern_territories:"
+  - ":flag_french_southern_territories:"
+"\U0001F1F9\U0001F1EC Flag: Togo":
+  :url: https://emojipedia.org/flag-togo/
+  :unicode:
+  - U+1F1F9
+  - U+1F1EC
+  :shortcodes:
+  - ":togo:"
+  - ":flag-tg:"
+  - ":flag_togo:"
+"\U0001F1F9\U0001F1ED Flag: Thailand":
+  :url: https://emojipedia.org/flag-thailand/
+  :unicode:
+  - U+1F1F9
+  - U+1F1ED
+  :shortcodes:
+  - ":flag-th:"
+  - ":thailand:"
+  - ":flag_thailand:"
+"\U0001F1F9\U0001F1EF Flag: Tajikistan":
+  :url: https://emojipedia.org/flag-tajikistan/
+  :unicode:
+  - U+1F1F9
+  - U+1F1EF
+  :shortcodes:
+  - ":flag-tj:"
+  - ":tajikistan:"
+  - ":flag_tajikistan:"
+"\U0001F1F9\U0001F1F0 Flag: Tokelau":
+  :url: https://emojipedia.org/flag-tokelau/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F0
+  :shortcodes:
+  - ":flag-tk:"
+  - ":tokelau:"
+  - ":flag_tokelau:"
+"\U0001F1F9\U0001F1F1 Flag: Timor-Leste":
+  :url: https://emojipedia.org/flag-timor-leste/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F1
+  :shortcodes:
+  - ":flag-tl:"
+  - ":timor_leste:"
+  - ":flag_timor_leste:"
+"\U0001F1F9\U0001F1F2 Flag: Turkmenistan":
+  :url: https://emojipedia.org/flag-turkmenistan/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-tm:"
+  - ":turkmenistan:"
+  - ":flag_turkmenistan:"
+"\U0001F1F9\U0001F1F3 Flag: Tunisia":
+  :url: https://emojipedia.org/flag-tunisia/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-tn:"
+  - ":tunisia:"
+  - ":flag_tunisia:"
+"\U0001F1F9\U0001F1F4 Flag: Tonga":
+  :url: https://emojipedia.org/flag-tonga/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F4
+  :shortcodes:
+  - ":tonga:"
+  - ":flag-to:"
+  - ":flag_tonga:"
+"\U0001F1F9\U0001F1F7 Flag: Turkey":
+  :url: https://emojipedia.org/flag-turkey/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F7
+  :shortcodes:
+  - ":tr:"
+  - ":flag-tr:"
+  - ":flag_turkey:"
+"\U0001F1F9\U0001F1F9 Flag: Trinidad & Tobago":
+  :url: https://emojipedia.org/flag-trinidad-tobago/
+  :unicode:
+  - U+1F1F9
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-tt:"
+  - ":trinidad_tobago:"
+  - ":flag_trinidad_tobago:"
+"\U0001F1F9\U0001F1FB Flag: Tuvalu":
+  :url: https://emojipedia.org/flag-tuvalu/
+  :unicode:
+  - U+1F1F9
+  - U+1F1FB
+  :shortcodes:
+  - ":tuvalu:"
+  - ":flag-tv:"
+  - ":flag_tuvalu:"
+"\U0001F1F9\U0001F1FC Flag: Taiwan":
+  :url: https://emojipedia.org/flag-taiwan/
+  :unicode:
+  - U+1F1F9
+  - U+1F1FC
+  :shortcodes:
+  - ":taiwan:"
+  - ":flag-tw:"
+  - ":flag_taiwan:"
+"\U0001F1F9\U0001F1FF Flag: Tanzania":
+  :url: https://emojipedia.org/flag-tanzania/
+  :unicode:
+  - U+1F1F9
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-tz:"
+  - ":tanzania:"
+  - ":flag_tanzania:"
+"\U0001F1FA\U0001F1E6 Flag: Ukraine":
+  :url: https://emojipedia.org/flag-ukraine/
+  :unicode:
+  - U+1F1FA
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-ua:"
+  - ":ukraine:"
+  - ":flag_ukraine:"
+"\U0001F1FA\U0001F1EC Flag: Uganda":
+  :url: https://emojipedia.org/flag-uganda/
+  :unicode:
+  - U+1F1FA
+  - U+1F1EC
+  :shortcodes:
+  - ":uganda:"
+  - ":flag-ug:"
+  - ":flag_uganda:"
+"\U0001F1FA\U0001F1F2 Flag: U.S. Outlying Islands":
+  :url: https://emojipedia.org/flag-us-outlying-islands/
+  :unicode:
+  - U+1F1FA
+  - U+1F1F2
+  :shortcodes:
+  - ":flag-um:"
+  - ":us_outlying_islands:"
+  - ":flag_u_s_outlying_islands:"
+"\U0001F1FA\U0001F1F3 Flag: United Nations":
+  :url: https://emojipedia.org/flag-united-nations/
+  :unicode:
+  - U+1F1FA
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-un:"
+  - ":united_nations:"
+  - ":flag_united_nations:"
+"\U0001F1FA\U0001F1F8 Flag: United States":
+  :url: https://emojipedia.org/flag-united-states/
+  :unicode:
+  - U+1F1FA
+  - U+1F1F8
+  :shortcodes:
+  - ":us:"
+  - ":flag-us:"
+  - ":flag_united_states:"
+"\U0001F1FA\U0001F1FE Flag: Uruguay":
+  :url: https://emojipedia.org/flag-uruguay/
+  :unicode:
+  - U+1F1FA
+  - U+1F1FE
+  :shortcodes:
+  - ":flag-uy:"
+  - ":uruguay:"
+  - ":flag_uruguay:"
+"\U0001F1FA\U0001F1FF Flag: Uzbekistan":
+  :url: https://emojipedia.org/flag-uzbekistan/
+  :unicode:
+  - U+1F1FA
+  - U+1F1FF
+  :shortcodes:
+  - ":flag-uz:"
+  - ":uzbekistan:"
+  - ":flag_uzbekistan:"
+"\U0001F1FB\U0001F1E6 Flag: Vatican City":
+  :url: https://emojipedia.org/flag-vatican-city/
+  :unicode:
+  - U+1F1FB
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-va:"
+  - ":vatican_city:"
+  - ":flag_vatican_city:"
+"\U0001F1FB\U0001F1E8 Flag: St. Vincent & Grenadines":
+  :url: https://emojipedia.org/flag-st-vincent-grenadines/
+  :unicode:
+  - U+1F1FB
+  - U+1F1E8
+  :shortcodes:
+  - ":flag-vc:"
+  - ":st_vincent_grenadines:"
+  - ":flag_st_vincent_grenadines:"
+"\U0001F1FB\U0001F1EA Flag: Venezuela":
+  :url: https://emojipedia.org/flag-venezuela/
+  :unicode:
+  - U+1F1FB
+  - U+1F1EA
+  :shortcodes:
+  - ":flag-ve:"
+  - ":venezuela:"
+  - ":flag_venezuela:"
+"\U0001F1FB\U0001F1EC Flag: British Virgin Islands":
+  :url: https://emojipedia.org/flag-british-virgin-islands/
+  :unicode:
+  - U+1F1FB
+  - U+1F1EC
+  :shortcodes:
+  - ":flag-vg:"
+  - ":british_virgin_islands:"
+  - ":flag_british_virgin_islands:"
+"\U0001F1FB\U0001F1EE Flag: U.S. Virgin Islands":
+  :url: https://emojipedia.org/flag-us-virgin-islands/
+  :unicode:
+  - U+1F1FB
+  - U+1F1EE
+  :shortcodes:
+  - ":flag-vi:"
+  - ":us_virgin_islands:"
+  - ":flag_u_s_virgin_islands:"
+"\U0001F1FB\U0001F1F3 Flag: Vietnam":
+  :url: https://emojipedia.org/flag-vietnam/
+  :unicode:
+  - U+1F1FB
+  - U+1F1F3
+  :shortcodes:
+  - ":flag-vn:"
+  - ":vietnam:"
+  - ":flag_vietnam:"
+"\U0001F1FB\U0001F1FA Flag: Vanuatu":
+  :url: https://emojipedia.org/flag-vanuatu/
+  :unicode:
+  - U+1F1FB
+  - U+1F1FA
+  :shortcodes:
+  - ":flag-vu:"
+  - ":vanuatu:"
+  - ":flag_vanuatu:"
+"\U0001F1FC\U0001F1EB Flag: Wallis & Futuna":
+  :url: https://emojipedia.org/flag-wallis-futuna/
+  :unicode:
+  - U+1F1FC
+  - U+1F1EB
+  :shortcodes:
+  - ":flag-wf:"
+  - ":wallis_futuna:"
+  - ":flag_wallis_futuna:"
+"\U0001F1FC\U0001F1F8 Flag: Samoa":
+  :url: https://emojipedia.org/flag-samoa/
+  :unicode:
+  - U+1F1FC
+  - U+1F1F8
+  :shortcodes:
+  - ":samoa:"
+  - ":flag-ws:"
+  - ":flag_samoa:"
+"\U0001F1FD\U0001F1F0 Flag: Kosovo":
+  :url: https://emojipedia.org/flag-kosovo/
+  :unicode:
+  - U+1F1FD
+  - U+1F1F0
+  :shortcodes:
+  - ":kosovo:"
+  - ":flag-xk:"
+  - ":flag_kosovo:"
+"\U0001F1FE\U0001F1EA Flag: Yemen":
+  :url: https://emojipedia.org/flag-yemen/
+  :unicode:
+  - U+1F1FE
+  - U+1F1EA
+  :shortcodes:
+  - ":yemen:"
+  - ":flag-ye:"
+  - ":flag_yemen:"
+"\U0001F1FE\U0001F1F9 Flag: Mayotte":
+  :url: https://emojipedia.org/flag-mayotte/
+  :unicode:
+  - U+1F1FE
+  - U+1F1F9
+  :shortcodes:
+  - ":flag-yt:"
+  - ":mayotte:"
+  - ":flag_mayotte:"
+"\U0001F1FF\U0001F1E6 Flag: South Africa":
+  :url: https://emojipedia.org/flag-south-africa/
+  :unicode:
+  - U+1F1FF
+  - U+1F1E6
+  :shortcodes:
+  - ":flag-za:"
+  - ":south_africa:"
+  - ":flag_south_africa:"
+"\U0001F1FF\U0001F1F2 Flag: Zambia":
+  :url: https://emojipedia.org/flag-zambia/
+  :unicode:
+  - U+1F1FF
+  - U+1F1F2
+  :shortcodes:
+  - ":zambia:"
+  - ":flag-zm:"
+  - ":flag_zambia:"
+"\U0001F1FF\U0001F1FC Flag: Zimbabwe":
+  :url: https://emojipedia.org/flag-zimbabwe/
+  :unicode:
+  - U+1F1FF
+  - U+1F1FC
+  :shortcodes:
+  - ":flag-zw:"
+  - ":zimbabwe:"
+  - ":flag_zimbabwe:"
+"\U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F Flag: England":
+  :url: https://emojipedia.org/flag-england/
+  :unicode:
+  - U+1F3F4
+  - U+E0067
+  - U+E0062
+  - U+E0065
+  - U+E006E
+  - U+E0067
+  - U+E007F
+  :shortcodes:
+  - ":england:"
+  - ":flag_england:"
+  - ":flag-england:"
+"\U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F Flag: Scotland":
+  :url: https://emojipedia.org/flag-scotland/
+  :unicode:
+  - U+1F3F4
+  - U+E0067
+  - U+E0062
+  - U+E0073
+  - U+E0063
+  - U+E0074
+  - U+E007F
+  :shortcodes:
+  - ":scotland:"
+  - ":flag_scotland:"
+  - ":flag-scotland:"
+"\U0001F3F4\U000E0067\U000E0062\U000E0077\U000E006C\U000E0073\U000E007F Flag: Wales":
+  :url: https://emojipedia.org/flag-wales/
+  :unicode:
+  - U+1F3F4
+  - U+E0067
+  - U+E0062
+  - U+E0077
+  - U+E006C
+  - U+E0073
+  - U+E007F
+  :shortcodes:
+  - ":wales:"
+  - ":flag_wales:"
+  - ":flag-wales:"
+"\U0001F3F4\U000E0075\U000E0073\U000E0074\U000E0078\U000E007F Flag for Texas (US-TX)":
+  :url: https://emojipedia.org/flag-for-texas-ustx/
+  :unicode:
+  - U+1F3F4
+  - U+E0075
+  - U+E0073
+  - U+E0074
+  - U+E0078
+  - U+E007F
+  :shortcodes: []
