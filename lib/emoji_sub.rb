@@ -20,11 +20,9 @@ module EmojiSub
   end
 
   def emoji_definitions
-    m = YAML.load(File.read(EMOJI_MAPPING_YAML)).values
-    @emoji_definitions ||= m.inject({}) { |a,memo| memo.merge(a) }
-    
-    #@emoji_definitions ||= m.collect(&:values).flatten
+    @emoji_definitions ||= YAML.load(File.read(EMOJI_MAPPING_YAML))
   end
+
   module_function :emoji_sub, :emoji_definitions
 
 end

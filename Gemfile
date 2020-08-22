@@ -11,3 +11,5 @@ gem 'mechanize'
 
 # For testing with mechanize. The @chrisk fork updates it
 gem 'fakeweb', git: 'https://github.com/chrisk/fakeweb.git' 
+gem 'pry'
+gem 'binding_of_caller'

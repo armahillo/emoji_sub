@@ -1,6 +1,6 @@
 require 'yaml'
 require 'pry'
-require 'binding_of_caller'
+require 'binding_of_caller' 
 
 module EmojiYamlParsr
   EMOJI_SPEC_DIR = "lib/development/data/emoji_spec"
@@ -35,8 +35,12 @@ module EmojiYamlParsr
     target = File.join('data','emoji.yaml')
     data = load_all_yamls_from_spec(version)
     data["custom definitions"] = YAML.load(File.read(CUSTOM_DEFINITIONS))
+    
+    final_flat_hash = data.values.inject({}) do |memo,a| 
+      memo.merge(a) 
+    end
     File.open(target, 'w') do |f|
-      f.write data.to_yaml
+      f.write final_flat_hash.to_yaml
     end
   end
 
@@ -51,4 +55,3 @@ end
 
 
 #EmojiYamlParsr.spec_to_yaml()
-EmojiYamlParsr.update_data
