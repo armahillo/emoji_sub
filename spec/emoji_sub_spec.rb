@@ -46,5 +46,13 @@ RSpec.describe EmojiSub do
         end
       end
     end
+
+    context "when a shortcode returns multiple emoji" do
+      let(:text) { ':rainbow-flag: Proud Boys! :rainbow-flag:' }
+
+      it "combines them together" do
+        expect(subject).to eq("&#x1F3F3&#xFE0F&#x200D&#x1F308 Proud Boys! &#x1F3F3&#xFE0F&#x200D&#x1F308")
+      end
+    end
   end
 end
