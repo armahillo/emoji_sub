@@ -38,14 +38,24 @@ text = "I :heart: New York :statue_of_liberty: :pizza: :pigeon:"
 better_text = EmojiSub.emoji_sub(text, additional_emoji)
 ```
 
+You can also include the monkey-patch for it so that you can call `.emoji_sub` directly on a string. To enable this behavior, add this somewhere in your scripts bootstrap (it just needs to be run before other it's used)
+
+```ruby
+  String.prepend CoreExtensions::EmojiSub::String
+```
+
+### Using Custom Mappings / Overrides
+
 You can even, even override the mappings I did with your own! If your expert-moji opinion says that `:smiley_cat:` should be &#x1F638; and `:smile_cat:` should be &#x1F63A; who am I to disagree? They're very different, clearly, and obviously the "-y" on the end of "smile-y" means that the cat should have eyes that are more smiley. Very reasonable and I completely understand! YES I'M FINE WHY DO YOU ASK?
 
 In all seriousness, one big reason I could see wanting to do overrides is because emoji shortcodes in Slack are often quite gendered, such as :man_bouncing_ball: => &#x26F9; and you'd like to use :woman_bouncing_ball: (&#x26F9;), which doesn't exist in the current YML mapping because GOOD GOB THERE ARE SO MANY AND I AM BUT ONE PERSON.
 
-Currently, the emoji are also a single skin-tone. I'm still learning how to combine emoji to do skin-tone modifiers, but when I do, you would also use the overrides thing to do that, as well! If you're an e-moji e-xpert and can help out with this, please do!
-
 Other reasons to override might be because you prefer a specific version of `:airplane:` to be mapped to `:airplane:` instead of &#x2708;, and at the end of the day, this is about making it more convenient for you.
 
+
+### Skin-tone variants
+
+Currently, the emoji are also a single skin-tone. I'm still learning how to combine emoji to do skin-tone modifiers, but when I do, you would also use the overrides thing to do that, as well! If you're an e-moji e-xpert and can help out with this, please do!
 
 ## Development
 

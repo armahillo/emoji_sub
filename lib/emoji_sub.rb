@@ -24,5 +24,4 @@ module EmojiSub
   end
 
   module_function :emoji_sub, :emoji_definitions
-
 end

@@ -1,5 +1,7 @@
 require "bundler/setup"
 require "emoji_sub"
+require 'pry'
+require 'binding_of_caller'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

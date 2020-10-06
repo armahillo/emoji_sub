@@ -6,6 +6,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 N.B. until it hits 1.0 do not make any expectations about API consistency! (SemVer says it's OK so nyah!)
 
+## [0.3.0] - 2020-10-05
+
+- Adds monkey-patch to allow String to call `:emoji_sub` directly
+
 ## [0.2.2] - 2020-08-22
 
 - Some reorganization of files, and cleanup
@@ -42,6 +46,8 @@ emoji HTML entities (hex-unicode) for slack shortcut format (:this_kind:)
 - data/emoji.yml file, 
 - Specs covering basic funcitonality
 
+[0.3.0]: https://github.com/armahillo/emoji_sub/compare/v0.2.2...v0.3.0
+[0.2.2]: https://github.com/armahillo/emoji_sub/compare/v0.2.1...v0.2.2
 [0.2.1]: https://github.com/armahillo/emoji_sub/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/armahillo/emoji_sub/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/armahillo/emoji_sub/releases/tag/v0.1.0
