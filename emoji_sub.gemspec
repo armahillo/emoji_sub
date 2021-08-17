@@ -1,4 +1,4 @@
-require_relative 'lib/emoji_sub/version'
+require_relative 'lib/emoji_sub'
 
 Gem::Specification.new do |spec|
   spec.name          = "emoji_sub"
@@ -21,8 +21,8 @@ Gem::Specification.new do |spec|
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
     `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(spec|lib\/development)/}) }
   end
-  spec.bindir        = "exe"
-  spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
 end
+
+

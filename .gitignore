@@ -7,6 +7,9 @@
 /spec/reports/
 /tmp/
 
+# Don't include the gem
+*.gem
+
 # local backups
 *.bak
 
