@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-Currently, it's limited to direct calling (I've not monkey-patched `String`...yet). So if you had a body of text, like "I :heart: New York :statue_of_liberty: :pizza: :dancer:" and wanted it to look like this: 
+So if you had a body of text, like "I :heart: New York :statue_of_liberty: :pizza: :dancer:" and wanted it to look like this: 
 "I &#x2764; New York &#x1F5FD; &#x1F355; &#x1F483;", you would do this:
 
 ```ruby
@@ -55,7 +55,9 @@ Other reasons to override might be because you prefer a specific version of `:ai
 
 ### Skin-tone variants
 
-Currently, the emoji are also a single skin-tone. I'm still learning how to combine emoji to do skin-tone modifiers, but when I do, you would also use the overrides thing to do that, as well! If you're an e-moji e-xpert and can help out with this, please do!
+Combining multiple codepoints into a single emoji (needed for things like skin-tone modifiers and flags) is supported — a shortcode's mapping can be an array of unicode values, and they'll be joined together in the output (e.g. `:rainbow-flag:` combines a base flag, `FE0F`, a zero-width-joiner, and the rainbow).
+
+What's not yet built is a *default* skin-tone: emoji are still mapped to a single tone (usually the default yellow/no-modifier version) out of the box. If you want a specific tone applied automatically, use the overrides mechanism above to supply your own array-valued mapping. If you're an e-moji e-xpert and want to help build in proper default-tone support, please do!
 
 ## Development
 

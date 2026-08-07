@@ -1,0 +1,1 @@
+- **Default skin-tone support**: `emoji_sub` already combines multi-codepoint arrays correctly (see README "Skin-tone variants"), but there's no built-in way to default a skin-tone modifier onto tone-agnostic emoji short of manually supplying an override array per shortcode. Worth a documented convention or helper.

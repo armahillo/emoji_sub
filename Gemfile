@@ -7,7 +7,8 @@ gem "rake", "~> 12.0"
 gem "rspec", "~> 3.0"
 
 # For EmojiScrapr
-gem 'mechanize' 
+gem 'mechanize'
+gem 'webrick' # no longer a default gem as of Ruby 3.0; mechanize expects it present
 
 # For testing with mechanize. The @chrisk fork updates it
 gem 'fakeweb', git: 'https://github.com/chrisk/fakeweb.git' 

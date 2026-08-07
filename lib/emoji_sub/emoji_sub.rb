@@ -9,7 +9,7 @@ module EmojiSub
     end.compact
 
     found.each do |shortcode, unicode|
-      text.gsub!(/:#{shortcode}:/, Array(unicode).map { |u| "&#x#{u}" }.join(''))
+      text.gsub!(/:#{shortcode}:/, Array(unicode).map { |u| "&#x#{u};" }.join(''))
     end
     
     text
